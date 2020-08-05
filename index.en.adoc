@@ -1,4 +1,4 @@
-= Guidance for private companies to become data publishers through GBIF: Template document to support the internal authorization process to become a GBIF publisher
+= Guidance for private companies to become data publishers through GBIF
 Rui Figueira, Pedro Beja, Cristina Villaverde, Miguel Vega, Katia Cezón, Tainan Messina, Anne-Sophie Archambeau, Rukaya Johaadien, Dag Endresen & Dairo Escobar
 :toc: left
 :toclevels: 3
