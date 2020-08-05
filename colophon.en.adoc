@@ -11,11 +11,7 @@ Figueira R, Beja P, Villaverde C, Vega M, Cezón K, Messina T, Archambeau A, Joh
 
 === Authors
 
-Rui Figueira, Pedro Beja, Cristina Villaverde, Miguel Vega, Katia Cezón, Tainan Messina, Anne-Sophie Archambeau, Rukaya Johaadien, Dag Endresen & Dairo Escobar
-
-=== Contributors
-
-James Joyce & Samuel Beckett of Trinity College, Dublin, contributed to this version of the document.
+https://orcid.org/0000-0002-8351-4028[Rui Figueira], https://orcid.org/0000-0001-8164-0760[Pedro Beja], https://orcid.org/0000-0001-9244-399X[Cristina Villaverde], Miguel Vega, https://orcid.org/0000-0003-3077-6136[Katia Cezón], https://orcid.org/0000-0002-2629-222X[Tainan Messina], https://orcid.org/0000-0001-6902-1465[Anne-Sophie Archambeau], https://orcid.org/0000-0002-2857-2276[Rukaya Johaadien], https://orcid.org/0000-0002-2352-5497[Dag Endresen] & https://orcid.org/0000-0001-8327-8670[Dairo Escobar]
 
 === Licence
 
@@ -33,10 +29,8 @@ This document is also available in https://#[Spanish], https://#[French] and htt
 
 === Abstract
 
-This document is a contribution to the https://www.gbif.org/en/project/2Zik1tfJoh3C92ZslvhDIr/[OpenPSD project: Promoting publication and use of private-sector data on biodiversity^], a joint creation of the GBIF nodes of https://#[Spain], https://#[Portugal], https://#[Norway], https://#[France] and https://#[Colombia] and the companies https://#[EDP], https://#[CIBIO] and https://#[Asplan Viak], and co-funded by the GBIF Secretariat through its https://www.gbif.org/programme/82219/[Capacity Enhancement Support Programme^].
-
+This document is a contribution to the https://www.gbif.org/en/project/2Zik1tfJoh3C92ZslvhDIr/[OpenPSD project: Promoting publication and use of private-sector data on biodiversity^], a joint creation of the GBIF nodes of https://www.gbif.org/country/ES/participation[Spain], https://www.gbif.org/country/PT/participation[Portugal], https://www.gbif.org/country/NO/participation[Norway], https://www.gbif.org/country/FR/participation[France] and https://www.gbif.org/country/CO/participation[Colombia] and the companies https://www.edp.com/en[EDP], https://cibio.up.pt/[CIBIO] and https://www.asplanviak.no/[Asplan Viak], and co-funded by the GBIF Secretariat through its https://www.gbif.org/programme/82219/[Capacity Enhancement Support Programme^].
 
 === Cover image
 
-// Caption. Credit, source, licence.
-Western honey bee (_Apis mellifera_), Hardy County, Florida, United States. Photo 2018 thebugroomno2 via https://www.gbif.org/occurrence/1945467387[iNaturalist research-grade observations], licensed under http://creativecommons.org/licenses/by-nc/4.0/[CC BY-NC 4.0].
+Sea fig (_Carpobrotus edulis_), Aljezur, Portugal. Photo 2020 sheborg via https://www.gbif.org/occurrence/2557795082[iNaturalist research-grade observations], licensed under http://creativecommons.org/licenses/by-nc/4.0/[CC BY-NC 4.0].
