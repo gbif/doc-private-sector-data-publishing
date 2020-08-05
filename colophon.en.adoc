@@ -11,7 +11,7 @@ Figueira R, Beja P, Villaverde C, Vega M, Cezón K, Messina T, Archambeau A, Joh
 
 === Authors
 
-Rui Figueira, P Beja, Cristina Villaverde, Miguel Vega, Katia Cezón, Tainan Messina, Anne-sophie Archambeau, R. Johaadien, Dag Endresen & Dairo Escobar
+Rui Figueira, P Beja, Cristina Villaverde, Miguel Vega, Katia Cezón, Tainan Messina, Anne-Sophie Archambeau, R. Johaadien, Dag Endresen & Dairo Escobar
 
 === Contributors
 
@@ -19,7 +19,7 @@ James Joyce & Samuel Beckett of Trinity College, Dublin, contributed to this ver
 
 === Licence
 
-The document _Guidance for private companies to become data publishers through GBIF_ is licensed under https://creativecommons.org/licenses/by-sa/4.0[Creative Commons Attribution-ShareAlike 4.0 Unported License].
+The document _Guidance for private companies to become data publishers through GBIF_ is licensed under https://creativecommons.org/licenses/by-sa/4.0[Creative Commons Attribution-ShareAlike 4.0 Unported License^].
 
 === Persistent URI
 
@@ -29,7 +29,12 @@ https://doi.org/10.35035/doc-b8hq-me03
 
 Version 2.0, June 2020
 
-This document is also available in https://#[Spanish], https://#[French] and https://#[Portuguese]. 
+This document is also available in https://#[Spanish], https://#[French] and https://#[Portuguese].
+
+=== Abstract
+
+This document is a contribution to the https://www.gbif.org/en/project/2Zik1tfJoh3C92ZslvhDIr/[OpenPSD project: Promoting publication and use of private-sector data on biodiversity^], a joint creation of the GBIF nodes of https://#[Spain], https://#[Portugal], https://#[Norway], https://#[France] and https://#[Colombia] and the companies https://#[EDP], https://#[CIBIO] and https://#[Asplan Viak], and co-funded by the GBIF Secretariat through its https://www.gbif.org/programme/82219/[Capacity Enhancement Support Programme^].
+
 
 === Cover image
 
