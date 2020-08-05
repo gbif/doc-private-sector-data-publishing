@@ -1,5 +1,5 @@
-= GBIF Document Template
-Author One <communication@gbif.org>; Author Two
+= Guidance for private companies to become data publishers through GBIF: Template document to support the internal authorization process to become a GBIF publisher
+Rui Figueira, Pedro Beja, Cristina Villaverde, Miguel Vega, Katia Cezón, Tainan Messina, Anne-Sophie Archambeau, Rukaya Johaadien, Dag Endresen & Dairo Escobar
 :toc: left
 :toclevels: 3
 :numbered:
@@ -16,8 +16,6 @@ endif::backend-html5[]
 
 include::colophon.en.adoc[]
 
-include::preface.en.adoc[]
-
 :sectnums:
 
 include::100.en.adoc[]
@@ -25,11 +23,5 @@ include::100.en.adoc[]
 include::200.en.adoc[]
 
 :sectnums!:
-
-include::afterword.en.adoc[]
-
-include::appa.en.adoc[]
-
-include::glossary.en.adoc[]
 
 include::bibliography.en.adoc[]
