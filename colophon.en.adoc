@@ -11,7 +11,7 @@ Figueira R, Beja P, Villaverde C, Vega M, Cezón K, Messina T, Archambeau A, Joh
 
 === Authors
 
-Rui Figueira, P Beja, Cristina Villaverde, Miguel Vega, Katia Cezón, Tainan Messina, Anne-Sophie Archambeau, R. Johaadien, Dag Endresen & Dairo Escobar
+Rui Figueira, Pedro Beja, Cristina Villaverde, Miguel Vega, Katia Cezón, Tainan Messina, Anne-Sophie Archambeau, Rukaya Johaadien, Dag Endresen & Dairo Escobar
 
 === Contributors
 
