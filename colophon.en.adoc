@@ -7,28 +7,29 @@ endif::backend-html5[]
 
 === Suggested citation
 
-Author U, Autore D & Auteur T. The special guide to something. Third edition. GBIF Secretariat: Copenhagen. https://doi.org/10.15468/doc-xxxx-xxxx.
+Figueira R, Beja P, Villaverde C, Vega M, Cezón K, Messina T, Archambeau A, Johaadien R, Endresen D & Escobar D (2020) Guidance for private companies to become data publishers through GBIF: Template document to support the internal authorization process to become a GBIF publisher. Copenhagen: GBIF Secretariat. https://doi.org/10.35035/doc-b8hq-me03
 
-== Contributors
+=== Authors
 
-James Joyce and Samuel Beckett of Trinity College, Dublin, contributed to this version of the document.
+Rui Figueira, P Beja, Cristina Villaverde, Miguel Vega, Katia Cezón, Tainan Messina, Anne-sophie Archambeau, R. Johaadien, Dag Endresen & Dairo Escobar
+
+=== Contributors
+
+James Joyce & Samuel Beckett of Trinity College, Dublin, contributed to this version of the document.
 
 === Licence
 
-The document _Georeferencing Calculator Manual_ is licensed under https://creativecommons.org/licenses/by-sa/4.0[Creative Commons Attribution-ShareAlike 4.0 Unported License].
+The document _Guidance for private companies to become data publishers through GBIF_ is licensed under https://creativecommons.org/licenses/by-sa/4.0[Creative Commons Attribution-ShareAlike 4.0 Unported License].
 
 === Persistent URI
 
-https://doi.org/10.15468/doc-xxxx-xxxx
+https://doi.org/10.35035/doc-b8hq-me03
 
 === Document control
 
-Third edition, April 2019
+Version 2.0, June 2020
 
-// include reference to provenance if possible/relevant
-https://doi.org/10.15468/doc-yyyy-yyyy[Second edition], March 2015, by Due Autore and https://orcid.org/0000-0000-0000-0000[Tercio Auteur].
-
-Originally based on an earlier publication, _Towards establishing the special guide to something_.
+This document is also available in https://#[Spanish], https://#[French] and https://#[Portuguese]. 
 
 === Cover image
 
