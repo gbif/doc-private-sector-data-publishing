@@ -38,7 +38,7 @@ To date, GBIF includes 47,478 datasets on its portal published by https://www.gb
 
 [caption="Table 1. "]
 .Private-sector companies that publish their data through GBIF (as of 23 March 2020)
-[cols="28,12,12,>16,>16,>16"]
+[cols="30,12,12,>14,>18,>14"]
 |===
 | Company | Activity sector | Country | Datasets | Occurrence records | Data citations
 
