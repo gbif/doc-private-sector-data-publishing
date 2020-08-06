@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2020-08-06 08:27+0000\n"
+"POT-Creation-Date: 2020-08-06 08:28+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -473,9 +473,10 @@ msgid ""
 "GBIF^]. Table 1 lists the most significant private sector publishers."
 msgstr ""
 
-#. type: Plain text
-#: 200.en.adoc:40
-msgid "[caption=\"Table 1. \""
+#. type: Named 'caption' AttributeList argument for style 'caption'
+#: 200.en.adoc:39
+#, no-wrap
+msgid "Table 1. "
 msgstr ""
 
 #. type: Block title
