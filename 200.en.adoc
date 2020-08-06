@@ -38,9 +38,9 @@ To date, GBIF includes 47,478 datasets on its portal published by https://www.gb
 
 [caption="Table 1. "]
 .Private-sector companies that publish their data through GBIF (as of 23 March 2020)
-[cols="31,12,12,>15,>15,>15"]
+[cols="28,12,12,>16,>16,>16"]
 |===
-| Company | Activity sector | Country | Number of datasets | Records Published | Data citations
+| Company | Activity sector | Country | Datasets | Occurrence records | Data citations
 
 | https://www.gbif.org/publisher/eea64f26-8fd5-49fb-be7e-a1d4cfc051ee[Aïgos SAS^] | Consulting | Colombia | 3 | 2,404 | 
 
