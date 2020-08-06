@@ -13,3 +13,7 @@ _This is information *about* this document's source code.  It is not part of the
 The document is available as HTML and PDF at https://docs.gbif-uat.org/private-sector-data-publishing/2.0/[Private Sector Data Publishing].
 
 The document is built using AsciiDoc, for guidance on how to make changes or suggestions see the https://docs.gbif.org/documentation-guidelines/[GBIF Documentation Guidelines].
+
+== Translations
+
+Translations of this document change the text according to the language *and country*, so rather than using the translation code “es” we use “es-ES”, and so on.  The “en” version is the base version, in the future an “en-AU” (etc.) could be added.
