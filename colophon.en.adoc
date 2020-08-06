@@ -25,7 +25,7 @@ https://doi.org/10.35035/doc-b8hq-me03
 
 Version 2.0, June 2020
 
-This document is also available in https://#[Spanish], https://#[French] and https://#[Portuguese].
+This document is also available in https://#[Spanish], https://#[Colombian Spanish], https://#[French] and https://#[Portuguese].
 
 === Abstract
 
