@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2020-08-05 15:25+0000\n"
+"POT-Creation-Date: 2020-08-06 07:58+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -123,8 +123,8 @@ msgstr ""
 #. type: Plain text
 #: colophon.en.adoc:29
 msgid ""
-"This document is also available in https://#[Spanish], https://#[French] and "
-"https://#[Portuguese]."
+"This document is also available in https://#[Spanish], https://#[Colombian "
+"Spanish], https://#[French] and https://#[Portuguese]."
 msgstr ""
 
 #. type: Title ===
