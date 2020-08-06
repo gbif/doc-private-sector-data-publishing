@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2020-08-06 08:31+0000\n"
+"POT-Creation-Date: 2020-08-06 08:34+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -488,7 +488,7 @@ msgid ""
 msgstr ""
 
 #. type: Table
-#: 200.en.adoc:98
+#: 200.en.adoc:97
 #, no-wrap
 msgid ""
 "| Company | Activity sector | Country | Number of datasets | Records "
@@ -592,13 +592,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: 200.en.adoc:100
+#: 200.en.adoc:99
 #, no-wrap
 msgid "What data could the company publish through GBIF?"
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:103
+#: 200.en.adoc:102
 msgid ""
 "Companies that carry out environmental impact assessments, impact monitoring "
 "and compensatory measures studies, thereby collect species occurrence and "
@@ -623,13 +623,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: 200.en.adoc:104
+#: 200.en.adoc:103
 #, no-wrap
 msgid "What does it take for a company to be a data publisher to GBIF?"
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:107
+#: 200.en.adoc:106
 msgid ""
 "The decision to become a publisher of biodiversity data at GBIF would first "
 "come with a decision by the `*company*` management bodies. After that, it is "
@@ -638,7 +638,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:109
+#: 200.en.adoc:108
 msgid ""
 "To guarantee institutional arrangements to ensure that all parties involved "
 "in the process, from management to the partners from information production, "
@@ -646,7 +646,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:110
+#: 200.en.adoc:109
 msgid ""
 "To acknowledge and agree to the "
 "https://www.gbif.org/terms/data-publisher[Data Publisher Agreement^] (the "
@@ -654,14 +654,14 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:111
+#: 200.en.adoc:110
 msgid ""
 "To be aware of the https://www.gbif.org/terms/data-user[Data User "
 "Agreement^], that GBIF data users must agree before using them"
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:112
+#: 200.en.adoc:111
 msgid ""
 "To apply for the institution to register with GBIF as a data publisher and "
 "request the endorsement of the national node. Application for registration "
@@ -670,13 +670,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: 200.en.adoc:113
+#: 200.en.adoc:112
 #, no-wrap
 msgid "Involvement of different parties in the publication process"
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:116
+#: 200.en.adoc:115
 msgid ""
 "Depending on the size of the projects that originated the datasets, it is "
 "possible that the company’s biodiversity data was obtained by hiring other "
@@ -695,20 +695,20 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: 200.en.adoc:117
+#: 200.en.adoc:116
 #, no-wrap
 msgid "How could the proof of concept be developed?"
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:120
+#: 200.en.adoc:119
 msgid ""
 "The proof of concept regarding data publication in GBIF could be developed "
 "involving the following steps:"
 msgstr ""
 
 #. type: Block title
-#: 200.en.adoc:121
+#: 200.en.adoc:120
 #, no-wrap
 msgid ""
 "Development of the company's internal processes leading to the decision to "
@@ -716,13 +716,13 @@ msgid ""
 msgstr ""
 
 #. type: Block title
-#: 200.en.adoc:122
+#: 200.en.adoc:121
 #, no-wrap
 msgid "Application for the company’s  registration in GBIF as a data publisher."
 msgstr ""
 
 #. type: Block title
-#: 200.en.adoc:123
+#: 200.en.adoc:122
 #, no-wrap
 msgid ""
 "To build a case study on the company's involvement as a data publisher with "
@@ -732,7 +732,7 @@ msgid ""
 msgstr ""
 
 #. type: Block title
-#: 200.en.adoc:124
+#: 200.en.adoc:123
 #, no-wrap
 msgid ""
 "Selection of an initial dataset to be published through GBIF, resulting from "
@@ -743,7 +743,7 @@ msgid ""
 msgstr ""
 
 #. type: Block title
-#: 200.en.adoc:125
+#: 200.en.adoc:124
 #, no-wrap
 msgid ""
 "Definition of information type to be published and any restrictions on its "
@@ -754,7 +754,7 @@ msgid ""
 msgstr ""
 
 #. type: Block title
-#: 200.en.adoc:126
+#: 200.en.adoc:125
 #, no-wrap
 msgid ""
 "Establishment of agreements with data producers (i.e. the institutions and "
@@ -763,7 +763,7 @@ msgid ""
 msgstr ""
 
 #. type: Block title
-#: 200.en.adoc:127
+#: 200.en.adoc:126
 #, no-wrap
 msgid ""
 "Formatting of data to be published according to the Darwin Core standard "
@@ -771,7 +771,7 @@ msgid ""
 msgstr ""
 
 #. type: Block title
-#: 200.en.adoc:128
+#: 200.en.adoc:127
 #, no-wrap
 msgid ""
 "Selection of a http://www.gbif.org/terms/licences[Creative Commons licence^] "
@@ -781,7 +781,7 @@ msgid ""
 msgstr ""
 
 #. type: Block title
-#: 200.en.adoc:129
+#: 200.en.adoc:128
 #, no-wrap
 msgid ""
 "Publishing data and metadata for each dataset to the GBIF "
@@ -795,7 +795,7 @@ msgid ""
 msgstr ""
 
 #. type: Block title
-#: 200.en.adoc:130
+#: 200.en.adoc:129
 #, no-wrap
 msgid ""
 "Monitoring the use of published data for a period of one year after its "
@@ -807,13 +807,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: 200.en.adoc:132
+#: 200.en.adoc:131
 #, no-wrap
 msgid "What are the costs for `*company*`?"
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:134
+#: 200.en.adoc:133
 msgid ""
 "Apart from the dedication time provided by `*company*` staff involved in "
 "preparing the proof of concept, there are no additional costs for the "
