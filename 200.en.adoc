@@ -36,7 +36,7 @@ In summary, according to the report Digitally Transforming Environmental Assessm
 
 To date, GBIF includes 47,478 datasets on its portal published by https://www.gbif.org/publisher/search[1,536 registered publishers^]. These publishers are mostly government agencies, natural history museums and herbaria, universities, research centers and non-governmental organizations of various kinds. The almost complete absence of the business sector is noticeable, which limits access to a vast and important volume of biodiversity data collected by companies around the world. In total, private company registers amount to 1,069,940, which is less than 0.08 per cent of https://www.gbif.org/occurrence/search[all records published in GBIF^]. Table 1 lists the most significant private sector publishers.
 
-[caption="Table 1. "
+[caption="Table 1. "]
 .Private-sector companies that publish their data through GBIF (as of 23 March 2020)
 [cols="3*,2*>"]
 |===
