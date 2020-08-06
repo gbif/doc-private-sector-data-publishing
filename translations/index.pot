@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2020-08-06 07:58+0000\n"
+"POT-Creation-Date: 2020-08-06 08:27+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -475,17 +475,129 @@ msgstr ""
 
 #. type: Plain text
 #: 200.en.adoc:40
-msgid "`*insert table with link to up-to-date number*`"
+msgid "[caption=\"Table 1. \""
+msgstr ""
+
+#. type: Block title
+#: 200.en.adoc:40
+#, no-wrap
+msgid ""
+"Private-sector companies that publish their data through GBIF (as of 23 "
+"March 2020)"
+msgstr ""
+
+#. type: Table
+#: 200.en.adoc:97
+#, no-wrap
+msgid ""
+"| Company | Activity sector | Country | Number of datasets | Records "
+"Published \n"
+"\n"
+"| https://www.gbif.org/publisher/eea64f26-8fd5-49fb-be7e-a1d4cfc051ee[Aïgos "
+"SAS^] | Consulting | Colombia | 3 | 2,404\n"
+"\n"
+"| "
+"https://www.gbif.org/publisher/b5904aaf-02c7-4ff3-85a6-0f528dbb632e[Anadarko "
+"Colombia Company^] | Energy | Colombia | 3 | 282\n"
+"\n"
+"| https://www.gbif.org/publisher/f2429cd1-4d45-475c-852a-892024cb4aba[Arctic "
+"Research and Consulting DA^] | Consulting | Norway | 1 | 8,914\n"
+"\n"
+"| https://www.gbif.org/publisher/612c9b58-e739-4af4-a038-4b3901fa5649[Asplan "
+"Viak AS^] | Engineering | Norway | 14 | 3,779\n"
+"\n"
+"| "
+"https://www.gbif.org/publisher/b2c1126d-e3b4-4619-9f94-b236dcc0a947[Biofokus^] "
+"| Consulting | Norway | 1 | 493,796\n"
+"\n"
+"| https://www.gbif.org/publisher/a41046bd-eaca-49bf-919b-419062ffc2a2[Biolog "
+"J.B. Jordal AS^] | Consulting | Norway | 1 | 177,814\n"
+"\n"
+"| "
+"https://www.gbif.org/publisher/f5db868f-e5bf-4208-bd9d-d4063ae1c825[Celsia^] "
+"| Energy | Colombia | 1 | 35\n"
+"\n"
+"| "
+"https://www.gbif.org/publisher/d49251f5-379f-43b4-b747-9d8240334fa5[Chevron "
+"Australia^] | Energy |  Australia | 1 | 2,048\n"
+"\n"
+"| "
+"https://www.gbif.org/publisher/fac91b96-c087-460f-ab01-b808f341c2f5[Ecofact^] "
+"| Consulting | Norway | 1 | 11,273\n"
+"\n"
+"| https://www.gbif.org/publisher/e5150835-f502-424c-b470-24dd496b1b18[EDP - "
+"Energias de Portugal^] | Energy | Portugal | 34 | 327,547\n"
+"\n"
+"| https://www.gbif.org/publisher/d98d7029-8cb7-44c2-88af-52988adc3a62[Faun "
+"Naturforvaltning AS^] | Consulting | Norway | 1 | 3,788\n"
+"\n"
+"| "
+"https://www.gbif.org/publisher/fe602f47-b553-4291-b6e5-197b9837e167[Federación "
+"Nacional de Cafeteros^] | Agriculture | Colombia | 6 | 26,840\n"
+"\n"
+"| "
+"https://www.gbif.org/publisher/90d2e455-c279-4bf1-ba87-806495641e18[Hatovial "
+"SAS^] | Engineering | Colombia | 1 | 1,898\n"
+"\n"
+"| "
+"https://www.gbif.org/publisher/67c63221-0c74-4c18-97f9-e2b2acb739ce[INERCO^] "
+"| Consulting | Colombia | 1 | 1,090\n"
+"\n"
+"| "
+"https://www.gbif.org/publisher/04ce62dd-30ec-4d98-8b30-b09cafc3ac38[Isagen^] "
+"| Energy | Colombia | 5 | 18,241\n"
+"\n"
+"| "
+"https://www.gbif.org/es/publisher/2d7ea901-0128-4a7a-8207-425020c1fd99[LafargeHolcim^] "
+"| Mining | Spain | 2 | 35\n"
+"\n"
+"| https://www.gbif.org/publisher/9a21807b-b9c5-4071-b393-764f3cd58abc[Moam "
+"SAS^] | Consulting | Colombia | 1 | 1,781\n"
+"\n"
+"| "
+"https://www.gbif.org/publisher/359ba517-ca03-46dd-9583-d2be73085c2f[Multiconsult^] "
+"| Consulting | Norway | 1 | 308\n"
+"\n"
+"| "
+"https://www.gbif.org/publisher/99c6eaae-f15b-4656-a600-d0c50044962e[Naturrestaurering "
+"AS^] | Consulting | Norway | 2 | 515\n"
+"\n"
+"| https://www.gbif.org/publisher/a1648ebf-7363-4c27-beb0-23271087220f[NNI^] "
+"| Consulting | Norway | 2 | 3,116\n"
+"\n"
+"| "
+"https://www.gbif.org/publisher/c3da1f49-b2c8-4751-b72f-28855546ec4c[Oleoducto "
+"Bicentenario^] | Energy | Colombia | 3 | 2,074 \n"
+"\n"
+"| "
+"https://www.gbif.org/publisher/80e15a76-70e8-417d-9111-b2e9e0dd8f18[Rådgivende "
+"Biologer^] | Consulting | Norway | 5 | 15,214\n"
+"\n"
+"| "
+"https://www.gbif.org/publisher/2c542862-b9dd-40fc-8260-fb434997efa7[Stratos^] "
+"| Consulting | Colombia | 1 | 849\n"
+"\n"
+"| https://www.gbif.org/publisher/c4444b2c-6b07-40c2-8474-6556a195cd40[SWECO "
+"Norge AS^] | Engineering | Norway | 1 | 1,139\n"
+"\n"
+"| "
+"https://www.gbif.org/publisher/f5db868f-e5bf-4208-bd9d-d4063ae1c825[Terrasos^] "
+"| Consulting | Colombia | 2 | 7,725\n"
+"\n"
+"| "
+"https://www.gbif.org/publisher/728e3362-3063-4a43-a6cf-71d61b50025b[Total^] "
+"| Energy | France | 1 | 324\n"
+"\n"
 msgstr ""
 
 #. type: Title ===
-#: 200.en.adoc:41
+#: 200.en.adoc:99
 #, no-wrap
 msgid "What data could the company publish through GBIF?"
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:44
+#: 200.en.adoc:102
 msgid ""
 "Companies that carry out environmental impact assessments, impact monitoring "
 "and compensatory measures studies, thereby collect species occurrence and "
@@ -510,13 +622,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: 200.en.adoc:45
+#: 200.en.adoc:103
 #, no-wrap
 msgid "What does it take for a company to be a data publisher to GBIF?"
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:48
+#: 200.en.adoc:106
 msgid ""
 "The decision to become a publisher of biodiversity data at GBIF would first "
 "come with a decision by the `*company*` management bodies. After that, it is "
@@ -525,7 +637,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:50
+#: 200.en.adoc:108
 msgid ""
 "To guarantee institutional arrangements to ensure that all parties involved "
 "in the process, from management to the partners from information production, "
@@ -533,7 +645,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:51
+#: 200.en.adoc:109
 msgid ""
 "To acknowledge and agree to the "
 "https://www.gbif.org/terms/data-publisher[Data Publisher Agreement^] (the "
@@ -541,14 +653,14 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:52
+#: 200.en.adoc:110
 msgid ""
 "To be aware of the https://www.gbif.org/terms/data-user[Data User "
 "Agreement^], that GBIF data users must agree before using them"
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:53
+#: 200.en.adoc:111
 msgid ""
 "To apply for the institution to register with GBIF as a data publisher and "
 "request the endorsement of the national node. Application for registration "
@@ -557,13 +669,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: 200.en.adoc:54
+#: 200.en.adoc:112
 #, no-wrap
 msgid "Involvement of different parties in the publication process"
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:57
+#: 200.en.adoc:115
 msgid ""
 "Depending on the size of the projects that originated the datasets, it is "
 "possible that the company’s biodiversity data was obtained by hiring other "
@@ -582,20 +694,20 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: 200.en.adoc:58
+#: 200.en.adoc:116
 #, no-wrap
 msgid "How could the proof of concept be developed?"
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:61
+#: 200.en.adoc:119
 msgid ""
 "The proof of concept regarding data publication in GBIF could be developed "
 "involving the following steps:"
 msgstr ""
 
 #. type: Block title
-#: 200.en.adoc:62
+#: 200.en.adoc:120
 #, no-wrap
 msgid ""
 "Development of the company's internal processes leading to the decision to "
@@ -603,13 +715,13 @@ msgid ""
 msgstr ""
 
 #. type: Block title
-#: 200.en.adoc:63
+#: 200.en.adoc:121
 #, no-wrap
 msgid "Application for the company’s  registration in GBIF as a data publisher."
 msgstr ""
 
 #. type: Block title
-#: 200.en.adoc:64
+#: 200.en.adoc:122
 #, no-wrap
 msgid ""
 "To build a case study on the company's involvement as a data publisher with "
@@ -619,7 +731,7 @@ msgid ""
 msgstr ""
 
 #. type: Block title
-#: 200.en.adoc:65
+#: 200.en.adoc:123
 #, no-wrap
 msgid ""
 "Selection of an initial dataset to be published through GBIF, resulting from "
@@ -630,7 +742,7 @@ msgid ""
 msgstr ""
 
 #. type: Block title
-#: 200.en.adoc:66
+#: 200.en.adoc:124
 #, no-wrap
 msgid ""
 "Definition of information type to be published and any restrictions on its "
@@ -641,7 +753,7 @@ msgid ""
 msgstr ""
 
 #. type: Block title
-#: 200.en.adoc:67
+#: 200.en.adoc:125
 #, no-wrap
 msgid ""
 "Establishment of agreements with data producers (i.e. the institutions and "
@@ -650,7 +762,7 @@ msgid ""
 msgstr ""
 
 #. type: Block title
-#: 200.en.adoc:68
+#: 200.en.adoc:126
 #, no-wrap
 msgid ""
 "Formatting of data to be published according to the Darwin Core standard "
@@ -658,7 +770,7 @@ msgid ""
 msgstr ""
 
 #. type: Block title
-#: 200.en.adoc:69
+#: 200.en.adoc:127
 #, no-wrap
 msgid ""
 "Selection of a http://www.gbif.org/terms/licences[Creative Commons licence^] "
@@ -668,7 +780,7 @@ msgid ""
 msgstr ""
 
 #. type: Block title
-#: 200.en.adoc:70
+#: 200.en.adoc:128
 #, no-wrap
 msgid ""
 "Publishing data and metadata for each dataset to the GBIF "
@@ -682,7 +794,7 @@ msgid ""
 msgstr ""
 
 #. type: Block title
-#: 200.en.adoc:71
+#: 200.en.adoc:129
 #, no-wrap
 msgid ""
 "Monitoring the use of published data for a period of one year after its "
@@ -694,13 +806,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: 200.en.adoc:73
+#: 200.en.adoc:131
 #, no-wrap
 msgid "What are the costs for `*company*`?"
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:75
+#: 200.en.adoc:133
 msgid ""
 "Apart from the dedication time provided by `*company*` staff involved in "
 "preparing the proof of concept, there are no additional costs for the "
