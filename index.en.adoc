@@ -1,5 +1,15 @@
 = Guidance for private companies to become data publishers through GBIF
-Rui Figueira, Pedro Beja, Cristina Villaverde, Miguel Vega, Katia Cezón, Tainan Messina, Anne-Sophie Archambeau, Rukaya Johaadien, Dag Endresen & Dairo Escobar
+:authorcount: 10
+:author_1: Rui Figueira
+:author_2: Pedro Beja
+:author_3: Cristina Villaverde
+:author_4: Miguel Vega
+:author_5: Katia Cezón
+:author_6: Tainan Messina
+:author_7: Anne-Sophie Archambeau
+:author_8: Rukaya Johaadien
+:author_9: Dag Endresen
+:author_10: Dairo Escobar
 :toc: left
 :toclevels: 3
 :numbered:

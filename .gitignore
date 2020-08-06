@@ -4,5 +4,6 @@
 *.pdf
 *.??.adoc
 !*.en.adoc
+*.??-??.adoc
 *.mo
 *.icloud
