@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2020-08-07 14:39+0000\n"
+"POT-Creation-Date: 2020-08-07 14:42+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -389,59 +389,59 @@ msgstr ""
 
 #. type: Plain text
 #: 200.en.adoc:26
-msgid "Lower cost of information search."
+msgid "Lower cost of information search"
 msgstr ""
 
 #. type: Plain text
 #: 200.en.adoc:27
-msgid "Reduced need for detailed field surveys."
+msgid "Reduced need for detailed field surveys"
 msgstr ""
 
 #. type: Plain text
 #: 200.en.adoc:28
 msgid ""
 "More complete impact information at the pre-referral stages may reduce the "
-"need for a formal EIA (6-18 month time saving)."
+"need for a formal EIA (6-18 month time saving)"
 msgstr ""
 
 #. type: Plain text
 #: 200.en.adoc:29
 msgid ""
 "Improved monitoring data reduce risk of operations being temporarily "
-"suspended due to a single compliance breach."
+"suspended due to a single compliance breach"
 msgstr ""
 
 #. type: Plain text
 #: 200.en.adoc:30
 msgid ""
 "Increased confidence among environmentally aware companies for business "
-"investment and future partnerships."
+"investment and future partnerships"
 msgstr ""
 
 #. type: Plain text
 #: 200.en.adoc:31
-msgid "Improved predictability of accessing markets."
+msgid "Improved predictability of accessing markets"
 msgstr ""
 
 #. type: Plain text
 #: 200.en.adoc:32
 msgid ""
 "Using open tools and data to guide environmental decisions will make the "
-"process more transparent and build trust and certainty in the process."
+"process more transparent and build trust and certainty in the process"
 msgstr ""
 
 #. type: Plain text
 #: 200.en.adoc:33
 msgid ""
 "Increased investor and community confidence will deliver continued interest "
-"in business development granted by public bodies."
+"in business development granted by public bodies"
 msgstr ""
 
 #. type: Plain text
 #: 200.en.adoc:34
 msgid ""
 "Better tools to process easily accessible data will help assess the scale of "
-"the impact, and the value, type and success of any proposed offset."
+"the impact, and the value, type and success of any proposed offset"
 msgstr ""
 
 #. type: Title ===
