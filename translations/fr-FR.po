@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: private-sector-data-publishing\n"
 "POT-Creation-Date: 2020-08-06 11:03+0000\n"
-"PO-Revision-Date: 2020-08-07 09:27\n"
+"PO-Revision-Date: 2020-08-07 10:36\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -81,29 +81,29 @@ msgstr "URI permanent"
 #. type: Plain text
 #: colophon.en.adoc:23
 msgid "https://doi.org/10.35035/doc-b8hq-me03"
-msgstr ""
+msgstr "https://doi.org/10.35035/doc-b8hq-me03"
 
 #. type: Title ===
 #: colophon.en.adoc:24
 #, no-wrap
 msgid "Document control"
-msgstr ""
+msgstr "Contrôle du document"
 
 #. type: Plain text
 #: colophon.en.adoc:27
 msgid "Version 2.0, June 2020"
-msgstr ""
+msgstr "Version 2.0, Juin 2020"
 
 #. type: Plain text
 #: colophon.en.adoc:29
 msgid "This document is also available in https://#[Spanish], https://#[Colombian Spanish], https://#[French] and https://#[Portuguese]."
-msgstr ""
+msgstr "Ce document est également disponible en https://#[Anglais], https://#[Espagnol colombien], https://#[French] et https://#[Portuguese]."
 
 #. type: Title ===
 #: colophon.en.adoc:30
 #, no-wrap
 msgid "Abstract"
-msgstr ""
+msgstr "Résumé"
 
 #. type: Plain text
 #: colophon.en.adoc:33
@@ -114,23 +114,23 @@ msgstr ""
 #: colophon.en.adoc:34
 #, no-wrap
 msgid "Cover image"
-msgstr ""
+msgstr "Image de couverture"
 
 #. type: Plain text
 #: colophon.en.adoc:36
 msgid "Sea fig (_Carpobrotus edulis_), Aljezur, Portugal. Photo 2020 sheborg via https://www.gbif.org/occurrence/2557795082[iNaturalist research-grade observations], licensed under http://creativecommons.org/licenses/by-nc/4.0/[CC BY-NC 4.0]."
-msgstr ""
+msgstr "Figue marine (_Carpobrotus edulis_), Aljezur, Portugal. Photo 2020 sheborg via https://www.gbif.org/fr/occurrence/2557795082[iNaturalist research-grade observations], licencié sous https://creativecommons.org/licenses/by-nc/4.0/deed.fr[CC BY-NC 4.0]."
 
 #. type: Title ==
 #: 100.en.adoc:2
 #, no-wrap
 msgid "Introduction"
-msgstr ""
+msgstr "Introduction"
 
 #. type: Plain text
 #: 100.en.adoc:5
 msgid "The steps for a company to become a data publisher through https://www.gbif.org[GBIF—the Global Biodiversity Information Facility^]— are relatively simple. However, the future publisher needs to be aware of the responsibilities of GBIF data publishers and GBIF data users, as well as the different aspects related to preparation, publication and monitoring of published data."
-msgstr ""
+msgstr "Les étapes pour qu'une entreprise devienne éditrice de données via le GBIF sont relativement simples. Cependant, le futur éditeur doit être conscient des responsabilités des éditeurs et utilisateurs de données GBIF, ainsi que des différents aspects liés à la préparation, la publication et au suivi des données publiées."
 
 #. type: Plain text
 #: 100.en.adoc:7
@@ -151,7 +151,7 @@ msgstr ""
 #: 100.en.adoc:13 200.en.adoc:10
 #, no-wrap
 msgid "What is GBIF?"
-msgstr ""
+msgstr "Qu'est-ce que le GBIF ?"
 
 #. type: Plain text
 #: 100.en.adoc:14
@@ -193,7 +193,7 @@ msgstr ""
 #: 200.en.adoc:4
 #, no-wrap
 msgid "Presentation"
-msgstr ""
+msgstr "Présentation"
 
 #. type: Plain text
 #: 200.en.adoc:7
