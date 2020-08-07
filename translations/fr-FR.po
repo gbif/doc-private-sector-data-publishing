@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: private-sector-data-publishing\n"
 "POT-Creation-Date: 2020-08-06 11:03+0000\n"
-"PO-Revision-Date: 2020-08-07 12:37\n"
+"PO-Revision-Date: 2020-08-07 13:33\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -140,12 +140,12 @@ msgstr "En fonction de la taille de l'entreprise, il se peut que le premier cont
 #. type: Plain text
 #: 100.en.adoc:9
 msgid "A https://www.iaia.org/uploads/pdf/sp7.pdf[guideline document for private-sector organizations that develop Environmental Impact Assessments (EIAs)^] was published by GBIF and the https://www.iaia.org/[International Association for Impact Assessments (IAIA)^] which covers most of the benefits and technical aspects of data publication through GBIF and this document will be updated in 2020. It lacks, however, the components related to costs, license adoption and relation with different parties that are involved in data production within an organisation, which might include subcontractors."
-msgstr ""
+msgstr "Le GBIF, en collaboration avec l'https://www.iaia.org/[IAIA (International Association for Impact Assessment)^], a publié un https://www.iaia.org/uploads/pdf/sp7.pdf[guide pour les organisations du secteur privé qui réalisent des évaluations d'impact environnemental (EIE)^] qui couvre la plupart des avantages et des aspects techniques de la publication des données via GBIF. Ce document est en cours de mise à jour car il lui manquait certains aspects importants tels que les coûts, l'adoption de licences et les relations avec les différentes parties impliquées dans la production de données au sein d'une organisation, qui peuvent inclure des sous-traitants. "
 
 #. type: Plain text
 #: 100.en.adoc:11
 msgid "The purpose of this document is to work as a template for an internal documentation process to be presented to the company's decision-making bodies to inform and support their decision in becoming a GBIF publisher. In that regard, several aspects are addressed, such as:"
-msgstr ""
+msgstr "L’objectif de ce document est de servir de cadre de référence pour établir un processus de documentation interne à présenter aux organes de décision de l'entreprise pour informer et soutenir leur décision de devenir éditeur du GBIF. À cet égard, plusieurs aspects sont abordés, tels que:"
 
 #. type: Title ===
 #: 100.en.adoc:13 200.en.adoc:10
@@ -156,32 +156,32 @@ msgstr "Qu'est-ce que le GBIF ?"
 #. type: Plain text
 #: 100.en.adoc:14
 msgid "What are the advantages of publishing data through GBIF?"
-msgstr ""
+msgstr "Quels sont les avantages de publier des données via GBIF?"
 
 #. type: Plain text
 #: 100.en.adoc:15
 msgid "Who publishes and what data is published through GBIF?"
-msgstr ""
+msgstr "Qui publie et quelles données sont publiées via le GBIF ?"
 
 #. type: Plain text
 #: 100.en.adoc:16
 msgid "What steps do you need to complete in order to become a data publisher?"
-msgstr ""
+msgstr "Quelles étapes devez-vous suivre pour devenir éditeur de données ?"
 
 #. type: Plain text
 #: 100.en.adoc:17
 msgid "How to involve all parts associated with the datasets in your publication?"
-msgstr ""
+msgstr "Comment impliquer toutes les parties associées aux jeux de données dans votre publication ?"
 
 #. type: Plain text
 #: 100.en.adoc:18
 msgid "What are the costs associated with publishing?"
-msgstr ""
+msgstr "Quels sont les coûts associés à la publication ?"
 
 #. type: Plain text
 #: 100.en.adoc:19
 msgid "This template proposes that a proof of concept should be developed internally. This will allow to demonstrate the steps of data publishing and working as an example for the internalization of data publishing in the company's biodiversity information processing, including the assessment of internal and external resources that need to be allocated."
-msgstr ""
+msgstr "Ce cadre de référence propose qu'une preuve de concept soit élaborée en interne. Celle-ci identifiera les étapes nécessaires à la réalisation d'une publication de données, générant une appropriation interne du modèle de publication de données, qui va du traitement des données sur la biodiversité de l'entreprise, en passant par l'évaluation des ressources internes et externes qui doivent être assignées."
 
 #. type: Title ==
 #: 200.en.adoc:2
@@ -198,43 +198,53 @@ msgstr "Présentation"
 #. type: Plain text
 #: 200.en.adoc:7
 msgid "It is proposed in this document to involve *`company`* as a publisher of biodiversity data on the platform of https://www.gbif.org[GBIF—the Global Biodiversity Information Facility^]. In the context of global biodiversity decline, species occurrence and abundance data are essential tools for planning, implementing and monitoring of conservation and sustainable use strategies. This importance is recognized on a global scale by the https://sdgs.un.org/goals[United Nations Sustainable Development Goals^], namely SDG14 and SDG15, to which GBIF becomes instrumental for the assessment of the progress towards the goals. Likewise, Aichi Target 19 of the Convention on Biological Diversity (CBD) uses the publication of data through GBIF by 2020 as http://www.bipindicators.net/numberofgbifrecordsovertime[one of the indicators to measure the Target’s compliance^] . Alongside Universities, Research Institutes and Governmental Agencies, the business sector can play a key role here as it develops thousands of environmental impact assessments locally and worldwide, which annually produce millions of data. However, participation in this effort has been very low as data produced are never or very rarely made widely available. In this area, *`company`* could take a prominent position at `*national* / *international*` level, contributing with data to GBIF in an organized and systematic way."
-msgstr ""
+msgstr "Il est proposé dans ce document d’impliquer *`entreprise`* en tant qu’éditeur de données de biodiversité sur la plateforme intergouvernementale https://www.gbif.org/fr/[GBIF (Global Biodiversity Information Facility)^].\n\n"
+"Dans le contexte du déclin mondial de la biodiversité, les données d’occurrence et d’abondance d’espèces sont des outils essentiels pour planifier, mettre en place et gérer des stratégies de conservation et de développement durable. Cette importance est reconnue à l’échelle internationale par les https://sdgs.un.org/goals[Objectifs de Développement Durable des Nations Unies^] SDG14 et SDG15, dont le GBIF permet de suivre la progression vers les objectifs fixés.\n\n"
+"De même, l’objectif 19 d’Aichi, défini par la Convention sur la Diversité Biologique (CDB), utilise la publication de données sur le GBIF comme http://www.bipindicators.net/numberofgbifrecordsovertime[l’un des indicateurs pour valider l’atteinte de l’objectif d’ici 2020^]. Aux côtés des universités, instituts de recherche et agences gouvernementales, le secteur privé peut y jouer un rôle clé, grâce aux milliers d’études d’impacts environnementaux effectuées au niveau local dans le monde entier, qui produisent chaque année des millions de données. Cependant, la participation à cet effort est encore très faible, et les données ne sont jamais, ou très rarement, mises à disposition du plus grand nombre.\n\n"
+"Dans ce domaine, *`entreprise`* pourrait prendre une position de tête au niveau *`national / international`*, en partageant ses données dans le GBIF de manière organisée et systématique."
 
 #. type: Plain text
 #: 200.en.adoc:9
 msgid "Therefore, notwithstanding the necessary care with aspects of intellectual property and confidentiality, it is proposed to carry out a proof of concept to develop and evaluate a model of biodiversity data publication by `*company*`, which works as a case study for the company and to GBIF. This exercise would have several advantages for *`company`*, helping to consolidate its reputation at `*national* / *international*` scale as a leader in the field of sustainability and to strengthen data availability, integration and organization processes that could be used for future investments."
-msgstr ""
+msgstr "Ainsi, nonobstant la prudence nécessaire aux aspects liés à la propriété intellectuelle et à la confidentialité, il est proposé de réaliser une preuve de concept, afin de développer et d’évaluer un modèle de publication des données de biodiversité par *`entreprise`*, qui constituera une étude de cas pour le GBIF et *`entreprise`*. Cet exercice devrait avoir plusieurs avantages pour *`entreprise`* : participer à consolider sa réputation *`nationale / internationale`* en tant qu’entreprise pionnière dans le domaine du développement durable, et renforcer la disponibilité des données, leur intégration et les processus d’organisation qui pourraient être réutilisés dans d’autres contextes."
 
 #. type: Plain text
 #: 200.en.adoc:13
 msgid "The Global Biodiversity Information Facility is an intergovernmental organization established in 2001 to facilitate the free sharing and open access of biodiversity data. There are currently 59 signatory countries of the GBIF Memorandum of Understanding. GBIF provides a single access point (www.gbif.org) to over one billion global biodiversity data and is the largest biodiversity network available via the Internet. Data accessible through GBIF relates to records of more than 1.6 million species collected over three centuries of exploration of Natural History and includes recent observations by citizens, researchers and automated monitoring programs. Data downloaded through GBIF were used between 2018 and 2019 in more than 1,300 scientific articles in international journals. Globally, GBIF has agreements and provide services directly to global policy-making initiatives for the assessment and conservation of biodiversity and the environment, such as the Convention on Biological Diversity (CBD), the Intergovernmental Platform on Biodiversity and Ecosystem Services (IPBES) and the GEO BON (Group on Earth Observation - Biodiversity Observation Network)."
-msgstr ""
+msgstr "Le Système Mondial d’Information sur la Biodiversité est une organisation intergouvernementale créée en 2001 afin de faciliter le partage et l’accès libre et ouvert aux données de biodiversité. A l’heure actuelle, 59 pays ont signé le Memorandum of Understanding du GBIF. Le GBIF fournit https://www.gbif.org/fr/[un point d’accès unique^] à plus d’un milliard de données de biodiversité à l’échelle de la planète, et constitue le plus grand réseau sur la biodiversité accessible via Internet.\n\n"
+"Les données accessibles via le GBIF concernent des enregistrements de plus d’1,6 million d’espèces, collectées sur plus de trois siècles d’exploration de l’Histoire Naturelle, et incluent des observations récentes des programmes de science participative, de la Recherche et des programmes de suivi automatisé. \n\n"
+"Les données téléchargées depuis le GBIF ont été utilisées en 2018 et 2019 dans plus de 1300 articles scientifiques publiés dans des revues internationales. A l’échelle mondiale, le GBIF a des accords et fournit directement des services aux initiatives décisionnaires internationales pour le suivi et la conservation de la biodiversité et de l’environnement, telles que la Convention sur la Diversité Biologique (CDB), la Plateforme intergouvernementale scientifique et politique sur la biodiversité et les services écosystémiques (IPBES) et GEO BON (Group on Earth Observation - Biodiversity Observation Network)."
 
 #. type: Plain text
 #: 200.en.adoc:15
 msgid "`*Paragraph with information about national GBIF node*`"
-msgstr ""
+msgstr "`*Paragraphe avec des informations sur le noeud national GBIF*`"
 
 #. type: Title ===
 #: 200.en.adoc:16
 #, no-wrap
 msgid "What are the advantages of publishing data to GBIF?"
-msgstr ""
+msgstr "Quels sont les avantages de la publication des données dans le réseau GBIF ?"
 
 #. type: Plain text
 #: 200.en.adoc:19
 msgid "Publishing biodiversity data in GBIF is an initiative that could be highly visible globally, helping to consolidate <company>'s reputation as a reference in the field of sustainability. In fact, data publication through GBIF is seen as very important within the CBD and has even been chosen as one of the Aichi Targets (Target 19) indicators of the Biodiversity Decade (2010-2020). Data published through GBIF also contributes to Aichi Targets 9 (invasive species), 11 (protected areas) and 12 (threatened species). Likewise, these data will be relevant also to the assessment of the SDG 14 (Life below water) and 15 (Life on Land). By contributing to these objectives, <company> will also be improving its environmental and social profile by increasing the return on investment initially made to obtain these data. GBIF is very keen to use and disseminate new case studies, and data mobilization from the business sector is currently an important objective of the organization. This process could favorably contribute to the organization's performance on the Dow Jones Sustainability Index and the assessment of the company in the framework of Equator Principles."
-msgstr ""
+msgstr "La publication de données dans le GBIF est une initiative qui peut avoir beaucoup de visibilité à l’échelle internationale, et aider à consolider la réputation de *`entreprise`* comme référence dans le domaine du développement durable.\n\n"
+"La publication de données dans le GBIF est très valorisée au sein de la CBD et a même été choisie comme indicateur de la Décennie de la Biodiversité (2010-2020) pour l’un des objectifs d’Aichi2 (Objectif 19). \n"
+"Les données publiées dans le GBIF contribuent également à l’objectif d’Aichi n. 9 (espèces envahissantes), 11 (aires protégées) et 12 (espèces menacées). De même, ces données sont utiles pour l’évaluation des SDG 14 (biodiversité sub-aquatique) et 15 (biodiversité terrestre).\n\n"
+"En contribuant à ces objectifs, <entreprise> améliorera aussi ses profils environnemental et social en augmentant le retour sur investissement initialement effectué pour collecter ces données.\n\n"
+"Le GBIF est très intéressé par l’utilisation et le partage de nouvelles études de cas, et la mobilisation des données issues du secteur privé est un des grands objectifs actuels du réseau. Ce processus pourrait favorablement contribuer à la performance du GBIF dans le Dow Jones Sustainability Index et à l'évaluation de l’entreprise dans le contexte des Equator Principles."
 
 #. type: Plain text
 #: 200.en.adoc:21
 msgid "Another relevant advantage of this process would be to lay the foundations for improving the information management model collected in environmental impact assessment processes, as well as impact monitoring and compensatory measures. Collecting these data involves very costly studies, but where the added value of the information collected is often very scarce due to the inefficient way it is often managed later. Because of this, information is usually lost or difficult to access and therefore, does not contribute to internal learning processes or to the reuse of information collected through new investments or environmentally sustainable management of the infrastructures in operation."
-msgstr ""
+msgstr "Un autre avantage de ce processus serait de poser les fondations pour améliorer le modèle de gestion des informations collectées dans le contexte des études d’impact environnementaux, ainsi que le suivi des impacts et les mesures de compensation. La collecte de ces données demande des études coûteuses, pour lesquelles la valeur ajoutée des informations collectées est souvent faible en raison de l’inefficacité de leur gestion ultérieure. \n\n"
+"Pour cette raison, les informations sont souvent perdues ou difficiles d’accès et ne contribuent donc pas au processus d’apprentissage interne ni à la réutilisation d’informations collectées dans de nouveaux projets ou à la gestion environnementale durable des infrastructures en opération."
 
 #. type: Plain text
 #: 200.en.adoc:23
 msgid "Publishing data through GBIF in interconnection with a national GBIF Node, would provide motivation and additional tools for the management processes of this type of information, which would potentially be scalable for the `*company*` group at national and international levels."
-msgstr ""
+msgstr "La publication de données dans le réseau GBIF, avec l’appui d’un point nodal GBIF national, fournirait motivation et outils supplémentaires pour la gestion de ce type d’informations, ce qui serait potentiellement applicable pour le groupe *`entreprise`* aux niveaux national et international."
 
 #. type: Plain text
 #: 200.en.adoc:25
@@ -290,7 +300,7 @@ msgstr ""
 #: 200.en.adoc:35
 #, no-wrap
 msgid "Who publishes data through GBIF?"
-msgstr ""
+msgstr "Qui publie des données dans le réseau GBIF ?"
 
 #. type: Plain text
 #: 200.en.adoc:38
@@ -530,36 +540,36 @@ msgstr ""
 #. type: Plain text
 #: glossary.en.adoc:12 bibliography.en.adoc:12
 msgid "<<<"
-msgstr ""
+msgstr "<<<"
 
 #. type: Title ==
 #: bibliography.en.adoc:2
 #, no-wrap
 msgid "References"
-msgstr ""
+msgstr "Références"
 
 #. The bibliography list is a style of AsciiDoc bulleted list.
 #. type: Plain text
 #: bibliography.en.adoc:7
 msgid "[[cadman]] Cadman M, Chavan V, King N, Willoughby S, Rajvanshi A, Mathur V, Roberts R & Hirsch T (2011) Publishing EIA-Related Primary Biodiversity Data: GBIF-IAIA Best Practice Guide. Fargo, N.D., USA: IAIA Special Publication Series No. 7. Accessible at https://www.iaia.org/uploads/pdf/sp7.pdf."
-msgstr ""
+msgstr "[[cadman]] Cadman M, Chavan V, King N, Willoughby S, Rajvanshi A, Mathur V, Roberts R & Hirsch T (2011) Publishing EIA related Primary Biodiversity Data: GBIF-IAIA Best Practice Guide. Fargo, N.D., USA: IAIA Special Publication Series No. 7. Accessible à https://www.iaia.org/uploads/pdf/sp7.pdf."
 
 #. type: Plain text
 #: bibliography.en.adoc:8
 msgid "[[cbd]] Secretariat of the Convention on Biological Diversity. (1st April 2020) Strategic Plan for Biodiversity 2011–2020 and the Aichi Targets - “Living in Harmony with Nature”. Recuperado de: https://www.cbd.int/doc/strategic-plan/2011-2020/Aichi-Targets-EN.pdf"
-msgstr ""
+msgstr "[[cbd]] Secrétariat de la Convention sur la diversité biologique. (1er avril 2020) Plan stratégique pour la biodiversité 2011–2020 et les Objectifs d’Aichi - « Vivre en harmonie avec la nature ». Rétabli par: https://www.cbd.int/doc/strategic-plan/2011-2020/Aichi-Targets-fr.pdf"
 
 #. type: Plain text
 #: bibliography.en.adoc:9
 #, no-wrap
 msgid "[[djsi]] S&P Global Inc. (1st April 2020) Dow Jones Sustainability Indices.   https://www.robecosam.com/csa/indices/djsi-index-family.html\n"
-msgstr ""
+msgstr "[[djsi]] S&P Global Inc. (1er avril 2020) Dow Jones Sustainability Indices. https://www.robecosam.com/csa/indices/djsi-index-family.html\n"
 
 #. type: Plain text
 #: bibliography.en.adoc:10
 #, no-wrap
 msgid "[hatton]] Hatton T. et al. (2019) Digitally Transforming Environmental Assessment: Report of the Digital Environmental Impact Assessment Working Group. Perth, Australia: The Western Australian Biodiversity Science Institute. Available at: https://wabsi.org.au/wp-content/uploads/2019/10/Digitally-Transforming-EIA_Working-Group-Report-FINAL-1.pdf\n"
-msgstr ""
+msgstr "[hatton]] Hatton T. et al. (2019) Digitally Transforming Environmental Assessment: Report of the Digital Environmental Impact Assessment Working Group. Perth, Australia : The Western Australian Biodiversity Science Institute. Disponible dans: https://wabsi.org.au/wp-content/uploads/2019/10/Digitally-Transforming-EIA_Working-Group-Report-FINAL-1.pdf\n"
 
 #. type: Plain text
 #: bibliography.en.adoc:11
