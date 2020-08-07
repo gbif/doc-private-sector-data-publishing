@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: private-sector-data-publishing\n"
 "POT-Creation-Date: 2020-08-06 11:03+0000\n"
-"PO-Revision-Date: 2020-08-06 14:25\n"
+"PO-Revision-Date: 2020-08-07 09:27\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -20,30 +20,30 @@ msgstr ""
 #: index.en.adoc:1
 #, no-wrap
 msgid "Guidance for private companies to become data publishers through GBIF"
-msgstr ""
+msgstr "Guide pour les entreprises privées à devenir éditeurs de données via GBIF"
 
 #. type: Plain text
 #: index.en.adoc:23
 msgid "languageLinks:combined[]"
-msgstr ""
+msgstr "languageLinks:combined[]"
 
 #. type: Target for macro image
 #: colophon.en.adoc:3
 #, no-wrap
 msgid "img/web/photo.jpg"
-msgstr ""
+msgstr "img/web/photo.jpg"
 
 #. type: Title ==
 #: colophon.en.adoc:6
 #, no-wrap
 msgid "Colophon"
-msgstr ""
+msgstr "Colophon"
 
 #. type: Title ===
 #: colophon.en.adoc:8
 #, no-wrap
 msgid "Suggested citation"
-msgstr ""
+msgstr "Suggestion de citation"
 
 #. type: Plain text
 #: colophon.en.adoc:11
@@ -54,29 +54,29 @@ msgstr ""
 #: colophon.en.adoc:12
 #, no-wrap
 msgid "Authors"
-msgstr ""
+msgstr "Auteurs"
 
 #. type: Plain text
 #: colophon.en.adoc:15
 msgid "https://orcid.org/0000-0002-8351-4028[Rui Figueira], https://orcid.org/0000-0001-8164-0760[Pedro Beja], https://orcid.org/0000-0001-9244-399X[Cristina Villaverde], Miguel Vega, https://orcid.org/0000-0003-3077-6136[Katia Cezón], https://orcid.org/0000-0002-2629-222X[Tainan Messina], https://orcid.org/0000-0001-6902-1465[Anne-Sophie Archambeau], https://orcid.org/0000-0002-2857-2276[Rukaya Johaadien], https://orcid.org/0000-0002-2352-5497[Dag Endresen] & https://orcid.org/0000-0001-8327-8670[Dairo Escobar]"
-msgstr ""
+msgstr "https://orcid.org/0000-0002-8351-4028[Rui Figueira], https://orcid.org/0000-0001-8164-0760[Pedro Beja], https://orcid.org/0000-0001-9244-399X[Cristina Villaverde], Miguel Vega, https://orcid.org/0000-0003-3077-6136[Katia Cezón], https://orcid.org/0000-0002-2629-222X[Tainan Messina], https://orcid.org/0000-0001-6902-1465[Anne-Sophie Archambeau], https://orcid.org/0000-0002-2857-2276[Rukaya Johaadien], https://orcid.org/0000-0002-2352-5497[Dag Endresen] & https://orcid.org/0000-0001-8327-8670[Dairo Escobar]"
 
 #. type: Title ===
 #: colophon.en.adoc:16
 #, no-wrap
 msgid "Licence"
-msgstr ""
+msgstr "Licence"
 
 #. type: Plain text
 #: colophon.en.adoc:19
 msgid "The document _Guidance for private companies to become data publishers through GBIF_ is licensed under https://creativecommons.org/licenses/by-sa/4.0[Creative Commons Attribution-ShareAlike 4.0 Unported License^]."
-msgstr ""
+msgstr "Le document _Guide pour les entreprises privées à devenir éditeurs de données via GBIF_ est sous licence https://creativecommons.org/licenses/by-sa/4.0[Creative Commons Attribution-ShareAlike 4.0 Licence^]."
 
 #. type: Title ===
 #: colophon.en.adoc:20
 #, no-wrap
 msgid "Persistent URI"
-msgstr ""
+msgstr "URI permanent"
 
 #. type: Plain text
 #: colophon.en.adoc:23
