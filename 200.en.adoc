@@ -22,15 +22,15 @@ Another relevant advantage of this process would be to lay the foundations for i
 Publishing data through GBIF in interconnection with a national GBIF Node, would provide motivation and additional tools for the management processes of this type of information, which would potentially be scalable for the `*company*` group at national and international levels.
 
 In summary, according to the report Digitally Transforming Environmental Assessment, when private companies publish their biodiversity data, this will result in:
-* Lower cost of information search.
-* Reduced need for detailed field surveys.
-* More complete impact information at the pre-referral stages may reduce the need for a formal EIA (6-18 month time saving).
-* Improved monitoring data reduce risk of operations being temporarily suspended due to a single compliance breach.
-* Increased confidence among environmentally aware companies for business investment and future partnerships. 
-* Improved predictability of accessing markets.
-* Using open tools and data to guide environmental decisions will make the process more transparent and build trust and certainty in the process.
-* Increased investor and community confidence will deliver continued interest in business development granted by public bodies.
-* Better tools to process easily accessible data will help assess the scale of the impact, and the value, type and success of any proposed offset.
+* Lower cost of information search
+* Reduced need for detailed field surveys
+* More complete impact information at the pre-referral stages may reduce the need for a formal EIA (6-18 month time saving)
+* Improved monitoring data reduce risk of operations being temporarily suspended due to a single compliance breach
+* Increased confidence among environmentally aware companies for business investment and future partnerships
+* Improved predictability of accessing markets
+* Using open tools and data to guide environmental decisions will make the process more transparent and build trust and certainty in the process
+* Increased investor and community confidence will deliver continued interest in business development granted by public bodies
+* Better tools to process easily accessible data will help assess the scale of the impact, and the value, type and success of any proposed offset
 
 === Who publishes data through GBIF?
 
