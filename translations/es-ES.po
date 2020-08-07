@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: private-sector-data-publishing\n"
-"POT-Creation-Date: 2020-08-06 11:03+0000\n"
-"PO-Revision-Date: 2020-08-06 14:25\n"
+"POT-Creation-Date: 2020-08-07 14:42+0000\n"
+"PO-Revision-Date: 2020-08-07 14:53\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -223,7 +223,7 @@ msgstr ""
 
 #. type: Plain text
 #: 200.en.adoc:19
-msgid "Publishing biodiversity data in GBIF is an initiative that could be highly visible globally, helping to consolidate <company>'s reputation as a reference in the field of sustainability. In fact, data publication through GBIF is seen as very important within the CBD and has even been chosen as one of the Aichi Targets (Target 19) indicators of the Biodiversity Decade (2010-2020). Data published through GBIF also contributes to Aichi Targets 9 (invasive species), 11 (protected areas) and 12 (threatened species). Likewise, these data will be relevant also to the assessment of the SDG 14 (Life below water) and 15 (Life on Land). By contributing to these objectives, <company> will also be improving its environmental and social profile by increasing the return on investment initially made to obtain these data. GBIF is very keen to use and disseminate new case studies, and data mobilization from the business sector is currently an important objective of the organization. This process could favorably contribute to the organization's performance on the Dow Jones Sustainability Index and the assessment of the company in the framework of Equator Principles."
+msgid "Publishing biodiversity data in GBIF is an initiative that could be highly visible globally, helping to consolidate `*company*`'s reputation as a reference in the field of sustainability. In fact, data publication through GBIF is seen as very important within the CBD and has even been chosen as one of the Aichi Targets (Target 19) indicators of the Biodiversity Decade (2010-2020). Data published through GBIF also contributes to Aichi Targets 9 (invasive species), 11 (protected areas) and 12 (threatened species). Likewise, these data will be relevant also to the assessment of the SDG 14 (Life below water) and 15 (Life on Land). By contributing to these objectives, `*company*` will also be improving its environmental and social profile by increasing the return on investment initially made to obtain these data. GBIF is very keen to use and disseminate new case studies, and data mobilization from the business sector is currently an important objective of the organization. This process could favorably contribute to the organization's performance on the Dow Jones Sustainability Index and the assessment of the company in the framework of Equator Principles."
 msgstr ""
 
 #. type: Plain text
@@ -243,47 +243,47 @@ msgstr ""
 
 #. type: Plain text
 #: 200.en.adoc:26
-msgid "Lower cost of information search."
+msgid "Lower cost of information search"
 msgstr ""
 
 #. type: Plain text
 #: 200.en.adoc:27
-msgid "Reduced need for detailed field surveys."
+msgid "Reduced need for detailed field surveys"
 msgstr ""
 
 #. type: Plain text
 #: 200.en.adoc:28
-msgid "More complete impact information at the pre-referral stages may reduce the need for a formal EIA (6-18 month time saving)."
+msgid "More complete impact information at the pre-referral stages may reduce the need for a formal EIA (6-18 month time saving)"
 msgstr ""
 
 #. type: Plain text
 #: 200.en.adoc:29
-msgid "Improved monitoring data reduce risk of operations being temporarily suspended due to a single compliance breach."
+msgid "Improved monitoring data reduce risk of operations being temporarily suspended due to a single compliance breach"
 msgstr ""
 
 #. type: Plain text
 #: 200.en.adoc:30
-msgid "Increased confidence among environmentally aware companies for business investment and future partnerships."
+msgid "Increased confidence among environmentally aware companies for business investment and future partnerships"
 msgstr ""
 
 #. type: Plain text
 #: 200.en.adoc:31
-msgid "Improved predictability of accessing markets."
+msgid "Improved predictability of accessing markets"
 msgstr ""
 
 #. type: Plain text
 #: 200.en.adoc:32
-msgid "Using open tools and data to guide environmental decisions will make the process more transparent and build trust and certainty in the process."
+msgid "Using open tools and data to guide environmental decisions will make the process more transparent and build trust and certainty in the process"
 msgstr ""
 
 #. type: Plain text
 #: 200.en.adoc:33
-msgid "Increased investor and community confidence will deliver continued interest in business development granted by public bodies."
+msgid "Increased investor and community confidence will deliver continued interest in business development granted by public bodies"
 msgstr ""
 
 #. type: Plain text
 #: 200.en.adoc:34
-msgid "Better tools to process easily accessible data will help assess the scale of the impact, and the value, type and success of any proposed offset."
+msgid "Better tools to process easily accessible data will help assess the scale of the impact, and the value, type and success of any proposed offset"
 msgstr ""
 
 #. type: Title ===
