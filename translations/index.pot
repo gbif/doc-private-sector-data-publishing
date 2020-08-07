@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2020-08-07 14:42+0000\n"
+"POT-Creation-Date: 2020-08-07 15:16+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -209,7 +209,7 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: 100.en.adoc:13 200.en.adoc:10
+#: 100.en.adoc:13 200.en.adoc:14
 #, no-wrap
 msgid "What is GBIF?"
 msgstr ""
@@ -266,28 +266,39 @@ msgstr ""
 msgid ""
 "It is proposed in this document to involve *`company`* as a publisher of "
 "biodiversity data on the platform of https://www.gbif.org[GBIF—the Global "
-"Biodiversity Information Facility^]. In the context of global biodiversity "
-"decline, species occurrence and abundance data are essential tools for "
-"planning, implementing and monitoring of conservation and sustainable use "
-"strategies. This importance is recognized on a global scale by the "
-"https://sdgs.un.org/goals[United Nations Sustainable Development Goals^], "
-"namely SDG14 and SDG15, to which GBIF becomes instrumental for the "
-"assessment of the progress towards the goals. Likewise, Aichi Target 19 of "
-"the Convention on Biological Diversity (CBD) uses the publication of data "
-"through GBIF by 2020 as "
-"http://www.bipindicators.net/numberofgbifrecordsovertime[one of the "
-"indicators to measure the Target’s compliance^] . Alongside Universities, "
-"Research Institutes and Governmental Agencies, the business sector can play "
-"a key role here as it develops thousands of environmental impact assessments "
-"locally and worldwide, which annually produce millions of data. However, "
-"participation in this effort has been very low as data produced are never or "
-"very rarely made widely available. In this area, *`company`* could take a "
-"prominent position at `*national* / *international*` level, contributing "
-"with data to GBIF in an organized and systematic way."
+"Biodiversity Information Facility^]."
 msgstr ""
 
 #. type: Plain text
 #: 200.en.adoc:9
+msgid ""
+"In the context of global biodiversity decline, species occurrence and "
+"abundance data are essential tools for planning, implementing and monitoring "
+"of conservation and sustainable use strategies. This importance is "
+"recognized on a global scale by the https://sdgs.un.org/goals[United Nations "
+"Sustainable Development Goals^], namely SDG14 and SDG15, to which GBIF "
+"becomes instrumental for the assessment of the progress towards the "
+"goals. Likewise, Aichi Target 19 of the Convention on Biological Diversity "
+"(CBD) uses the publication of data through GBIF by 2020 as "
+"http://www.bipindicators.net/numberofgbifrecordsovertime[one of the "
+"indicators to measure the Target’s compliance^] ."
+msgstr ""
+
+#. type: Plain text
+#: 200.en.adoc:11
+msgid ""
+"Alongside universities, research institutes and governmental agencies, the "
+"business sector can play a key role here as it develops thousands of "
+"environmental impact assessments locally and worldwide, which annually "
+"produce millions of records. However, participation in this effort has been "
+"very low as data produced are never or very rarely made widely available. In "
+"this area, *`company`* could take a prominent position at `*national* / "
+"*international*` level, contributing with data to GBIF in an organized and "
+"systematic way."
+msgstr ""
+
+#. type: Plain text
+#: 200.en.adoc:13
 msgid ""
 "Therefore, notwithstanding the necessary care with aspects of intellectual "
 "property and confidentiality, it is proposed to carry out a proof of concept "
@@ -301,7 +312,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:13
+#: 200.en.adoc:17
 msgid ""
 "The Global Biodiversity Information Facility is an intergovernmental "
 "organization established in 2001 to facilitate the free sharing and open "
@@ -323,18 +334,18 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:15
+#: 200.en.adoc:19
 msgid "`*Paragraph with information about national GBIF node*`"
 msgstr ""
 
 #. type: Title ===
-#: 200.en.adoc:16
+#: 200.en.adoc:20
 #, no-wrap
 msgid "What are the advantages of publishing data to GBIF?"
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:19
+#: 200.en.adoc:23
 msgid ""
 "Publishing biodiversity data in GBIF is an initiative that could be highly "
 "visible globally, helping to consolidate `*company*`'s reputation as a "
@@ -344,19 +355,24 @@ msgid ""
 "(2010-2020). Data published through GBIF also contributes to Aichi Targets 9 "
 "(invasive species), 11 (protected areas) and 12 (threatened "
 "species). Likewise, these data will be relevant also to the assessment of "
-"the SDG 14 (Life below water) and 15 (Life on Land). By contributing to "
-"these objectives, `*company*` will also be improving its environmental and "
-"social profile by increasing the return on investment initially made to "
-"obtain these data. GBIF is very keen to use and disseminate new case "
-"studies, and data mobilization from the business sector is currently an "
-"important objective of the organization. This process could favorably "
-"contribute to the organization's performance on the Dow Jones Sustainability "
-"Index and the assessment of the company in the framework of Equator "
-"Principles."
+"the SDG 14 (Life below water) and 15 (Life on Land)."
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:21
+#: 200.en.adoc:25
+msgid ""
+"By contributing to these objectives, `*company*` will also be improving its "
+"environmental and social profile by increasing the return on investment "
+"initially made to obtain these data. GBIF is very keen to use and "
+"disseminate new case studies, and data mobilization from the business sector "
+"is currently an important objective of the organization. This process could "
+"favorably contribute to the organization's performance on the Dow Jones "
+"Sustainability Index and the assessment of the company in the framework of "
+"Equator Principles."
+msgstr ""
+
+#. type: Plain text
+#: 200.en.adoc:27
 msgid ""
 "Another relevant advantage of this process would be to lay the foundations "
 "for improving the information management model collected in environmental "
@@ -371,7 +387,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:23
+#: 200.en.adoc:29
 msgid ""
 "Publishing data through GBIF in interconnection with a national GBIF Node, "
 "would provide motivation and additional tools for the management processes "
@@ -380,7 +396,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:25
+#: 200.en.adoc:31
 msgid ""
 "In summary, according to the report Digitally Transforming Environmental "
 "Assessment, when private companies publish their biodiversity data, this "
@@ -388,240 +404,272 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:26
+#: 200.en.adoc:32
 msgid "Lower cost of information search"
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:27
+#: 200.en.adoc:33
 msgid "Reduced need for detailed field surveys"
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:28
+#: 200.en.adoc:34
 msgid ""
 "More complete impact information at the pre-referral stages may reduce the "
 "need for a formal EIA (6-18 month time saving)"
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:29
+#: 200.en.adoc:35
 msgid ""
 "Improved monitoring data reduce risk of operations being temporarily "
 "suspended due to a single compliance breach"
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:30
+#: 200.en.adoc:36
 msgid ""
 "Increased confidence among environmentally aware companies for business "
 "investment and future partnerships"
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:31
+#: 200.en.adoc:37
 msgid "Improved predictability of accessing markets"
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:32
+#: 200.en.adoc:38
 msgid ""
 "Using open tools and data to guide environmental decisions will make the "
 "process more transparent and build trust and certainty in the process"
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:33
+#: 200.en.adoc:39
 msgid ""
 "Increased investor and community confidence will deliver continued interest "
 "in business development granted by public bodies"
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:34
+#: 200.en.adoc:40
 msgid ""
 "Better tools to process easily accessible data will help assess the scale of "
 "the impact, and the value, type and success of any proposed offset"
 msgstr ""
 
 #. type: Title ===
-#: 200.en.adoc:35
+#: 200.en.adoc:41
 #, no-wrap
 msgid "Who publishes data through GBIF?"
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:38
+#: 200.en.adoc:44
 msgid ""
-"To date, GBIF includes 47,478 datasets on its portal published by "
-"https://www.gbif.org/publisher/search[1,536 registered publishers^]. These "
-"publishers are mostly government agencies, natural history museums and "
-"herbaria, universities, research centers and non-governmental organizations "
-"of various kinds. The almost complete absence of the business sector is "
-"noticeable, which limits access to a vast and important volume of "
-"biodiversity data collected by companies around the world. In total, private "
-"company registers amount to 1,069,940, which is less than 0.08 per cent of "
-"https://www.gbif.org/occurrence/search[all records published in "
-"GBIF^]. Table 1 lists the most significant private sector publishers."
+"To date, GBIF includes 53,939 datasets on its portal published by "
+"https://www.gbif.org/publisher/search[1,637 data publishing "
+"institutions^]. These publishers are mostly government agencies, natural "
+"history museums and herbaria, universities, research centers and "
+"non-governmental organizations of various kinds."
+msgstr ""
+
+#. type: Plain text
+#: 200.en.adoc:46
+msgid ""
+"The almost complete absence of the business sector is noticeable, which "
+"limits access to a vast and important volume of biodiversity data collected "
+"by companies around the world. In total, private company registers amount to "
+"1,362,393, which is less than 0.09 per cent of "
+"https://www.gbif.org/occurrence/search[all records published in GBIF^]."
+msgstr ""
+
+#. type: Plain text
+#: 200.en.adoc:48
+msgid "<<table-01,Table 1>> lists the most significant private sector publishers."
 msgstr ""
 
 #. type: Named 'caption' AttributeList argument for style 'caption'
-#: 200.en.adoc:39
+#: 200.en.adoc:50
 #, no-wrap
 msgid "Table 1. "
 msgstr ""
 
 #. type: Block title
-#: 200.en.adoc:40
+#: 200.en.adoc:51
 #, no-wrap
 msgid ""
-"Private-sector companies that publish their data through GBIF (as of 23 "
-"March 2020)"
+"Private-sector companies that publish their data through GBIF (as of 7 "
+"August 2020)"
 msgstr ""
 
 #. type: Table
-#: 200.en.adoc:97
+#: 200.en.adoc:108
 #, no-wrap
 msgid ""
 "| Company | Activity sector | Country | Datasets | Occurrence records | Data "
 "citations\n"
 "\n"
 "| https://www.gbif.org/publisher/eea64f26-8fd5-49fb-be7e-a1d4cfc051ee[Aïgos "
-"SAS^] | Consulting | Colombia | 3 | 2,404 | \n"
+"SAS^] | Consulting | Colombia | 3 | 2,404 | 4\n"
 "\n"
 "| "
 "https://www.gbif.org/publisher/b5904aaf-02c7-4ff3-85a6-0f528dbb632e[Anadarko "
-"Colombia Company^] | Energy | Colombia | 3 | 282 | \n"
+"Colombia Company^] | Energy | Colombia | 3 | 282 | 6\n"
 "\n"
 "| https://www.gbif.org/publisher/f2429cd1-4d45-475c-852a-892024cb4aba[Arctic "
-"Research and Consulting DA^] | Consulting | Norway | 1 | 8,914 | \n"
+"Research and Consulting DA^] | Consulting | Norway | 1 | 8,914 | 13\n"
 "\n"
 "| https://www.gbif.org/publisher/612c9b58-e739-4af4-a038-4b3901fa5649[Asplan "
-"Viak AS^] | Engineering | Norway | 14 | 3,779 | \n"
+"Viak AS^] | Engineering | Norway | 14 | 3,779 | 84\n"
 "\n"
 "| "
 "https://www.gbif.org/publisher/b2c1126d-e3b4-4619-9f94-b236dcc0a947[Biofokus^] "
-"| Consulting | Norway | 1 | 493,796 | \n"
+"| Consulting | Norway | 1 | 508,993 - 493,796 | 235\n"
 "\n"
 "| https://www.gbif.org/publisher/a41046bd-eaca-49bf-919b-419062ffc2a2[Biolog "
-"J.B. Jordal AS^] | Consulting | Norway | 1 | 177,814 | \n"
+"J.B. Jordal AS^] | Consulting | Norway | 1 | 177,814 | 131\n"
 "\n"
 "| "
 "https://www.gbif.org/publisher/f5db868f-e5bf-4208-bd9d-d4063ae1c825[Celsia^] "
-"| Energy | Colombia | 1 | 35 | \n"
+"| Energy | Colombia | 1 | 35 | 1\n"
 "\n"
 "| "
 "https://www.gbif.org/publisher/d49251f5-379f-43b4-b747-9d8240334fa5[Chevron "
-"Australia^] | Energy |  Australia | 1 | 2,048 | \n"
+"Australia^] | Energy |  Australia | 1 | 2,048 | 15\n"
 "\n"
 "| "
 "https://www.gbif.org/publisher/fac91b96-c087-460f-ab01-b808f341c2f5[Ecofact^] "
-"| Consulting | Norway | 1 | 11,273 | \n"
+"| Consulting | Norway | 1 | 11,273 | 92\n"
 "\n"
 "| https://www.gbif.org/publisher/e5150835-f502-424c-b470-24dd496b1b18[EDP - "
-"Energias de Portugal^] | Energy | Portugal | 34 | 327,547 | \n"
+"Energias de Portugal^] | Energy | Portugal | 73 | 601,636 | 31\n"
 "\n"
 "| https://www.gbif.org/publisher/d98d7029-8cb7-44c2-88af-52988adc3a62[Faun "
-"Naturforvaltning AS^] | Consulting | Norway | 1 | 3,788 | \n"
+"Naturforvaltning AS^] | Consulting | Norway | 1 | 3,788 | 88\n"
 "\n"
 "| "
 "https://www.gbif.org/publisher/fe602f47-b553-4291-b6e5-197b9837e167[Federación "
-"Nacional de Cafeteros^] | Agriculture | Colombia | 6 | 26,840 | \n"
+"Nacional de Cafeteros^] | Agriculture | Colombia | 6 | 26,840 | 92\n"
 "\n"
 "| "
 "https://www.gbif.org/publisher/90d2e455-c279-4bf1-ba87-806495641e18[Hatovial "
-"SAS^] | Engineering | Colombia | 1 | 1,898 | \n"
+"SAS^] | Engineering | Colombia | 1 | 1,898 | 0\n"
 "\n"
 "| "
 "https://www.gbif.org/publisher/67c63221-0c74-4c18-97f9-e2b2acb739ce[INERCO^] "
-"| Consulting | Colombia | 1 | 1,090 | \n"
+"| Consulting | Colombia | 1 | 1,090 | 13\n"
 "\n"
 "| "
 "https://www.gbif.org/publisher/04ce62dd-30ec-4d98-8b30-b09cafc3ac38[Isagen^] "
-"| Energy | Colombia | 5 | 18,241 | \n"
+"| Energy | Colombia | 8 | 19,352 - 18,241 | 59\n"
 "\n"
 "| "
-"https://www.gbif.org/es/publisher/2d7ea901-0128-4a7a-8207-425020c1fd99[LafargeHolcim^] "
-"| Mining | Spain | 2 | 35 | \n"
+"https://www.gbif.org/publisher/2d7ea901-0128-4a7a-8207-425020c1fd99[LafargeHolcim^] "
+"| Mining | Spain | 2 | 35 | 0\n"
 "\n"
 "| https://www.gbif.org/publisher/9a21807b-b9c5-4071-b393-764f3cd58abc[Moam "
-"SAS^] | Consulting | Colombia | 1 | 1,781 | \n"
+"SAS^] | Consulting | Colombia | 1 | 1,781 | 3\n"
 "\n"
 "| "
 "https://www.gbif.org/publisher/359ba517-ca03-46dd-9583-d2be73085c2f[Multiconsult^] "
-"| Consulting | Norway | 1 | 308 | \n"
+"| Consulting | Norway | 1 | 308 | 8\n"
 "\n"
 "| "
 "https://www.gbif.org/publisher/99c6eaae-f15b-4656-a600-d0c50044962e[Naturrestaurering "
-"AS^] | Consulting | Norway | 2 | 515 | \n"
+"AS^] | Consulting | Norway | 2 | 515 | 6\n"
 "\n"
 "| https://www.gbif.org/publisher/a1648ebf-7363-4c27-beb0-23271087220f[NNI^] "
-"| Consulting | Norway | 2 | 3,116 | \n"
+"| Consulting | Norway | 2 | 3,116 | 19\n"
 "\n"
 "| "
 "https://www.gbif.org/publisher/c3da1f49-b2c8-4751-b72f-28855546ec4c[Oleoducto "
-"Bicentenario^] | Energy | Colombia | 3 | 2,074  | \n"
+"Bicentenario^] | Energy | Colombia | 3 | 2,074 | 54\n"
 "\n"
 "| "
 "https://www.gbif.org/publisher/80e15a76-70e8-417d-9111-b2e9e0dd8f18[Rådgivende "
-"Biologer^] | Consulting | Norway | 5 | 15,214 | \n"
+"Biologer^] | Consulting | Norway | 5 | 15,214 | 80\n"
 "\n"
 "| "
 "https://www.gbif.org/publisher/2c542862-b9dd-40fc-8260-fb434997efa7[Stratos^] "
-"| Consulting | Colombia | 1 | 849 | \n"
+"| Consulting | Colombia | 1 | 849 | 0\n"
 "\n"
 "| https://www.gbif.org/publisher/c4444b2c-6b07-40c2-8474-6556a195cd40[SWECO "
-"Norge AS^] | Engineering | Norway | 1 | 1,139 | \n"
+"Norge AS^] | Engineering | Norway | 1 | 1,139 | 86\n"
 "\n"
 "| "
 "https://www.gbif.org/publisher/f5db868f-e5bf-4208-bd9d-d4063ae1c825[Terrasos^] "
-"| Consulting | Colombia | 2 | 7,725 | \n"
+"| Consulting | Colombia | 4 | 9,781 | 4\n"
 "\n"
 "| "
 "https://www.gbif.org/publisher/728e3362-3063-4a43-a6cf-71d61b50025b[Total^] "
-"| Energy | France | 1 | 324 | \n"
+"| Energy | France | 1 | 324 | 3\n"
 "\n"
 msgstr ""
 
 #. type: Title ===
-#: 200.en.adoc:99
+#: 200.en.adoc:110
 #, no-wrap
 msgid "What data could the company publish through GBIF?"
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:102
+#: 200.en.adoc:113
 msgid ""
 "Companies that carry out environmental impact assessments, impact monitoring "
 "and compensatory measures studies, thereby collect species occurrence and "
-"abundance data, may publish them on GBIF. A lot of these data are collected "
-"in regions that lack sampling efforts and are less known, or have groups of "
-"organisms that are underrepresented and would, therefore, be valuable to the "
-"scientific community and to organizations such as CBD, IPBES or GEO "
-"BON. Even data from studies in better-known regions could be of high value "
-"as they allow information gaps to be filled and improve time series "
+"abundance data, may publish them on GBIF."
+msgstr ""
+
+#. type: Plain text
+#: 200.en.adoc:115
+msgid ""
+"A lot of these data are collected in regions that lack sampling efforts and "
+"are less known, or have groups of organisms that are underrepresented and "
+"would, therefore, be valuable to the scientific community and to "
+"organizations such as CBD, IPBES or GEO BON."
+msgstr ""
+
+#. type: Plain text
+#: 200.en.adoc:117
+msgid ""
+"Even data from studies in better-known regions could be of high value as "
+"they allow information gaps to be filled and improve time series "
 "representations. Thus, all data collected by `*company*` as part of its "
 "operation could be published in GBIF, without injury to the need to protect "
 "intellectual property issues, or transitory or permanent confidentiality of "
-"the information. If data includes sensitive information, such as the "
-"location of threatened, sensitive or economically valuable species, it is "
-"recommended to apply https://doi.org/10.15468/doc-5jp4-5g10[best practices "
-"for generalizing this information^]. Thus, data collected by private "
-"companies can be published through GBIF in a relatively short period, if "
-"procedural aspects of publication are completed and the data format is "
-"adapted to GBIF standards (primarily https://dwc.tdwg.org/terms/[Darwin "
-"Core^]). Also, the national node may be provided all technical helpdesk "
-"needed for the standardization process."
+"the information."
+msgstr ""
+
+#. type: Plain text
+#: 200.en.adoc:119
+msgid ""
+"If data includes sensitive information, such as the location of threatened, "
+"sensitive or economically valuable species, it is recommended to apply "
+"https://doi.org/10.15468/doc-5jp4-5g10[best practices for generalizing this "
+"information^]."
+msgstr ""
+
+#. type: Plain text
+#: 200.en.adoc:121
+msgid ""
+"Thus, data collected by private companies can be published through GBIF in a "
+"relatively short period, if procedural aspects of publication are completed "
+"and the data format is adapted to GBIF standards (primarily "
+"https://dwc.tdwg.org/terms/[Darwin Core^]). Also, the national node may be "
+"provided all technical helpdesk needed for the standardization process."
 msgstr ""
 
 #. type: Title ===
-#: 200.en.adoc:103
+#: 200.en.adoc:122
 #, no-wrap
 msgid "What does it take for a company to be a data publisher to GBIF?"
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:106
+#: 200.en.adoc:125
 msgid ""
 "The decision to become a publisher of biodiversity data at GBIF would first "
 "come with a decision by the `*company*` management bodies. After that, it is "
@@ -630,7 +678,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:108
+#: 200.en.adoc:127
 msgid ""
 "To guarantee institutional arrangements to ensure that all parties involved "
 "in the process, from management to the partners from information production, "
@@ -638,7 +686,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:109
+#: 200.en.adoc:128
 msgid ""
 "To acknowledge and agree to the "
 "https://www.gbif.org/terms/data-publisher[Data Publisher Agreement^] (the "
@@ -646,14 +694,14 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:110
+#: 200.en.adoc:129
 msgid ""
 "To be aware of the https://www.gbif.org/terms/data-user[Data User "
 "Agreement^], that GBIF data users must agree before using them"
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:111
+#: 200.en.adoc:130
 msgid ""
 "To apply for the institution to register with GBIF as a data publisher and "
 "request the endorsement of the national node. Application for registration "
@@ -662,13 +710,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: 200.en.adoc:112
+#: 200.en.adoc:131
 #, no-wrap
 msgid "Involvement of different parties in the publication process"
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:115
+#: 200.en.adoc:134
 msgid ""
 "Depending on the size of the projects that originated the datasets, it is "
 "possible that the company’s biodiversity data was obtained by hiring other "
@@ -687,20 +735,20 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: 200.en.adoc:116
+#: 200.en.adoc:135
 #, no-wrap
 msgid "How could the proof of concept be developed?"
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:119
+#: 200.en.adoc:138
 msgid ""
 "The proof of concept regarding data publication in GBIF could be developed "
 "involving the following steps:"
 msgstr ""
 
 #. type: Block title
-#: 200.en.adoc:120
+#: 200.en.adoc:139
 #, no-wrap
 msgid ""
 "Development of the company's internal processes leading to the decision to "
@@ -708,13 +756,13 @@ msgid ""
 msgstr ""
 
 #. type: Block title
-#: 200.en.adoc:121
+#: 200.en.adoc:140
 #, no-wrap
 msgid "Application for the company’s  registration in GBIF as a data publisher."
 msgstr ""
 
 #. type: Block title
-#: 200.en.adoc:122
+#: 200.en.adoc:141
 #, no-wrap
 msgid ""
 "To build a case study on the company's involvement as a data publisher with "
@@ -724,7 +772,7 @@ msgid ""
 msgstr ""
 
 #. type: Block title
-#: 200.en.adoc:123
+#: 200.en.adoc:142
 #, no-wrap
 msgid ""
 "Selection of an initial dataset to be published through GBIF, resulting from "
@@ -735,7 +783,7 @@ msgid ""
 msgstr ""
 
 #. type: Block title
-#: 200.en.adoc:124
+#: 200.en.adoc:143
 #, no-wrap
 msgid ""
 "Definition of information type to be published and any restrictions on its "
@@ -746,7 +794,7 @@ msgid ""
 msgstr ""
 
 #. type: Block title
-#: 200.en.adoc:125
+#: 200.en.adoc:144
 #, no-wrap
 msgid ""
 "Establishment of agreements with data producers (i.e. the institutions and "
@@ -755,7 +803,7 @@ msgid ""
 msgstr ""
 
 #. type: Block title
-#: 200.en.adoc:126
+#: 200.en.adoc:145
 #, no-wrap
 msgid ""
 "Formatting of data to be published according to the Darwin Core standard "
@@ -763,7 +811,7 @@ msgid ""
 msgstr ""
 
 #. type: Block title
-#: 200.en.adoc:127
+#: 200.en.adoc:146
 #, no-wrap
 msgid ""
 "Selection of a http://www.gbif.org/terms/licences[Creative Commons licence^] "
@@ -773,7 +821,7 @@ msgid ""
 msgstr ""
 
 #. type: Block title
-#: 200.en.adoc:128
+#: 200.en.adoc:147
 #, no-wrap
 msgid ""
 "Publishing data and metadata for each dataset to the GBIF "
@@ -787,7 +835,7 @@ msgid ""
 msgstr ""
 
 #. type: Block title
-#: 200.en.adoc:129
+#: 200.en.adoc:148
 #, no-wrap
 msgid ""
 "Monitoring the use of published data for a period of one year after its "
@@ -799,13 +847,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: 200.en.adoc:131
+#: 200.en.adoc:150
 #, no-wrap
 msgid "What are the costs for `*company*`?"
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:133
+#: 200.en.adoc:152
 msgid ""
 "Apart from the dedication time provided by `*company*` staff involved in "
 "preparing the proof of concept, there are no additional costs for the "
