@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: private-sector-data-publishing\n"
 "POT-Creation-Date: 2020-08-06 11:03+0000\n"
-"PO-Revision-Date: 2020-08-07 10:36\n"
+"PO-Revision-Date: 2020-08-07 12:37\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -135,7 +135,7 @@ msgstr "Les étapes pour qu'une entreprise devienne éditrice de données via le
 #. type: Plain text
 #: 100.en.adoc:7
 msgid "Depending on the size of the company, it may be that the first contact with GBIF is made by staff from the Environment or Sustainability departments. However, the decision to become a publisher will usually be made by an administrator or director, who must be informed about the meaning of becoming a GBIF publisher and what are the benefits for the company."
-msgstr ""
+msgstr "En fonction de la taille de l'entreprise, il se peut que le premier contact avec le GBIF soit établi par le personnel des services Environnement ou Développement Durable. Cependant, la décision de devenir éditeur sera généralement prise par un administrateur ou un directeur, qui devra être informé de ce que signifie devenir éditeur GBIF et des avantages pour l'entreprise."
 
 #. type: Plain text
 #: 100.en.adoc:9
