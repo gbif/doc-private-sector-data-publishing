@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2020-08-07 15:17+0000\n"
+"POT-Creation-Date: 2020-08-08 08:41+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -747,23 +747,20 @@ msgid ""
 "involving the following steps:"
 msgstr ""
 
-#. type: Block title
-#: 200.en.adoc:139
-#, no-wrap
+#. type: Plain text
+#: 200.en.adoc:140
 msgid ""
 "Development of the company's internal processes leading to the decision to "
 "publish data on GBIF on an experimental basis."
 msgstr ""
 
-#. type: Block title
-#: 200.en.adoc:140
-#, no-wrap
-msgid "Application for the company’s  registration in GBIF as a data publisher."
+#. type: Plain text
+#: 200.en.adoc:141
+msgid "Application for the company’s registration in GBIF as a data publisher."
 msgstr ""
 
-#. type: Block title
-#: 200.en.adoc:141
-#, no-wrap
+#. type: Plain text
+#: 200.en.adoc:142
 msgid ""
 "To build a case study on the company's involvement as a data publisher with "
 "the regional Node, their country and with the international GBIF, in order "
@@ -771,9 +768,8 @@ msgid ""
 "other companies as publishers of biodiversity data."
 msgstr ""
 
-#. type: Block title
-#: 200.en.adoc:142
-#, no-wrap
+#. type: Plain text
+#: 200.en.adoc:143
 msgid ""
 "Selection of an initial dataset to be published through GBIF, resulting from "
 "studies carried out by the company. This should provide a good "
@@ -782,9 +778,8 @@ msgid ""
 "organization and availability of information."
 msgstr ""
 
-#. type: Block title
-#: 200.en.adoc:143
-#, no-wrap
+#. type: Plain text
+#: 200.en.adoc:144
 msgid ""
 "Definition of information type to be published and any restrictions on its "
 "publication, e.g. due to the presence of sensitive species, confidential "
@@ -793,26 +788,23 @@ msgid ""
 "certain place and date) or abundance data may be published."
 msgstr ""
 
-#. type: Block title
-#: 200.en.adoc:144
-#, no-wrap
+#. type: Plain text
+#: 200.en.adoc:145
 msgid ""
 "Establishment of agreements with data producers (i.e. the institutions and "
 "staff hired by the company to collect data for the purposes of the studies) "
 "to safeguard intellectual property rights."
 msgstr ""
 
-#. type: Block title
-#: 200.en.adoc:145
-#, no-wrap
+#. type: Plain text
+#: 200.en.adoc:146
 msgid ""
 "Formatting of data to be published according to the Darwin Core standard "
 "used by GBIF to prepare databases for publication."
 msgstr ""
 
-#. type: Block title
-#: 200.en.adoc:146
-#, no-wrap
+#. type: Plain text
+#: 200.en.adoc:147
 msgid ""
 "Selection of a http://www.gbif.org/terms/licences[Creative Commons licence^] "
 "for the data to be published, which can be one of the following: CC0, CC-BY, "
@@ -820,9 +812,8 @@ msgid ""
 "assigned."
 msgstr ""
 
-#. type: Block title
-#: 200.en.adoc:147
-#, no-wrap
+#. type: Plain text
+#: 200.en.adoc:148
 msgid ""
 "Publishing data and metadata for each dataset to the GBIF "
 "portal. Information publishing options will be evaluated, in all cases using "
@@ -834,9 +825,8 @@ msgid ""
 "responsible for managing the data (e.g. change, update) autonomously."
 msgstr ""
 
-#. type: Block title
-#: 200.en.adoc:148
-#, no-wrap
+#. type: Plain text
+#: 200.en.adoc:149
 msgid ""
 "Monitoring the use of published data for a period of one year after its "
 "publication in GBIF. This will be done through statistics provided to the "
