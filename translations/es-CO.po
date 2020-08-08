@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: private-sector-data-publishing\n"
-"POT-Creation-Date: 2020-08-07 15:17+0000\n"
-"PO-Revision-Date: 2020-08-07 15:50\n"
+"POT-Creation-Date: 2020-08-08 08:41+0000\n"
+"PO-Revision-Date: 2020-08-08 08:44\n"
 "Last-Translator: \n"
 "Language-Team: Spanish, Colombia\n"
 "Language: es_CO\n"
@@ -450,63 +450,53 @@ msgstr ""
 msgid "The proof of concept regarding data publication in GBIF could be developed involving the following steps:"
 msgstr ""
 
-#. type: Block title
-#: 200.en.adoc:139
-#, no-wrap
+#. type: Plain text
+#: 200.en.adoc:140
 msgid "Development of the company's internal processes leading to the decision to publish data on GBIF on an experimental basis."
 msgstr ""
 
-#. type: Block title
-#: 200.en.adoc:140
-#, no-wrap
-msgid "Application for the company’s  registration in GBIF as a data publisher."
+#. type: Plain text
+#: 200.en.adoc:141
+msgid "Application for the company’s registration in GBIF as a data publisher."
 msgstr ""
 
-#. type: Block title
-#: 200.en.adoc:141
-#, no-wrap
+#. type: Plain text
+#: 200.en.adoc:142
 msgid "To build a case study on the company's involvement as a data publisher with the regional Node, their country and with the international GBIF, in order to give visibility to the process worldwide and encourage the involvement of other companies as publishers of biodiversity data."
 msgstr ""
 
-#. type: Block title
-#: 200.en.adoc:142
-#, no-wrap
+#. type: Plain text
+#: 200.en.adoc:143
 msgid "Selection of an initial dataset to be published through GBIF, resulting from studies carried out by the company. This should provide a good representation of the taxonomic groups’ diversity and data typologies, in order to assess different kinds of potential problems related to the organization and availability of information."
 msgstr ""
 
-#. type: Block title
-#: 200.en.adoc:143
-#, no-wrap
+#. type: Plain text
+#: 200.en.adoc:144
 msgid "Definition of information type to be published and any restrictions on its publication, e.g. due to the presence of sensitive species, confidential information, data pending validation by government institutions, etc. Occurrence data (i.e. observation or collection of a given species at a certain place and date) or abundance data may be published."
 msgstr ""
 
-#. type: Block title
-#: 200.en.adoc:144
-#, no-wrap
+#. type: Plain text
+#: 200.en.adoc:145
 msgid "Establishment of agreements with data producers (i.e. the institutions and staff hired by the company to collect data for the purposes of the studies) to safeguard intellectual property rights."
 msgstr ""
 
-#. type: Block title
-#: 200.en.adoc:145
-#, no-wrap
+#. type: Plain text
+#: 200.en.adoc:146
 msgid "Formatting of data to be published according to the Darwin Core standard used by GBIF to prepare databases for publication."
 msgstr ""
 
-#. type: Block title
-#: 200.en.adoc:146
-#, no-wrap
+#. type: Plain text
+#: 200.en.adoc:147
 msgid "Selection of a http://www.gbif.org/terms/licences[Creative Commons licence^] for the data to be published, which can be one of the following: CC0, CC-BY, CC-BY-NC. Depending on their characteristics, one of these licenses may be assigned."
 msgstr ""
 
-#. type: Block title
-#: 200.en.adoc:147
-#, no-wrap
+#. type: Plain text
+#: 200.en.adoc:148
 msgid "Publishing data and metadata for each dataset to the GBIF portal. Information publishing options will be evaluated, in all cases using a technology platform developed by GBIF: the Integrated Publishing Toolkit (IPT). GBIF Nodes maintain an IPT, which they make available for hosting publisher datasets from their countries. It is also possible for the company to install and maintain its own IPT. In both cases, the datasets publisher is always the institution, not the Country Node, and the institution is responsible for managing the data (e.g. change, update) autonomously."
 msgstr ""
 
-#. type: Block title
-#: 200.en.adoc:148
-#, no-wrap
+#. type: Plain text
+#: 200.en.adoc:149
 msgid "Monitoring the use of published data for a period of one year after its publication in GBIF. This will be done through statistics provided to the publisher regarding data transfer. In addition, the use of data in scientific publications will be monitored, which is facilitated by assigning a globally unique Document Object Identifier (DOI) to each dataset registered via GBIF and to each dataset downloaded through GBIF."
 msgstr ""
 
