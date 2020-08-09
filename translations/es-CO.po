@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: private-sector-data-publishing\n"
-"POT-Creation-Date: 2020-08-08 08:41+0000\n"
-"PO-Revision-Date: 2020-08-08 08:44\n"
+"POT-Creation-Date: 2020-08-09 17:59+0000\n"
+"PO-Revision-Date: 2020-08-09 18:01\n"
 "Last-Translator: \n"
 "Language-Team: Spanish, Colombia\n"
 "Language: es_CO\n"
@@ -503,7 +503,7 @@ msgstr ""
 #. type: Title ===
 #: 200.en.adoc:150
 #, no-wrap
-msgid "What are the costs for `*company*`?"
+msgid "What are the costs for `*this company*`?"
 msgstr ""
 
 #. type: Plain text
@@ -593,7 +593,7 @@ msgstr ""
 #. type: Plain text
 #: bibliography.en.adoc:10
 #, no-wrap
-msgid "[hatton]] Hatton T. et al. (2019) Digitally Transforming Environmental Assessment: Report of the Digital Environmental Impact Assessment Working Group. Perth, Australia: The Western Australian Biodiversity Science Institute. Available at: https://wabsi.org.au/wp-content/uploads/2019/10/Digitally-Transforming-EIA_Working-Group-Report-FINAL-1.pdf\n"
+msgid "[[hatton]] Hatton T. et al. (2019) Digitally Transforming Environmental Assessment: Report of the Digital Environmental Impact Assessment Working Group. Perth, Australia: The Western Australian Biodiversity Science Institute. Available at: https://wabsi.org.au/wp-content/uploads/2019/10/Digitally-Transforming-EIA_Working-Group-Report-FINAL-1.pdf\n"
 msgstr ""
 
 #. type: Plain text
