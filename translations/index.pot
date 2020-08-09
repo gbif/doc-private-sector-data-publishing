@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2020-08-09 17:58+0000\n"
+"POT-Creation-Date: 2020-08-09 17:59+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -839,7 +839,7 @@ msgstr ""
 #. type: Title ===
 #: 200.en.adoc:150
 #, no-wrap
-msgid "What are the costs for `*company*`?"
+msgid "What are the costs for `*this company*`?"
 msgstr ""
 
 #. type: Plain text
