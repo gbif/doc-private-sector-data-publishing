@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2020-08-08 08:41+0000\n"
+"POT-Creation-Date: 2020-08-09 17:58+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -968,7 +968,7 @@ msgstr ""
 #: bibliography.en.adoc:10
 #, no-wrap
 msgid ""
-"[hatton]] Hatton T. et al. (2019) Digitally Transforming Environmental "
+"[[hatton]] Hatton T. et al. (2019) Digitally Transforming Environmental "
 "Assessment: Report of the Digital Environmental Impact Assessment Working "
 "Group. Perth, Australia: The Western Australian Biodiversity Science "
 "Institute. Available at: "
