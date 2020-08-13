@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: private-sector-data-publishing\n"
-"POT-Creation-Date: 2020-08-09 17:59+0000\n"
-"PO-Revision-Date: 2020-08-09 18:01\n"
+"POT-Creation-Date: 2020-08-13 08:22+0000\n"
+"PO-Revision-Date: 2020-08-13 08:24\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -576,29 +576,26 @@ msgstr ""
 #. The bibliography list is a style of AsciiDoc bulleted list.
 #. type: Plain text
 #: bibliography.en.adoc:7
-msgid "[[cadman]] Cadman M, Chavan V, King N, Willoughby S, Rajvanshi A, Mathur V, Roberts R & Hirsch T (2011) Publishing EIA-Related Primary Biodiversity Data: GBIF-IAIA Best Practice Guide. Fargo, N.D., USA: IAIA Special Publication Series No. 7. Accessible at https://www.iaia.org/uploads/pdf/sp7.pdf."
+msgid "[[cadman]] Cadman M, Chavan V, King N, Willoughby S, Rajvanshi A, Mathur V, Roberts R & Hirsch T (2011) Publishing EIA-Related Primary Biodiversity Data: GBIF-IAIA Best Practice Guide. Fargo, N.D., USA: IAIA Special Publication Series No. 7. Accessible at https://www.iaia.org/uploads/pdf/sp7.pdf"
 msgstr ""
 
 #. type: Plain text
 #: bibliography.en.adoc:8
-msgid "[[cbd]] Secretariat of the Convention on Biological Diversity. (1st April 2020) Strategic Plan for Biodiversity 2011–2020 and the Aichi Targets - “Living in Harmony with Nature”. Recuperado de: https://www.cbd.int/doc/strategic-plan/2011-2020/Aichi-Targets-EN.pdf"
+msgid "[[hatton]] Hatton T, Lockwood N, Moran C, Smyth E & Vogel P (2019) Digitally Transforming Environmental Assessment: Report of the Digital Environmental Impact Assessment Working Group. Perth, Australia: Western Australian Biodiversity Science Institute. Available at: https://wabsi.org.au/wp-content/uploads/2019/10/Digitally-Transforming-EIA_Working-Group-Report-FINAL-1.pdf"
 msgstr ""
 
 #. type: Plain text
 #: bibliography.en.adoc:9
-#, no-wrap
-msgid "[[djsi]] S&P Global Inc. (1st April 2020) Dow Jones Sustainability Indices.   https://www.robecosam.com/csa/indices/djsi-index-family.html\n"
+msgid "[[chapman]] Chapman AD (2020) Current Best Practices for Generalizing Sensitive Species Occurrence Data [Community review draft]. Copenhagen: GBIF Secretariat. https://doi.org/10.15468/doc-5jp4-5g10"
 msgstr ""
 
 #. type: Plain text
 #: bibliography.en.adoc:10
-#, no-wrap
-msgid "[[hatton]] Hatton T. et al. (2019) Digitally Transforming Environmental Assessment: Report of the Digital Environmental Impact Assessment Working Group. Perth, Australia: The Western Australian Biodiversity Science Institute. Available at: https://wabsi.org.au/wp-content/uploads/2019/10/Digitally-Transforming-EIA_Working-Group-Report-FINAL-1.pdf\n"
+msgid "[[cbd]] Secretariat of the Convention on Biological Diversity. (1st April 2020) Strategic Plan for Biodiversity 2011–2020 and the Aichi Targets - “Living in Harmony with Nature”. Recuperado de: https://www.cbd.int/doc/strategic-plan/2011-2020/Aichi-Targets-EN.pdf"
 msgstr ""
 
 #. type: Plain text
 #: bibliography.en.adoc:11
-#, no-wrap
-msgid "[[chapman]] Chapman AD (2020) Current Best Practices for Generalizing Sensitive Species Occurrence Data [Community review draft]. Copenhagen: GBIF Secretariat. https://doi.org/10.15468/doc-5jp4-5g10.\n"
+msgid "[[djsi]] S&P Global Inc. (1st April 2020) Dow Jones Sustainability Indices. https://www.robecosam.com/csa/indices/djsi-index-family.html"
 msgstr ""
 
