@@ -28,6 +28,7 @@ Another relevant advantage of this process would be to lay the foundations for i
 Publishing data through GBIF in interconnection with a national GBIF Node, would provide motivation and additional tools for the management processes of this type of information, which would potentially be scalable for the `*company*` group at national and international levels.
 
 In summary, according to the report Digitally Transforming Environmental Assessment, when private companies publish their biodiversity data, this will result in:
+
 * Lower cost of information search
 * Reduced need for detailed field surveys
 * More complete impact information at the pre-referral stages may reduce the need for a formal EIA (6-18 month time saving)
