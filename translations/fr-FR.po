@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: private-sector-data-publishing\n"
-"POT-Creation-Date: 2020-08-13 08:22+0000\n"
-"PO-Revision-Date: 2020-08-13 08:24\n"
+"POT-Creation-Date: 2020-09-09 09:45+0000\n"
+"PO-Revision-Date: 2020-09-09 09:52\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -260,85 +260,85 @@ msgid "In summary, according to the report Digitally Transforming Environmental 
 msgstr "En résumé, d’après le rapport Digitally Transforming Environmental Assessment, la mise en ligne de données de biodiversité par des entreprises privées entraîne :"
 
 #. type: Plain text
-#: 200.en.adoc:32
+#: 200.en.adoc:33
 msgid "Lower cost of information search"
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:33
+#: 200.en.adoc:34
 msgid "Reduced need for detailed field surveys"
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:34
+#: 200.en.adoc:35
 msgid "More complete impact information at the pre-referral stages may reduce the need for a formal EIA (6-18 month time saving)"
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:35
+#: 200.en.adoc:36
 msgid "Improved monitoring data reduce risk of operations being temporarily suspended due to a single compliance breach"
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:36
+#: 200.en.adoc:37
 msgid "Increased confidence among environmentally aware companies for business investment and future partnerships"
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:37
+#: 200.en.adoc:38
 msgid "Improved predictability of accessing markets"
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:38
+#: 200.en.adoc:39
 msgid "Using open tools and data to guide environmental decisions will make the process more transparent and build trust and certainty in the process"
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:39
+#: 200.en.adoc:40
 msgid "Increased investor and community confidence will deliver continued interest in business development granted by public bodies"
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:40
+#: 200.en.adoc:41
 msgid "Better tools to process easily accessible data will help assess the scale of the impact, and the value, type and success of any proposed offset"
 msgstr ""
 
 #. type: Title ===
-#: 200.en.adoc:41
+#: 200.en.adoc:42
 #, no-wrap
 msgid "Who publishes data through GBIF?"
 msgstr "Qui publie des données dans le réseau GBIF ?"
 
 #. type: Plain text
-#: 200.en.adoc:44
+#: 200.en.adoc:45
 msgid "To date, GBIF includes 53,939 datasets on its portal published by https://www.gbif.org/publisher/search[1,637 data publishing institutions^]. These publishers are mostly government agencies, natural history museums and herbaria, universities, research centers and non-governmental organizations of various kinds."
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:46
+#: 200.en.adoc:47
 msgid "The almost complete absence of the business sector is noticeable, which limits access to a vast and important volume of biodiversity data collected by companies around the world. In total, private company registers amount to 1,362,393, which is less than 0.09 per cent of https://www.gbif.org/occurrence/search[all records published in GBIF^]."
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:48
+#: 200.en.adoc:49
 msgid "<<table-01,Table 1>> lists the most significant private sector publishers."
 msgstr ""
 
 #. type: Named 'caption' AttributeList argument for style 'caption'
-#: 200.en.adoc:50
+#: 200.en.adoc:51
 #, no-wrap
 msgid "Table 1. "
 msgstr "Tableau 1."
 
 #. type: Block title
-#: 200.en.adoc:51
+#: 200.en.adoc:52
 #, no-wrap
 msgid "Private-sector companies that publish their data through GBIF (as of 7 August 2020)"
 msgstr ""
 
 #. type: Table
-#: 200.en.adoc:108
+#: 200.en.adoc:109
 #, no-wrap
 msgid "| Company | Activity sector | Country | Datasets | Occurrence records | Data citations\n\n"
 "| https://www.gbif.org/publisher/eea64f26-8fd5-49fb-be7e-a1d4cfc051ee[Aïgos SAS^] | Consulting | Colombia | 3 | 2,404 | 4\n\n"
@@ -370,147 +370,147 @@ msgid "| Company | Activity sector | Country | Datasets | Occurrence records | D
 msgstr ""
 
 #. type: Title ===
-#: 200.en.adoc:110
+#: 200.en.adoc:111
 #, no-wrap
 msgid "What data could the company publish through GBIF?"
 msgstr "Quelles données une entreprise peut-elle publier dans le GBIF ?"
 
 #. type: Plain text
-#: 200.en.adoc:113
+#: 200.en.adoc:114
 msgid "Companies that carry out environmental impact assessments, impact monitoring and compensatory measures studies, thereby collect species occurrence and abundance data, may publish them on GBIF."
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:115
+#: 200.en.adoc:116
 msgid "A lot of these data are collected in regions that lack sampling efforts and are less known, or have groups of organisms that are underrepresented and would, therefore, be valuable to the scientific community and to organizations such as CBD, IPBES or GEO BON."
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:117
+#: 200.en.adoc:118
 msgid "Even data from studies in better-known regions could be of high value as they allow information gaps to be filled and improve time series representations. Thus, all data collected by `*company*` as part of its operation could be published in GBIF, without injury to the need to protect intellectual property issues, or transitory or permanent confidentiality of the information."
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:119
+#: 200.en.adoc:120
 msgid "If data includes sensitive information, such as the location of threatened, sensitive or economically valuable species, it is recommended to apply https://doi.org/10.15468/doc-5jp4-5g10[best practices for generalizing this information^]."
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:121
+#: 200.en.adoc:122
 msgid "Thus, data collected by private companies can be published through GBIF in a relatively short period, if procedural aspects of publication are completed and the data format is adapted to GBIF standards (primarily https://dwc.tdwg.org/terms/[Darwin Core^]). Also, the national node may be provided all technical helpdesk needed for the standardization process."
 msgstr ""
 
 #. type: Title ===
-#: 200.en.adoc:122
+#: 200.en.adoc:123
 #, no-wrap
 msgid "What does it take for a company to be a data publisher to GBIF?"
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:125
+#: 200.en.adoc:126
 msgid "The decision to become a publisher of biodiversity data at GBIF would first come with a decision by the `*company*` management bodies. After that, it is necessary to complete a set of steps that are common to any institution applying for data publishing:"
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:127
+#: 200.en.adoc:128
 msgid "To guarantee institutional arrangements to ensure that all parties involved in the process, from management to the partners from information production, agree to data publishing and to the terms by which it takes place"
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:128
+#: 200.en.adoc:129
 msgid "To acknowledge and agree to the https://www.gbif.org/terms/data-publisher[Data Publisher Agreement^] (the English version is valid for legal purposes)"
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:129
+#: 200.en.adoc:130
 msgid "To be aware of the https://www.gbif.org/terms/data-user[Data User Agreement^], that GBIF data users must agree before using them"
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:130
+#: 200.en.adoc:131
 msgid "To apply for the institution to register with GBIF as a data publisher and request the endorsement of the national node. Application for registration and endorsement is made online with https://www.gbif.org/become-a-publisher[this form^]"
 msgstr ""
 
 #. type: Title ===
-#: 200.en.adoc:131
+#: 200.en.adoc:132
 #, no-wrap
 msgid "Involvement of different parties in the publication process"
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:134
+#: 200.en.adoc:135
 msgid "Depending on the size of the projects that originated the datasets, it is possible that the company’s biodiversity data was obtained by hiring other companies or organizations that carried out the sampling work. This is the most common situation in an EIA or monitoring study, where sampling services are subcontracted. Involvement of these contractors and field technicians who have observed or identified species in the data publishing process is desirable, whenever possible. These technicians can play a relevant role, notably in reviewing data and metadata, contributing to better description and quality of the dataset. On the other hand, it is equally important for them to be recognized and accredited for their work and to associate them with their records. Another way to associate them and their organizations with the dataset is by identifying the associated parties when preparing metadata. Also, they have to be included as co-authors of the dataset and recommended citation."
 msgstr ""
 
 #. type: Title ===
-#: 200.en.adoc:135
+#: 200.en.adoc:136
 #, no-wrap
 msgid "How could the proof of concept be developed?"
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:138
+#: 200.en.adoc:139
 msgid "The proof of concept regarding data publication in GBIF could be developed involving the following steps:"
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:140
+#: 200.en.adoc:141
 msgid "Development of the company's internal processes leading to the decision to publish data on GBIF on an experimental basis."
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:141
+#: 200.en.adoc:142
 msgid "Application for the company’s registration in GBIF as a data publisher."
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:142
+#: 200.en.adoc:143
 msgid "To build a case study on the company's involvement as a data publisher with the regional Node, their country and with the international GBIF, in order to give visibility to the process worldwide and encourage the involvement of other companies as publishers of biodiversity data."
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:143
+#: 200.en.adoc:144
 msgid "Selection of an initial dataset to be published through GBIF, resulting from studies carried out by the company. This should provide a good representation of the taxonomic groups’ diversity and data typologies, in order to assess different kinds of potential problems related to the organization and availability of information."
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:144
+#: 200.en.adoc:145
 msgid "Definition of information type to be published and any restrictions on its publication, e.g. due to the presence of sensitive species, confidential information, data pending validation by government institutions, etc. Occurrence data (i.e. observation or collection of a given species at a certain place and date) or abundance data may be published."
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:145
+#: 200.en.adoc:146
 msgid "Establishment of agreements with data producers (i.e. the institutions and staff hired by the company to collect data for the purposes of the studies) to safeguard intellectual property rights."
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:146
+#: 200.en.adoc:147
 msgid "Formatting of data to be published according to the Darwin Core standard used by GBIF to prepare databases for publication."
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:147
+#: 200.en.adoc:148
 msgid "Selection of a http://www.gbif.org/terms/licences[Creative Commons licence^] for the data to be published, which can be one of the following: CC0, CC-BY, CC-BY-NC. Depending on their characteristics, one of these licenses may be assigned."
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:148
+#: 200.en.adoc:149
 msgid "Publishing data and metadata for each dataset to the GBIF portal. Information publishing options will be evaluated, in all cases using a technology platform developed by GBIF: the Integrated Publishing Toolkit (IPT). GBIF Nodes maintain an IPT, which they make available for hosting publisher datasets from their countries. It is also possible for the company to install and maintain its own IPT. In both cases, the datasets publisher is always the institution, not the Country Node, and the institution is responsible for managing the data (e.g. change, update) autonomously."
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:149
+#: 200.en.adoc:150
 msgid "Monitoring the use of published data for a period of one year after its publication in GBIF. This will be done through statistics provided to the publisher regarding data transfer. In addition, the use of data in scientific publications will be monitored, which is facilitated by assigning a globally unique Document Object Identifier (DOI) to each dataset registered via GBIF and to each dataset downloaded through GBIF."
 msgstr ""
 
 #. type: Title ===
-#: 200.en.adoc:150
+#: 200.en.adoc:151
 #, no-wrap
 msgid "What are the costs for `*this company*`?"
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:152
+#: 200.en.adoc:153
 msgid "Apart from the dedication time provided by `*company*` staff involved in preparing the proof of concept, there are no additional costs for the company. The necessary work may be supported by the GBIF National Node, that has the knowledge and infrastructure necessary to facilitate this publication. When the National Node makes its IPT facility available for hosting and publishing data, it is recommended that this service is framed by the Service Level Agreement between the GBIF Node (as a service provider) and the company (as the user of the service). This service also has no associated costs. In addition, the GBIF Node could provide training on data publishing through GBIF, contributing to the capacity of the `*company*` in the fields of biodiversity information management and data quality."
 msgstr ""
 
