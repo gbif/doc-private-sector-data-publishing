@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: private-sector-data-publishing\n"
 "POT-Creation-Date: 2020-09-09 09:45+0000\n"
-"PO-Revision-Date: 2020-10-02 15:27\n"
+"PO-Revision-Date: 2020-10-02 16:23\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
@@ -70,24 +70,24 @@ msgstr "Licença"
 #. type: Plain text
 #: colophon.en.adoc:19
 msgid "The document _Guidance for private companies to become data publishers through GBIF_ is licensed under https://creativecommons.org/licenses/by-sa/4.0[Creative Commons Attribution-ShareAlike 4.0 Unported License^]."
-msgstr ""
+msgstr "O documento _Guidance for private companies to become data publishers through GBIF_ está licenciado em https://creativecommons.org/licenses/by-sa/4.0[Creative Commons Attribution-ShareAlike 4.0 Unported License^]."
 
 #. type: Title ===
 #: colophon.en.adoc:20
 #, no-wrap
 msgid "Persistent URI"
-msgstr ""
+msgstr "URL Persistente"
 
 #. type: Plain text
 #: colophon.en.adoc:23
 msgid "https://doi.org/10.35035/doc-b8hq-me03"
-msgstr ""
+msgstr "https://doi.org/10.35035/doc-b8hq-me03"
 
 #. type: Title ===
 #: colophon.en.adoc:24
 #, no-wrap
 msgid "Document control"
-msgstr ""
+msgstr "Controlo do Documento"
 
 #. type: Plain text
 #: colophon.en.adoc:27
@@ -114,7 +114,7 @@ msgstr ""
 #: colophon.en.adoc:34
 #, no-wrap
 msgid "Cover image"
-msgstr ""
+msgstr "Imagem de Capa"
 
 #. type: Plain text
 #: colophon.en.adoc:36
@@ -125,22 +125,22 @@ msgstr ""
 #: 100.en.adoc:2
 #, no-wrap
 msgid "Introduction"
-msgstr ""
+msgstr "Introdução"
 
 #. type: Plain text
 #: 100.en.adoc:5
 msgid "The steps for a company to become a data publisher through https://www.gbif.org[GBIF—the Global Biodiversity Information Facility^]— are relatively simple. However, the future publisher needs to be aware of the responsibilities of GBIF data publishers and GBIF data users, as well as the different aspects related to preparation, publication and monitoring of published data."
-msgstr ""
+msgstr "Os passos para uma empresa se tornar uma publicadora de dados através do GBIF são relativamente simples. No entanto, é necessário que o futuro publicador tome conhecimento sobre as responsabilidades dos publicadores de dados GBIF, dos utilizadores dos dados GBIF, assim com dos diferentes aspectos relacionados com a preparação, publicação e acompanhamento dos dados publicados."
 
 #. type: Plain text
 #: 100.en.adoc:7
 msgid "Depending on the size of the company, it may be that the first contact with GBIF is made by staff from the Environment or Sustainability departments. However, the decision to become a publisher will usually be made by an administrator or director, who must be informed about the meaning of becoming a GBIF publisher and what are the benefits for the company."
-msgstr ""
+msgstr "Dependendo do tamanho da empresa, é possível que o primeiro contacto desta com o GBIF seja feito por pessoas da sua área de ambiente ou de sustentabilidade. No entanto, a decisão de se tornar publicador normalmente será tomada por um administrador ou director, o qual deve ser informado sobre o que implica ser um publicador GBIF, e quais o benefícios que isto trará para a empresa."
 
 #. type: Plain text
 #: 100.en.adoc:9
 msgid "A https://www.iaia.org/uploads/pdf/sp7.pdf[guideline document for private-sector organizations that develop Environmental Impact Assessments (EIAs)^] was published by GBIF and the https://www.iaia.org/[International Association for Impact Assessments (IAIA)^] which covers most of the benefits and technical aspects of data publication through GBIF and this document will be updated in 2020. It lacks, however, the components related to costs, license adoption and relation with different parties that are involved in data production within an organisation, which might include subcontractors."
-msgstr ""
+msgstr "A https://www.iaia.org/uploads/pdf/sp7.pdf[guideline document for private-sector organizations that develop Environmental Impact Assessments (EIAs)^] was published by GBIF and the https://www.iaia.org/[International Association for Impact Assessments (IAIA)^] which covers most of the benefits and technical aspects of data publication through GBIF and this document will be updated in 2020. It lacks, however, the components related to costs, license adoption and relation with different parties that are involved in data production within an organisation, which might include subcontractors."
 
 #. type: Plain text
 #: 100.en.adoc:11
@@ -151,17 +151,17 @@ msgstr ""
 #: 100.en.adoc:13 200.en.adoc:14
 #, no-wrap
 msgid "What is GBIF?"
-msgstr ""
+msgstr "O que é o GBIF?"
 
 #. type: Plain text
 #: 100.en.adoc:14
 msgid "What are the advantages of publishing data through GBIF?"
-msgstr ""
+msgstr "Quais as vantagens de publicar dados no GBIF?"
 
 #. type: Plain text
 #: 100.en.adoc:15
 msgid "Who publishes and what data is published through GBIF?"
-msgstr ""
+msgstr "Quem publica e que dados são publicados através do GBIF?"
 
 #. type: Plain text
 #: 100.en.adoc:16
