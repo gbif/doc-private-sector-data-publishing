@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: private-sector-data-publishing\n"
 "POT-Creation-Date: 2020-09-09 09:45+0000\n"
-"PO-Revision-Date: 2020-09-09 09:52\n"
+"PO-Revision-Date: 2020-10-02 12:58\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -198,7 +198,7 @@ msgstr "Présentation"
 #. type: Plain text
 #: 200.en.adoc:7
 msgid "It is proposed in this document to involve *`company`* as a publisher of biodiversity data on the platform of https://www.gbif.org[GBIF—the Global Biodiversity Information Facility^]."
-msgstr ""
+msgstr "Il est proposé dans ce document d’impliquer *`entreprise`* en tant qu’éditeur de données de biodiversité sur la plateforme intergouvernementale https://www.gbif.org[GBIF—le Global Biodiversity Information Facility^] (Système mondial d’information sur la biodiversité)."
 
 #. type: Plain text
 #: 200.en.adoc:9
