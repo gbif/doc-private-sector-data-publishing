@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: private-sector-data-publishing\n"
 "POT-Creation-Date: 2020-09-09 09:45+0000\n"
-"PO-Revision-Date: 2020-10-02 12:58\n"
+"PO-Revision-Date: 2020-10-02 15:27\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -108,7 +108,7 @@ msgstr "Résumé"
 #. type: Plain text
 #: colophon.en.adoc:33
 msgid "This document is a contribution to the https://www.gbif.org/en/project/2Zik1tfJoh3C92ZslvhDIr/[OpenPSD project: Promoting publication and use of private-sector data on biodiversity^], a joint creation of the GBIF nodes of https://www.gbif.org/country/ES/participation[Spain], https://www.gbif.org/country/PT/participation[Portugal], https://www.gbif.org/country/NO/participation[Norway], https://www.gbif.org/country/FR/participation[France] and https://www.gbif.org/country/CO/participation[Colombia] and the companies https://www.edp.com/en[EDP], https://cibio.up.pt/[CIBIO] and https://www.asplanviak.no/[Asplan Viak], and co-funded by the GBIF Secretariat through its https://www.gbif.org/programme/82219/[Capacity Enhancement Support Programme^]."
-msgstr ""
+msgstr "Ce document est une contribution à https://www.gbif. rg/fr/project/2Zik1tfJoh3C92ZslvhDIr/[projet OpenPSD: Promouvoir la publication et l'utilisation des données du secteur privé sur la biodiversité^], une création commune des nœuds GBIF de https://www. bif.org/country/ES/participation[Spain], https://www.gbif.org/country/PT/participation[Portugal], https://www.gbif.org/country/NO/participation[Norway], https://www. bif.org/country/FR/participation[France] et https://www.gbif.org/country/CO/participation[Colombia] et les entreprises https://www.edp.com/fr[EDP], https://cibio.up. t/[CIBIO] et https://www.asplanviak.no/[Asplan Viak] et cofinancé par le Secrétariat du GBIF via son https://www.gbif.org/programme/82219/[Programme de soutien au renforcement des capacités^]."
 
 #. type: Title ===
 #: colophon.en.adoc:34
@@ -187,7 +187,7 @@ msgstr "Ce cadre de référence propose qu'une preuve de concept soit élaborée
 #: 200.en.adoc:2
 #, no-wrap
 msgid "_Proposal_: Biodiversity Data Publication through GBIF"
-msgstr ""
+msgstr "_Proposal_: Publication des données sur la biodiversité via le GBIF"
 
 #. type: Title ===
 #: 200.en.adoc:4
@@ -203,12 +203,12 @@ msgstr "Il est proposé dans ce document d’impliquer *`entreprise`* en tant qu
 #. type: Plain text
 #: 200.en.adoc:9
 msgid "In the context of global biodiversity decline, species occurrence and abundance data are essential tools for planning, implementing and monitoring of conservation and sustainable use strategies. This importance is recognized on a global scale by the https://sdgs.un.org/goals[United Nations Sustainable Development Goals^], namely SDG14 and SDG15, to which GBIF becomes instrumental for the assessment of the progress towards the goals. Likewise, Aichi Target 19 of the Convention on Biological Diversity (CBD) uses the publication of data through GBIF by 2020 as http://www.bipindicators.net/numberofgbifrecordsovertime[one of the indicators to measure the Target’s compliance^] ."
-msgstr ""
+msgstr "Dans le contexte du déclin de la biodiversité mondiale, l'occurrence d'espèces et les données d'abondance sont des outils essentiels pour la planification, la mise en œuvre et le suivi des stratégies de conservation et d'utilisation durable. Cette importance est reconnue à l'échelle mondiale par le https://sdgs.un. rg/goals[Objectifs des Nations Unies pour le développement durable^], à savoir les SDG14 et le SDG15, auxquels le GBIF devient essentiel pour l'évaluation des progrès vers les objectifs. De même, Aichi Target 19 de la Convention sur la diversité biologique (CBD) utilise la publication de données sur le GBIF d’ici 2020 comme http://www. ipindicators.net/numberofgbifrecordsovertime[un des indicateurs pour mesurer la conformité de la cible^] ."
 
 #. type: Plain text
 #: 200.en.adoc:11
 msgid "Alongside universities, research institutes and governmental agencies, the business sector can play a key role here as it develops thousands of environmental impact assessments locally and worldwide, which annually produce millions of records. However, participation in this effort has been very low as data produced are never or very rarely made widely available. In this area, *`company`* could take a prominent position at `*national* / *international*` level, contributing with data to GBIF in an organized and systematic way."
-msgstr ""
+msgstr "De même, l’objectif 19 d’Aichi, défini par la Convention sur la Diversité Biologique (CDB), utilise la publication de données sur le GBIF comme l’un des indicateurs pour valider l’atteinte de l’objectif d’ici 2020. Aux côtés des universités, instituts de recherche et agences gouvernementales, le secteur privé peut y jouer un rôle clé, grâce aux milliers d’études d’impacts environnementaux effectuées au niveau local dans le monde entier, qui produisent chaque année des millions de données. Cependant, la participation à cet effort est encore très faible, et les données ne sont jamais, ou très rarement, mises à disposition du plus grand nombre. Dans ce domaine, <entreprise> pourrait prendre une position de tête au niveau <national/international>, en partageant ses données dans le GBIF de manière organisée et systématique."
 
 #. type: Plain text
 #: 200.en.adoc:13
@@ -236,12 +236,12 @@ msgstr "Quels sont les avantages de la publication des données dans le réseau 
 #. type: Plain text
 #: 200.en.adoc:23
 msgid "Publishing biodiversity data in GBIF is an initiative that could be highly visible globally, helping to consolidate `*company*`'s reputation as a reference in the field of sustainability. In fact, data publication through GBIF is seen as very important within the CBD and has even been chosen as one of the Aichi Targets (Target 19) indicators of the Biodiversity Decade (2010-2020). Data published through GBIF also contributes to Aichi Targets 9 (invasive species), 11 (protected areas) and 12 (threatened species). Likewise, these data will be relevant also to the assessment of the SDG 14 (Life below water) and 15 (Life on Land)."
-msgstr ""
+msgstr "La publication de données sur la biodiversité dans le GBIF est une initiative qui pourrait être très visible dans le monde entier, aider à consolider la réputation de la « *entreprise* » en tant que référence dans le domaine de la durabilité. En fait, la publication de données sur le GBIF est considérée comme très importante au sein de la CDB et a même été choisie comme l'un des indicateurs cibles d'Aichi (Target 19) de la Décennie de la biodiversité (2010-2020). Les données publiées par le GBIF contribuent également à Aichi Targets 9 (espèces envahissantes), 11 (aires protégées) et 12 (espèces menacées). De même, ces données seront pertinentes également pour l’évaluation du DDG 14 (Life below water) et du DDG 15 (Life on Land)."
 
 #. type: Plain text
 #: 200.en.adoc:25
 msgid "By contributing to these objectives, `*company*` will also be improving its environmental and social profile by increasing the return on investment initially made to obtain these data. GBIF is very keen to use and disseminate new case studies, and data mobilization from the business sector is currently an important objective of the organization. This process could favorably contribute to the organization's performance on the Dow Jones Sustainability Index and the assessment of the company in the framework of Equator Principles."
-msgstr ""
+msgstr "En contribuant à ces objectifs, `*entreprise*` améliorera également son profil environnemental et social en augmentant le retour sur investissement initialement fait pour obtenir ces données. Le GBIF est très désireux d'utiliser et de diffuser de nouvelles études de cas, et la mobilisation des données du secteur des affaires est actuellement un objectif important de l'organisation. Ce processus pourrait contribuer favorablement à la performance de l'organisation sur l'Indice de durabilité Dow Jones et à l'évaluation de l'entreprise dans le cadre des Principes de l'Équateur."
 
 #. type: Plain text
 #: 200.en.adoc:27
@@ -262,12 +262,12 @@ msgstr "En résumé, d’après le rapport Digitally Transforming Environmental 
 #. type: Plain text
 #: 200.en.adoc:33
 msgid "Lower cost of information search"
-msgstr ""
+msgstr "Réduire le coût de la recherche d'informations"
 
 #. type: Plain text
 #: 200.en.adoc:34
 msgid "Reduced need for detailed field surveys"
-msgstr ""
+msgstr "Besoin réduit pour des enquêtes détaillées sur le terrain"
 
 #. type: Plain text
 #: 200.en.adoc:35
