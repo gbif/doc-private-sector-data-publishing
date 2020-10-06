@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: private-sector-data-publishing\n"
 "POT-Creation-Date: 2020-09-09 09:45+0000\n"
-"PO-Revision-Date: 2020-10-06 08:58\n"
+"PO-Revision-Date: 2020-10-06 11:44\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -272,7 +272,7 @@ msgstr "Besoin réduit pour des enquêtes détaillées sur le terrain"
 #. type: Plain text
 #: 200.en.adoc:35
 msgid "More complete impact information at the pre-referral stages may reduce the need for a formal EIA (6-18 month time saving)"
-msgstr ""
+msgstr "Des informations plus complètes sur les impacts aux étapes préliminaires, pouvant réduire le recours à une étude d’impacts environnementaux (6 à 18 mois économisés)"
 
 #. type: Plain text
 #: 200.en.adoc:36
@@ -282,12 +282,12 @@ msgstr "Des données de suivi améliorées, réduisant le risque de suspension t
 #. type: Plain text
 #: 200.en.adoc:37
 msgid "Increased confidence among environmentally aware companies for business investment and future partnerships"
-msgstr ""
+msgstr "Une confiance accrue envers les entreprises soucieuses de l’environnement pour de futurs investissements et partenariats"
 
 #. type: Plain text
 #: 200.en.adoc:38
 msgid "Improved predictability of accessing markets"
-msgstr ""
+msgstr "Une probabilité accrue d'obtenir des marches"
 
 #. type: Plain text
 #: 200.en.adoc:39
