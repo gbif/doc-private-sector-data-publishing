@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: private-sector-data-publishing\n"
 "POT-Creation-Date: 2020-09-09 09:45+0000\n"
-"PO-Revision-Date: 2020-10-06 11:44\n"
+"PO-Revision-Date: 2020-10-06 13:57\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -292,17 +292,17 @@ msgstr "Une probabilité accrue d'obtenir des marches"
 #. type: Plain text
 #: 200.en.adoc:39
 msgid "Using open tools and data to guide environmental decisions will make the process more transparent and build trust and certainty in the process"
-msgstr ""
+msgstr "L’utilisation de données et d’outils ouverts pour prendre des décisions environnementales rendra le processus plus transparent et permettra de gagner en confiance et en fiabilité"
 
 #. type: Plain text
 #: 200.en.adoc:40
 msgid "Increased investor and community confidence will deliver continued interest in business development granted by public bodies"
-msgstr ""
+msgstr "La confiance accrue des investisseurs et de la communauté suscitera un intérêt grandissant pour les actions avec les secteur privé portées par les organismes publics"
 
 #. type: Plain text
 #: 200.en.adoc:41
 msgid "Better tools to process easily accessible data will help assess the scale of the impact, and the value, type and success of any proposed offset"
-msgstr ""
+msgstr "De meilleurs outils pour traiter les données facilement accessibles aideront à évaluer l'ampleur de l'impact, ainsi que la valeur, le type et le succès de toute compensation proposée"
 
 #. type: Title ===
 #: 200.en.adoc:42
@@ -313,17 +313,18 @@ msgstr "Qui publie des données dans le réseau GBIF ?"
 #. type: Plain text
 #: 200.en.adoc:45
 msgid "To date, GBIF includes 53,939 datasets on its portal published by https://www.gbif.org/publisher/search[1,637 data publishing institutions^]. These publishers are mostly government agencies, natural history museums and herbaria, universities, research centers and non-governmental organizations of various kinds."
-msgstr ""
+msgstr "A l’heure actuelle, le GBIF comprend 53 939 jeux de données sur son portail, publiés par https://www.gbif.org/publisher/search[1,637 éditeurs de données enregistrés^]. Ces éditeurs sont pour la plupart des agences gouvernementales, des musées d’histoire naturelle, des universités, des organismes de recherche et diverses organisations non-gouvernementales."
 
 #. type: Plain text
 #: 200.en.adoc:47
 msgid "The almost complete absence of the business sector is noticeable, which limits access to a vast and important volume of biodiversity data collected by companies around the world. In total, private company registers amount to 1,362,393, which is less than 0.09 per cent of https://www.gbif.org/occurrence/search[all records published in GBIF^]."
-msgstr ""
+msgstr "L’absence presque totale du secteur privé est visible, ce qui limite l’accès à un grand volume de données de biodiversité collectées par des entreprises du monde entier. \n"
+"Au total, les enregistrements issus de entreprises privées s’élèvent à 1 362 393, ce qui constitue moins de 0,09 % https://www.gbif.org/occurrence/search[du nombre total d'enregistrements publiés dans le GBIF.^]."
 
 #. type: Plain text
 #: 200.en.adoc:49
 msgid "<<table-01,Table 1>> lists the most significant private sector publishers."
-msgstr ""
+msgstr "<<table-01,Table 1>> Le tableau 1 liste les principaux éditeurs de données issus du secteur privé."
 
 #. type: Named 'caption' AttributeList argument for style 'caption'
 #: 200.en.adoc:51
@@ -335,7 +336,7 @@ msgstr "Tableau 1."
 #: 200.en.adoc:52
 #, no-wrap
 msgid "Private-sector companies that publish their data through GBIF (as of 7 August 2020)"
-msgstr ""
+msgstr "Entreprises du secteur privé publiant leurs données dans le réseau GBIF (à la date du 7 août 2020)"
 
 #. type: Table
 #: 200.en.adoc:109
@@ -378,141 +379,143 @@ msgstr "Quelles données une entreprise peut-elle publier dans le GBIF ?"
 #. type: Plain text
 #: 200.en.adoc:114
 msgid "Companies that carry out environmental impact assessments, impact monitoring and compensatory measures studies, thereby collect species occurrence and abundance data, may publish them on GBIF."
-msgstr ""
+msgstr "Les entreprises qui effectuent des études d’impacts environnementaux, du suivi d’impact et des études de mesures compensatoires, collectant ainsi des données d’occurrence ou d’abondance d’espèces, peuvent les publier dans le GBIF."
 
 #. type: Plain text
 #: 200.en.adoc:116
 msgid "A lot of these data are collected in regions that lack sampling efforts and are less known, or have groups of organisms that are underrepresented and would, therefore, be valuable to the scientific community and to organizations such as CBD, IPBES or GEO BON."
-msgstr ""
+msgstr "Beaucoup de ces données sont collectées dans des régions dans lesquelles les efforts de prospection sont faibles et dont la biodiversité est moins connue, ou possèdent des organismes sous-représentés, et sont donc d’un grand intérêt pour la communauté scientifique et les organisations comme la CBD, IPBES ou GEO BON."
 
 #. type: Plain text
 #: 200.en.adoc:118
 msgid "Even data from studies in better-known regions could be of high value as they allow information gaps to be filled and improve time series representations. Thus, all data collected by `*company*` as part of its operation could be published in GBIF, without injury to the need to protect intellectual property issues, or transitory or permanent confidentiality of the information."
-msgstr ""
+msgstr "Même les données collectées dans des régions mieux étudiées peuvent être précieuses, car elles permettent de combler les lacunes d’information et d’améliorer les suivis temporels. Ainsi, toutes les données collectées par `*entreprise*` au cours de ses opérations peuvent être publiées dans le GBIF, en prenant en compte la protection de la propriété intellectuelle et de la confidentialité (permanente ou temporaire) des informations."
 
 #. type: Plain text
 #: 200.en.adoc:120
 msgid "If data includes sensitive information, such as the location of threatened, sensitive or economically valuable species, it is recommended to apply https://doi.org/10.15468/doc-5jp4-5g10[best practices for generalizing this information^]."
-msgstr ""
+msgstr "Si les données comportent des informations sensibles, telles que la localisation d’espèces menacées, sensibles ou ayant une forte valeur économique, il est recommandé d’appliquer https://doi.org/10.15468/doc-5jp4-5g10 [les bonnes pratiques en floutant ces informations^]."
 
 #. type: Plain text
 #: 200.en.adoc:122
 msgid "Thus, data collected by private companies can be published through GBIF in a relatively short period, if procedural aspects of publication are completed and the data format is adapted to GBIF standards (primarily https://dwc.tdwg.org/terms/[Darwin Core^]). Also, the national node may be provided all technical helpdesk needed for the standardization process."
-msgstr ""
+msgstr "De cette façon, les données collectées par des entreprises privées peuvent être publiées dans le GBIF au bout d’une courte période, si les aspects administratifs de la publication sont finalisés et si le format des données est adapté à la structure exigée par le GBIF (principalement https://dwc.tdwg.org/terms/[le Darwin Core^]). Le point nodal national peut également fournir tout le support technique demandé au cours du processus de standardisation et de publication des données."
 
 #. type: Title ===
 #: 200.en.adoc:123
 #, no-wrap
 msgid "What does it take for a company to be a data publisher to GBIF?"
-msgstr ""
+msgstr "Comment une entreprise devient-elle éditeur de données dans le GBIF?"
 
 #. type: Plain text
 #: 200.en.adoc:126
 msgid "The decision to become a publisher of biodiversity data at GBIF would first come with a decision by the `*company*` management bodies. After that, it is necessary to complete a set of steps that are common to any institution applying for data publishing:"
-msgstr ""
+msgstr "La décision de devenir éditeur de données de biodiversité dans le réseau GBIF doit être prise par les branches administratives de `*entreprise*`, Il est ensuite nécessaire de compléter quelques étapes, communes à toutes les institutions souhaitant s’enregistrer comme éditeur de données :"
 
 #. type: Plain text
 #: 200.en.adoc:128
 msgid "To guarantee institutional arrangements to ensure that all parties involved in the process, from management to the partners from information production, agree to data publishing and to the terms by which it takes place"
-msgstr ""
+msgstr "Prendre des mesures au niveau institutionnel pour s’assurer que toutes les parties impliquées dans le processus, de l’administration jusqu’aux partenaires liés à la production des données, donnent leur accord pour la publication des données selon les termes indiqués"
 
 #. type: Plain text
 #: 200.en.adoc:129
 msgid "To acknowledge and agree to the https://www.gbif.org/terms/data-publisher[Data Publisher Agreement^] (the English version is valid for legal purposes)"
-msgstr ""
+msgstr "Prendre connaissance et accepter le https://www.gbif.org/terms/data-publisher[Data Publisher Agreement^] (la version anglaise est valide dans un cadre juridique)"
 
 #. type: Plain text
 #: 200.en.adoc:130
 msgid "To be aware of the https://www.gbif.org/terms/data-user[Data User Agreement^], that GBIF data users must agree before using them"
-msgstr ""
+msgstr "Prendre connaissance du https://www.gbif.org/terms/data-user[Data User Agreement^], que les utilisateurs du GBIF doivent accepter avant d’utiliser les données"
 
 #. type: Plain text
 #: 200.en.adoc:131
 msgid "To apply for the institution to register with GBIF as a data publisher and request the endorsement of the national node. Application for registration and endorsement is made online with https://www.gbif.org/become-a-publisher[this form^]"
-msgstr ""
+msgstr "Soumettre la candidature de l’institution pour qu’elle soit enregistrée comme éditrice de données GBIF, et demander la validation du point nodal national. Les demandes d’enregistrement et de validation se font en ligne via https://www.gbif.org/become-a-publisher [ce formulaire^]"
 
 #. type: Title ===
 #: 200.en.adoc:132
 #, no-wrap
 msgid "Involvement of different parties in the publication process"
-msgstr ""
+msgstr "Implication des différentes parties dans le processus de publication"
 
 #. type: Plain text
 #: 200.en.adoc:135
 msgid "Depending on the size of the projects that originated the datasets, it is possible that the company’s biodiversity data was obtained by hiring other companies or organizations that carried out the sampling work. This is the most common situation in an EIA or monitoring study, where sampling services are subcontracted. Involvement of these contractors and field technicians who have observed or identified species in the data publishing process is desirable, whenever possible. These technicians can play a relevant role, notably in reviewing data and metadata, contributing to better description and quality of the dataset. On the other hand, it is equally important for them to be recognized and accredited for their work and to associate them with their records. Another way to associate them and their organizations with the dataset is by identifying the associated parties when preparing metadata. Also, they have to be included as co-authors of the dataset and recommended citation."
-msgstr ""
+msgstr "Selon l’importance des projets dans le cadre desquels les jeux de données sont produits, il est possible que les données de biodiversité de l’entreprise aient été obtenues par le biais d’autres entreprises ou organisations ayant effectué le travail de collecte. Il s’agit de la configuration la plus commune dans le cas des études d’impacts environnementaux ou des études de suivi, pour lesquelles des sociétés sous-traitantes effectuent les campagnes d’échantillonnage. L’implication dans le processus de publication des données de ces sous-traitants et techniciens de terrain, qui ont observé ou identifié les espèces, est souhaitable à chaque fois qu’elle est possible. Ces techniciens peuvent jouer un rôle important, notamment dans la vérification des données et métadonnées, et contribuer ainsi à une meilleure qualité du jeu de données. Il est également important qu’ils soient reconnus et cités pour leur travail, et associés aux enregistrements publiés.\n\n"
+"Une autre façon de les associer, ainsi que leur organisation, au jeu de données est de les identifier dans les “parties associées” lors du remplissage des métadonnées. Ils doivent être inclus en tant que co-auteurs du jeu de données et dans la citation de ce dernier."
 
 #. type: Title ===
 #: 200.en.adoc:136
 #, no-wrap
 msgid "How could the proof of concept be developed?"
-msgstr ""
+msgstr "Comment peut être développée la preuve de concept ?"
 
 #. type: Plain text
 #: 200.en.adoc:139
 msgid "The proof of concept regarding data publication in GBIF could be developed involving the following steps:"
-msgstr ""
+msgstr "La preuve de concept concernant la publication de données dans le GBIF pourrait être développée selon les étapes suivantes :"
 
 #. type: Plain text
 #: 200.en.adoc:141
 msgid "Development of the company's internal processes leading to the decision to publish data on GBIF on an experimental basis."
-msgstr ""
+msgstr "Développement des processus internes de l’entreprise menant à la décision de publier des données dans le GBIF de façon expérimentale."
 
 #. type: Plain text
 #: 200.en.adoc:142
 msgid "Application for the company’s registration in GBIF as a data publisher."
-msgstr ""
+msgstr "Soumission par l’entreprise de la demande d’enregistrement en tant qu'éditeur de données."
 
 #. type: Plain text
 #: 200.en.adoc:143
 msgid "To build a case study on the company's involvement as a data publisher with the regional Node, their country and with the international GBIF, in order to give visibility to the process worldwide and encourage the involvement of other companies as publishers of biodiversity data."
-msgstr ""
+msgstr "Mise en place d’une étude de cas sur l’implication de l’entreprise en tant qu’éditeur de données avec le point nodal national, les partenaires nationaux et le GBIF international, afin de donner une visibilité mondiale au processus et inciter d’autres entreprises à s’investir en tant qu’éditeurs de données."
 
 #. type: Plain text
 #: 200.en.adoc:144
 msgid "Selection of an initial dataset to be published through GBIF, resulting from studies carried out by the company. This should provide a good representation of the taxonomic groups’ diversity and data typologies, in order to assess different kinds of potential problems related to the organization and availability of information."
-msgstr ""
+msgstr "Sélection d’un premier jeu de données pour publication sur le GBIF, issu d’études effectuées par l’entreprise. Ce jeu de données doit contenir une bonne représentation de la diversité taxonomique des groupes étudiés et des formats de données, afin d’anticiper les potentiels problèmes liés à la structure et à la disponibilité de l’information."
 
 #. type: Plain text
 #: 200.en.adoc:145
 msgid "Definition of information type to be published and any restrictions on its publication, e.g. due to the presence of sensitive species, confidential information, data pending validation by government institutions, etc. Occurrence data (i.e. observation or collection of a given species at a certain place and date) or abundance data may be published."
-msgstr ""
+msgstr "Définition du type d’informations pouvant être publiées et de toute restriction sur leur publication, par exemple la présence d’espèces sensibles, d’informations confidentielles, de données en attente de validation par des institutions gouvernementales, etc. Les données d’occurrence (observation ou collecte d’une espèce donnée à un lieu et une date données) ou d’abondance peuvent être publiées."
 
 #. type: Plain text
 #: 200.en.adoc:146
 msgid "Establishment of agreements with data producers (i.e. the institutions and staff hired by the company to collect data for the purposes of the studies) to safeguard intellectual property rights."
-msgstr ""
+msgstr "Establishment of agreements with data producers (i.e. the institutions and staff hired by the company to collect data for the purposes of the studies) to safeguard intellectual property rights."
 
 #. type: Plain text
 #: 200.en.adoc:147
 msgid "Formatting of data to be published according to the Darwin Core standard used by GBIF to prepare databases for publication."
-msgstr ""
+msgstr "Mise en place d’accords avec les producteurs de données (par exemple institutions et personnels embauchés par l’entreprise pour collecter des données dans le contexte d’études de terrain), afin de garantir le droit à la propriété intellectuelle. Formatage des données afin qu’elles soient publiées dans le respect du standard Darwin Core utilisé par le GBIF pour préparer les bases de données pour la publication."
 
 #. type: Plain text
 #: 200.en.adoc:148
 msgid "Selection of a http://www.gbif.org/terms/licences[Creative Commons licence^] for the data to be published, which can be one of the following: CC0, CC-BY, CC-BY-NC. Depending on their characteristics, one of these licenses may be assigned."
-msgstr ""
+msgstr "Sélection d’une licence http://www.gbif.org/terms/licences[Creative Commons licence^] à attribuer au jeu de données en cours de publication ; le choix doit s’effectuer parmi les licences CC0, CC-BY, ou CC-BY-NC5."
 
 #. type: Plain text
 #: 200.en.adoc:149
 msgid "Publishing data and metadata for each dataset to the GBIF portal. Information publishing options will be evaluated, in all cases using a technology platform developed by GBIF: the Integrated Publishing Toolkit (IPT). GBIF Nodes maintain an IPT, which they make available for hosting publisher datasets from their countries. It is also possible for the company to install and maintain its own IPT. In both cases, the datasets publisher is always the institution, not the Country Node, and the institution is responsible for managing the data (e.g. change, update) autonomously."
-msgstr ""
+msgstr "Publier données et métadonnées associées à chaque jeu de données enregistré sur le portail GBIF. Les options de mise en ligne de données seront étudiées, et utiliseront dans tous les cas la plateforme logicielle développée par le GBIF : l’Integrated Publishing Toolkit (IPT). Les points nodaux GBIF maintiennent un IPT, qu’ils rendent accessible pour héberger les jeux de données d’éditeurs de leur pays. Il est aussi possible pour une entreprise d’installer et maintenir son propre IPT. Dans les deux cas, l’éditeur de données est toujours l’institution (entreprise), et non le point nodal, et l’institution est responsable de la gestion des données (modifications, mises à jour) de façon autonome."
 
 #. type: Plain text
 #: 200.en.adoc:150
 msgid "Monitoring the use of published data for a period of one year after its publication in GBIF. This will be done through statistics provided to the publisher regarding data transfer. In addition, the use of data in scientific publications will be monitored, which is facilitated by assigning a globally unique Document Object Identifier (DOI) to each dataset registered via GBIF and to each dataset downloaded through GBIF."
-msgstr ""
+msgstr "Suivre l’utilisation des données publiées durant une période d’un an après leur mise en ligne dans le réseau GBIF. Cela sera fait grâce aux statistiques fournies par l’éditeur de données concernant l’envoi de données. De plus, l’utilisation des données dans les publications scientifiques sera suivie grâce à l’attribution d’un Digital Object Identifier (DOI) à chaque jeu de données enregistré sur le GBIF ou téléchargé via le GBIF."
 
 #. type: Title ===
 #: 200.en.adoc:151
 #, no-wrap
 msgid "What are the costs for `*this company*`?"
-msgstr ""
+msgstr "9. Quels sont les coûts pour `*entreprise*` ?"
 
 #. type: Plain text
 #: 200.en.adoc:153
 msgid "Apart from the dedication time provided by `*company*` staff involved in preparing the proof of concept, there are no additional costs for the company. The necessary work may be supported by the GBIF National Node, that has the knowledge and infrastructure necessary to facilitate this publication. When the National Node makes its IPT facility available for hosting and publishing data, it is recommended that this service is framed by the Service Level Agreement between the GBIF Node (as a service provider) and the company (as the user of the service). This service also has no associated costs. In addition, the GBIF Node could provide training on data publishing through GBIF, contributing to the capacity of the `*company*` in the fields of biodiversity information management and data quality."
-msgstr ""
+msgstr "Mis à part le temps consacré par les équipes de `*entreprise*` à la préparation de la preuve de concept, il n’y a pas de coût s supplémentaires pour l’entreprise. Le travail nécessaire peut se faire avec l’appui du point nodal GBIF national, qui a les connaissances et l’infrastructure nécessaires pour faciliter la publication des données. Si le point nodal national met son installation IPT à disposition pour héberger et publier les données, il est recommandé d’encadrer ce service avec le Service Level Agreement entre le point nodal GBIF (fournisseur du service) et l’entreprise (utilisateur du service). Ce service n’a pas non plus de coûts associés.\n"
+"De plus, le point nodal GBIF peut effectuer une formation sur la mise en ligne des données dans le réseau GBIF, contribuant ainsi à renforcer les capacités de `*entreprise*` dans les domaines de la gestion des informations sur la biodiversité et de la qualité des données."
 
 #. type: Title ==
 #: glossary.en.adoc:2
@@ -525,45 +528,45 @@ msgstr "Glossaire"
 #: glossary.en.adoc:7
 #, no-wrap
 msgid "[[anchor]]term"
-msgstr ""
+msgstr "[[anchor]]term"
 
 #. type: Plain text
 #: glossary.en.adoc:8
 msgid "add short tags corresponding to an anchor name in HTML between brackets (no spaces allowed), then list the term, which should be written as you wish it to appear."
-msgstr ""
+msgstr "add short tags corresponding to an anchor name in HTML between brackets (no spaces allowed), then list the term, which should be written as you wish it to appear."
 
 #. type: Labeled list
 #: glossary.en.adoc:8
 #, no-wrap
 msgid "[[authorization]]authorization"
-msgstr ""
+msgstr "[[authorization]]authorization"
 
 #. type: Plain text
 #: glossary.en.adoc:9
 msgid "refers to the process of determining which individuals can be afforded different access rights for authentication and data access."
-msgstr ""
+msgstr "refers to the process of determining which individuals can be afforded different access rights for authentication and data access."
 
 #. type: Labeled list
 #: glossary.en.adoc:9
 #, no-wrap
 msgid "[[decimal-degrees]]decimal degrees"
-msgstr ""
+msgstr "[[decimal-degrees]]decimal degrees"
 
 #. type: Plain text
 #: glossary.en.adoc:10
 msgid "degrees expressed as a single real number (e.g. −22.343456°). Note that latitudes south of the equator are negative, as are longitudes west of the prime meridian to −180 degrees."
-msgstr ""
+msgstr "degrees expressed as a single real number (e.g. −22.343456°). Note that latitudes south of the equator are negative, as are longitudes west of the prime meridian to −180 degrees."
 
 #. type: Labeled list
 #: glossary.en.adoc:10
 #, no-wrap
 msgid "[[generalization]]generalization"
-msgstr ""
+msgstr "[[generalization]]generalization"
 
 #. type: Plain text
 #: glossary.en.adoc:11
 msgid "refers here to any modifications carried out to source data to conceal sensitive content, typically by reducing the precision of the data (such as reporting at the level of a watershed, grid or county, citing just the nearest named place, or by deleting some parts of the data). In geographic terms it refers to the conversion of a geographic representation to one with less resolution and less information content; traditionally associated with a change in scale. Also referred elsewhere to as: _fuzzying_, _dummying-up_, etc."
-msgstr ""
+msgstr "refers here to any modifications carried out to source data to conceal sensitive content, typically by reducing the precision of the data (such as reporting at the level of a watershed, grid or county, citing just the nearest named place, or by deleting some parts of the data). In geographic terms it refers to the conversion of a geographic representation to one with less resolution and less information content; traditionally associated with a change in scale. Also referred elsewhere to as: _fuzzying_, _dummying-up_, etc."
 
 #. type: Plain text
 #: glossary.en.adoc:12 bibliography.en.adoc:12
@@ -580,17 +583,17 @@ msgstr "Références"
 #. type: Plain text
 #: bibliography.en.adoc:7
 msgid "[[cadman]] Cadman M, Chavan V, King N, Willoughby S, Rajvanshi A, Mathur V, Roberts R & Hirsch T (2011) Publishing EIA-Related Primary Biodiversity Data: GBIF-IAIA Best Practice Guide. Fargo, N.D., USA: IAIA Special Publication Series No. 7. Accessible at https://www.iaia.org/uploads/pdf/sp7.pdf"
-msgstr ""
+msgstr "[[cadman]] Cadman M, Chavan V, King N, Willoughby S, Rajvanshi A, Mathur V, Roberts R & Hirsch T (2011) Publishing EIA-Related Primary Biodiversity Data: GBIF-IAIA Best Practice Guide. Fargo, N.D., USA: IAIA Special Publication Series No. 7. Accessible at https://www.iaia.org/uploads/pdf/sp7.pdf"
 
 #. type: Plain text
 #: bibliography.en.adoc:8
 msgid "[[hatton]] Hatton T, Lockwood N, Moran C, Smyth E & Vogel P (2019) Digitally Transforming Environmental Assessment: Report of the Digital Environmental Impact Assessment Working Group. Perth, Australia: Western Australian Biodiversity Science Institute. Available at: https://wabsi.org.au/wp-content/uploads/2019/10/Digitally-Transforming-EIA_Working-Group-Report-FINAL-1.pdf"
-msgstr ""
+msgstr "[[hatton]] Hatton T, Lockwood N, Moran C, Smyth E & Vogel P (2019) Digitally Transforming Environmental Assessment: Report of the Digital Environmental Impact Assessment Working Group. Perth, Australia: Western Australian Biodiversity Science Institute. Available at: https://wabsi.org.au/wp-content/uploads/2019/10/Digitally-Transforming-EIA_Working-Group-Report-FINAL-1.pdf"
 
 #. type: Plain text
 #: bibliography.en.adoc:9
 msgid "[[chapman]] Chapman AD (2020) Current Best Practices for Generalizing Sensitive Species Occurrence Data [Community review draft]. Copenhagen: GBIF Secretariat. https://doi.org/10.15468/doc-5jp4-5g10"
-msgstr ""
+msgstr "[[chapman]] Chapman AD (2020) Current Best Practices for Generalizing Sensitive Species Occurrence Data [Community review draft]. Copenhagen: GBIF Secretariat. https://doi.org/10.15468/doc-5jp4-5g10"
 
 #. type: Plain text
 #: bibliography.en.adoc:10
@@ -600,5 +603,5 @@ msgstr "[[cbd]] Secrétariat de la Convention sur la diversité biologique. (1er
 #. type: Plain text
 #: bibliography.en.adoc:11
 msgid "[[djsi]] S&P Global Inc. (1st April 2020) Dow Jones Sustainability Indices. https://www.robecosam.com/csa/indices/djsi-index-family.html"
-msgstr ""
+msgstr "[[djsi]] S&P Global Inc. (1st April 2020) Dow Jones Sustainability Indices. https://www.robecosam.com/csa/indices/djsi-index-family.html"
 
