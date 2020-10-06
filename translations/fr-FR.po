@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: private-sector-data-publishing\n"
 "POT-Creation-Date: 2020-09-09 09:45+0000\n"
-"PO-Revision-Date: 2020-10-02 15:27\n"
+"PO-Revision-Date: 2020-10-06 08:58\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -48,7 +48,7 @@ msgstr "Suggestion de citation"
 #. type: Plain text
 #: colophon.en.adoc:11
 msgid "Figueira R, Beja P, Villaverde C, Vega M, Cezón K, Messina T, Archambeau A, Johaadien R, Endresen D & Escobar D (2020) Guidance for private companies to become data publishers through GBIF: Template document to support the internal authorization process to become a GBIF publisher. Copenhagen: GBIF Secretariat. https://doi.org/10.35035/doc-b8hq-me03"
-msgstr ""
+msgstr "Figueira R, Beja P, Villaverde C, Vega M, Cezón K, Messina T, Archambeau A, Johaadien R, Endresen D & Escobar D (2020) Guidance for private companies to become data publishers through GBIF: Template document to support the internal authorization process to become a GBIF publisher. Copenhagen: GBIF Secretariat. https://doi.org/10.35035/doc-b8hq-me03"
 
 #. type: Title ===
 #: colophon.en.adoc:12
@@ -277,7 +277,7 @@ msgstr ""
 #. type: Plain text
 #: 200.en.adoc:36
 msgid "Improved monitoring data reduce risk of operations being temporarily suspended due to a single compliance breach"
-msgstr ""
+msgstr "Des données de suivi améliorées, réduisant le risque de suspension temporaire des opérations pour un manquement à la conformité"
 
 #. type: Plain text
 #: 200.en.adoc:37
