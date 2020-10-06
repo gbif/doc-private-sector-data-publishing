@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: private-sector-data-publishing\n"
 "POT-Creation-Date: 2020-09-09 09:45+0000\n"
-"PO-Revision-Date: 2020-10-02 16:23\n"
+"PO-Revision-Date: 2020-10-06 13:57\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
@@ -20,7 +20,7 @@ msgstr ""
 #: index.en.adoc:1
 #, no-wrap
 msgid "Guidance for private companies to become data publishers through GBIF"
-msgstr ""
+msgstr "Como uma empresa pode tornar-se uma publicadora de dados através do GBIF"
 
 #. type: Plain text
 #: index.en.adoc:23
@@ -70,7 +70,7 @@ msgstr "Licença"
 #. type: Plain text
 #: colophon.en.adoc:19
 msgid "The document _Guidance for private companies to become data publishers through GBIF_ is licensed under https://creativecommons.org/licenses/by-sa/4.0[Creative Commons Attribution-ShareAlike 4.0 Unported License^]."
-msgstr "O documento _Guidance for private companies to become data publishers through GBIF_ está licenciado em https://creativecommons.org/licenses/by-sa/4.0[Creative Commons Attribution-ShareAlike 4.0 Unported License^]."
+msgstr "O documento _GBIF Communications Strategy_ está licenciado em https://creativecommons.org/licenses/by-sa/4.0[Creative Commons Attribution-ShareAlike 4.0 Unported License^]."
 
 #. type: Title ===
 #: colophon.en.adoc:20
@@ -97,7 +97,7 @@ msgstr ""
 #. type: Plain text
 #: colophon.en.adoc:29
 msgid "This document is also available in https://#[Spanish], https://#[Colombian Spanish], https://#[French] and https://#[Portuguese]."
-msgstr ""
+msgstr "This document is also available in https://#[Spanish], https://#[Colombian Spanish], https://#[French] and https://#[Portuguese]."
 
 #. type: Title ===
 #: colophon.en.adoc:30
