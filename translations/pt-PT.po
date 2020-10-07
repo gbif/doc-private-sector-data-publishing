@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: private-sector-data-publishing\n"
 "POT-Creation-Date: 2020-09-09 09:45+0000\n"
-"PO-Revision-Date: 2020-10-07 10:23\n"
+"PO-Revision-Date: 2020-10-07 11:22\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
@@ -97,7 +97,7 @@ msgstr ""
 #. type: Plain text
 #: colophon.en.adoc:29
 msgid "This document is also available in https://#[Spanish], https://#[Colombian Spanish], https://#[French] and https://#[Portuguese]."
-msgstr "This document is also available in https://#[Spanish], https://#[Colombian Spanish], https://#[French] and https://#[Portuguese]."
+msgstr "This document is also available in https://#[Spanish], https://#[French] and https://#[Portuguese]."
 
 #. type: Title ===
 #: colophon.en.adoc:30
