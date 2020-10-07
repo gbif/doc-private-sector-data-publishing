@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: private-sector-data-publishing\n"
 "POT-Creation-Date: 2020-09-09 09:45+0000\n"
-"PO-Revision-Date: 2020-10-06 13:57\n"
+"PO-Revision-Date: 2020-10-07 09:23\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
@@ -31,7 +31,7 @@ msgstr "languageLinks:combined[]"
 #: colophon.en.adoc:3
 #, no-wrap
 msgid "img/web/photo.jpg"
-msgstr ""
+msgstr "img/web/photo.jpg"
 
 #. type: Title ==
 #: colophon.en.adoc:6
@@ -48,7 +48,7 @@ msgstr "Citação sugerida"
 #. type: Plain text
 #: colophon.en.adoc:11
 msgid "Figueira R, Beja P, Villaverde C, Vega M, Cezón K, Messina T, Archambeau A, Johaadien R, Endresen D & Escobar D (2020) Guidance for private companies to become data publishers through GBIF: Template document to support the internal authorization process to become a GBIF publisher. Copenhagen: GBIF Secretariat. https://doi.org/10.35035/doc-b8hq-me03"
-msgstr ""
+msgstr "Figueira R, Beja P, Villaverde C, Vega M, Cezón K, Messina T, Archambeau A, Johaadien R, Endresen D & Escobar D (2020) Guidance for private companies to become data publishers through GBIF: Template document to support the internal authorization process to become a GBIF publisher. Copenhagen: GBIF Secretariat. https://doi.org/10.35035/doc-b8hq-me03"
 
 #. type: Title ===
 #: colophon.en.adoc:12
@@ -145,7 +145,7 @@ msgstr "A https://www.iaia.org/uploads/pdf/sp7.pdf[guideline document for privat
 #. type: Plain text
 #: 100.en.adoc:11
 msgid "The purpose of this document is to work as a template for an internal documentation process to be presented to the company's decision-making bodies to inform and support their decision in becoming a GBIF publisher. In that regard, several aspects are addressed, such as:"
-msgstr ""
+msgstr "O objectivo deste documento é servir de modelo para um ficheiro a apresentar aos órgãos de decisão da empresa, de modo a informar e apoiar a decisão sobre tornar-se um publicador GBIF. Neste sentido, são abordados vários aspectos dessa informação, nomeadamente:"
 
 #. type: Title ===
 #: 100.en.adoc:13 200.en.adoc:14
@@ -166,22 +166,22 @@ msgstr "Quem publica e que dados são publicados através do GBIF?"
 #. type: Plain text
 #: 100.en.adoc:16
 msgid "What steps do you need to complete in order to become a data publisher?"
-msgstr ""
+msgstr "Quais os passos necessários para se tornar publicador de dados?"
 
 #. type: Plain text
 #: 100.en.adoc:17
 msgid "How to involve all parts associated with the datasets in your publication?"
-msgstr ""
+msgstr "Como envolver todas as partes associadas aos conjuntos de dados na sua publicação?"
 
 #. type: Plain text
 #: 100.en.adoc:18
 msgid "What are the costs associated with publishing?"
-msgstr ""
+msgstr "Quais os custos associados à publicação?"
 
 #. type: Plain text
 #: 100.en.adoc:19
 msgid "This template proposes that a proof of concept should be developed internally. This will allow to demonstrate the steps of data publishing and working as an example for the internalization of data publishing in the company's biodiversity information processing, including the assessment of internal and external resources that need to be allocated."
-msgstr ""
+msgstr "Este modelo propõe que seja desenvolvida uma prova de conceito interna. Que permita demonstrar os passos da publicação de dados e que servirá de exemplo para a internalização da publicação de dados nos processos de tratamento de informação sobre biodiversidade da empresa, incluindo a avaliação interna e externa de recursos que precisarão de ser alocados."
 
 #. type: Title ==
 #: 200.en.adoc:2
