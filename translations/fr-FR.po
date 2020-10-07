@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: private-sector-data-publishing\n"
 "POT-Creation-Date: 2020-09-09 09:45+0000\n"
-"PO-Revision-Date: 2020-10-06 13:57\n"
+"PO-Revision-Date: 2020-10-07 09:23\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -97,7 +97,7 @@ msgstr "Version 2.0, Juin 2020"
 #. type: Plain text
 #: colophon.en.adoc:29
 msgid "This document is also available in https://#[Spanish], https://#[Colombian Spanish], https://#[French] and https://#[Portuguese]."
-msgstr "Ce document est également disponible en https://#[Anglais], https://#[Espagnol colombien], https://#[French] et https://#[Portuguese]."
+msgstr "Ce document est également disponible en https://#[Anglais], https://#[Espagnol], https://#[French] et https://#[Portuguese]."
 
 #. type: Title ===
 #: colophon.en.adoc:30
@@ -208,7 +208,7 @@ msgstr "Dans le contexte du déclin de la biodiversité mondiale, l'occurrence d
 #. type: Plain text
 #: 200.en.adoc:11
 msgid "Alongside universities, research institutes and governmental agencies, the business sector can play a key role here as it develops thousands of environmental impact assessments locally and worldwide, which annually produce millions of records. However, participation in this effort has been very low as data produced are never or very rarely made widely available. In this area, *`company`* could take a prominent position at `*national* / *international*` level, contributing with data to GBIF in an organized and systematic way."
-msgstr "De même, l’objectif 19 d’Aichi, défini par la Convention sur la Diversité Biologique (CDB), utilise la publication de données sur le GBIF comme l’un des indicateurs pour valider l’atteinte de l’objectif d’ici 2020. Aux côtés des universités, instituts de recherche et agences gouvernementales, le secteur privé peut y jouer un rôle clé, grâce aux milliers d’études d’impacts environnementaux effectuées au niveau local dans le monde entier, qui produisent chaque année des millions de données. Cependant, la participation à cet effort est encore très faible, et les données ne sont jamais, ou très rarement, mises à disposition du plus grand nombre. Dans ce domaine, <entreprise> pourrait prendre une position de tête au niveau <national/international>, en partageant ses données dans le GBIF de manière organisée et systématique."
+msgstr "De même, l’objectif 19 d’Aichi, défini par la Convention sur la Diversité Biologique (CDB), utilise la publication de données sur le GBIF comme l’un des indicateurs pour valider l’atteinte de l’objectif d’ici 2020. Aux côtés des universités, instituts de recherche et agences gouvernementales, le secteur privé peut y jouer un rôle clé, grâce aux milliers d’études d’impacts environnementaux effectuées au niveau local dans le monde entier, qui produisent chaque année des millions de données. Cependant, la participation à cet effort est encore très faible, et les données ne sont jamais, ou très rarement, mises à disposition du plus grand nombre. Dans ce domaine, *`entreprise`* pourrait prendre une position de tête au niveau `*national* / *international*`, en partageant ses données dans le GBIF de manière organisée et systématique."
 
 #. type: Plain text
 #: 200.en.adoc:13
