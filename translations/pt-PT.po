@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: private-sector-data-publishing\n"
 "POT-Creation-Date: 2020-09-09 09:45+0000\n"
-"PO-Revision-Date: 2020-10-07 11:22\n"
+"PO-Revision-Date: 2020-10-07 12:24\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
@@ -92,7 +92,7 @@ msgstr "Controlo do Documento"
 #. type: Plain text
 #: colophon.en.adoc:27
 msgid "Version 2.0, June 2020"
-msgstr ""
+msgstr "Version 2.0, June 2020"
 
 #. type: Plain text
 #: colophon.en.adoc:29
@@ -103,7 +103,7 @@ msgstr "This document is also available in https://#[Spanish], https://#[French]
 #: colophon.en.adoc:30
 #, no-wrap
 msgid "Abstract"
-msgstr ""
+msgstr "Resumo"
 
 #. type: Plain text
 #: colophon.en.adoc:33
@@ -260,80 +260,80 @@ msgstr "Resumindo, de acordo com o relatório https://wabsi. org. au/wp-content/
 #. type: Plain text
 #: 200.en.adoc:33
 msgid "Lower cost of information search"
-msgstr ""
+msgstr "Redução dos custos de busca de informação"
 
 #. type: Plain text
 #: 200.en.adoc:34
 msgid "Reduced need for detailed field surveys"
-msgstr ""
+msgstr "Menor necessidade para pesquisa de campo detalhadas"
 
 #. type: Plain text
 #: 200.en.adoc:35
 msgid "More complete impact information at the pre-referral stages may reduce the need for a formal EIA (6-18 month time saving)"
-msgstr ""
+msgstr "Informações de impacte mais completas nas etapas de pré-referência podem reduzir a necessidade de EIA formais (6-18 meses a menos)"
 
 #. type: Plain text
 #: 200.en.adoc:36
 msgid "Improved monitoring data reduce risk of operations being temporarily suspended due to a single compliance breach"
-msgstr ""
+msgstr "Dados de monitorização mais robustos podem reduzir o risco de operações serem temporariamente suspensas por violação de conformidade única"
 
 #. type: Plain text
 #: 200.en.adoc:37
 msgid "Increased confidence among environmentally aware companies for business investment and future partnerships"
-msgstr ""
+msgstr "Maior fiança entre empresas ambientalmente conscientes para investimentos comerciais e parcerias futuras"
 
 #. type: Plain text
 #: 200.en.adoc:38
 msgid "Improved predictability of accessing markets"
-msgstr ""
+msgstr "Previsibilidade aprimorada do acesso a mercados"
 
 #. type: Plain text
 #: 200.en.adoc:39
 msgid "Using open tools and data to guide environmental decisions will make the process more transparent and build trust and certainty in the process"
-msgstr ""
+msgstr "Utilização de ferramentas e dados abertos para guiar decisões ambientais tornará o processo mais transparente, aumentando a fiança e a certeza durante o processo"
 
 #. type: Plain text
 #: 200.en.adoc:40
 msgid "Increased investor and community confidence will deliver continued interest in business development granted by public bodies"
-msgstr ""
+msgstr "O aumento da convicção dos investidores e da comunidade proporcionará um interesse contínuo no desenvolvimento de negócios concedido por órgãos públicos"
 
 #. type: Plain text
 #: 200.en.adoc:41
 msgid "Better tools to process easily accessible data will help assess the scale of the impact, and the value, type and success of any proposed offset"
-msgstr ""
+msgstr "Melhores ferramentas para o processamento dos dados facilmente acessíveis ajudarão a avaliar a escala do impacte, assim como o valor, o tipo e o sucesso de qualquer compensação proposta"
 
 #. type: Title ===
 #: 200.en.adoc:42
 #, no-wrap
 msgid "Who publishes data through GBIF?"
-msgstr ""
+msgstr "Quem publica dados no GBIF?"
 
 #. type: Plain text
 #: 200.en.adoc:45
 msgid "To date, GBIF includes 53,939 datasets on its portal published by https://www.gbif.org/publisher/search[1,637 data publishing institutions^]. These publishers are mostly government agencies, natural history museums and herbaria, universities, research centers and non-governmental organizations of various kinds."
-msgstr ""
+msgstr "Até hoje, o GBIF inclui no seu portal 53,939 conjuntos de dados publicados por https://www.gbif.org/publisher/search[1,637 publicadores registados^]. Estes publicadores são na sua maioria agências governamentais, museus de história natural, universidades, centros de investigação e organizações não-governamentais de vários tipos."
 
 #. type: Plain text
 #: 200.en.adoc:47
 msgid "The almost complete absence of the business sector is noticeable, which limits access to a vast and important volume of biodiversity data collected by companies around the world. In total, private company registers amount to 1,362,393, which is less than 0.09 per cent of https://www.gbif.org/occurrence/search[all records published in GBIF^]."
-msgstr ""
+msgstr "É notória a ausência praticamente total do sector empresarial, o que limita o acesso ao vasto volume e importância dos dados sobre biodiversidade recolhidos por empresas em todo o mundo. No total, os registos de empresas privadas somam 1,362,393 o que corresponde a menos de 0,09% do total https://www.gbif.org/occurrence/search[de registos publicados no GBIF^]. A tabela 1 apresenta uma lista dos publicadores mais significativos do sector privado."
 
 #. type: Plain text
 #: 200.en.adoc:49
 msgid "<<table-01,Table 1>> lists the most significant private sector publishers."
-msgstr ""
+msgstr "<<table-01,Table 1>> A tabela 1 apresenta uma lista dos publicadores mais significativos do sector privado."
 
 #. type: Named 'caption' AttributeList argument for style 'caption'
 #: 200.en.adoc:51
 #, no-wrap
 msgid "Table 1. "
-msgstr ""
+msgstr "Tabela 1. "
 
 #. type: Block title
 #: 200.en.adoc:52
 #, no-wrap
 msgid "Private-sector companies that publish their data through GBIF (as of 7 August 2020)"
-msgstr ""
+msgstr "Empresas do sector privado publicadoras de dados através do GBIF (dados até 7 Agosto de 2020)"
 
 #. type: Table
 #: 200.en.adoc:109
@@ -371,27 +371,27 @@ msgstr ""
 #: 200.en.adoc:111
 #, no-wrap
 msgid "What data could the company publish through GBIF?"
-msgstr ""
+msgstr "Que dados poderia a empresa publicar no GBIF?"
 
 #. type: Plain text
 #: 200.en.adoc:114
 msgid "Companies that carry out environmental impact assessments, impact monitoring and compensatory measures studies, thereby collect species occurrence and abundance data, may publish them on GBIF."
-msgstr ""
+msgstr "Empresas que desenvolvem estudos de avaliação de impacte ambiental, monitorização de impactes e de medidas compensatórias, recolhendo desta forma dados sobre ocorrência e abundância de espécies poderão publicá-los através do GBIF."
 
 #. type: Plain text
 #: 200.en.adoc:116
 msgid "A lot of these data are collected in regions that lack sampling efforts and are less known, or have groups of organisms that are underrepresented and would, therefore, be valuable to the scientific community and to organizations such as CBD, IPBES or GEO BON."
-msgstr ""
+msgstr "Muitos desses dados são recolhidos em regiões relativamente pouco conhecidas sob o ponto de vista biológico, ou sobre grupos de organismos pouco representados, pelo que teriam um valor incalculável para a comunidade científica e para organizações como a CBD, o IPBES ou GEO BON."
 
 #. type: Plain text
 #: 200.en.adoc:118
 msgid "Even data from studies in better-known regions could be of high value as they allow information gaps to be filled and improve time series representations. Thus, all data collected by `*company*` as part of its operation could be published in GBIF, without injury to the need to protect intellectual property issues, or transitory or permanent confidentiality of the information."
-msgstr ""
+msgstr "Mesmo os dados relativos a estudos efectuados em regiões melhor conhecidas poderiam ter elevado valor, uma vez que permitem colmatar lacunas de informação ou produzir séries temporais de ocorrências de espécies. Desta forma, todos os dados recolhidos pela `*empresa*` no âmbito de sua operação, poderiam ser publicados no GBIF, sem prejuízo da necessidade de acautelar questões de propriedade intelectual ou confidencialidade transitória ou permanente da informação."
 
 #. type: Plain text
 #: 200.en.adoc:120
 msgid "If data includes sensitive information, such as the location of threatened, sensitive or economically valuable species, it is recommended to apply https://doi.org/10.15468/doc-5jp4-5g10[best practices for generalizing this information^]."
-msgstr ""
+msgstr "Caso os dados apresentem informação sensível, por exemplo da localização de espécies ameaçadas, sensíveis ou com valor económico, recomenda-se a aplicação das melhores práticas para generalização dessa https://www.gbif.org/document/80512/guide-to-best-practices-for-generalising-sensitive-species-occurrence-data[informação]."
 
 #. type: Plain text
 #: 200.en.adoc:122
