@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: private-sector-data-publishing\n"
-"POT-Creation-Date: 2020-09-09 09:45+0000\n"
-"PO-Revision-Date: 2020-10-08 07:41\n"
+"POT-Creation-Date: 2020-10-08 08:05+0000\n"
+"PO-Revision-Date: 2020-10-08 09:08\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -139,8 +139,8 @@ msgstr "En fonction de la taille de l'entreprise, il se peut que le premier cont
 
 #. type: Plain text
 #: 100.en.adoc:9
-msgid "A https://www.iaia.org/uploads/pdf/sp7.pdf[guideline document for private-sector organizations that develop Environmental Impact Assessments (EIAs)^] was published by GBIF and the https://www.iaia.org/[International Association for Impact Assessments (IAIA)^] which covers most of the benefits and technical aspects of data publication through GBIF and this document will be updated in 2020. It lacks, however, the components related to costs, license adoption and relation with different parties that are involved in data production within an organisation, which might include subcontractors."
-msgstr "Le GBIF, en collaboration avec l'https://www.iaia.org/[IAIA (International Association for Impact Assessment)^], a publié un https://www.iaia.org/uploads/pdf/sp7.pdf[guide pour les organisations du secteur privé qui réalisent des évaluations d'impact environnemental (EIE)^] qui couvre la plupart des avantages et des aspects techniques de la publication des données via GBIF. Ce document est en cours de mise à jour car il lui manquait certains aspects importants tels que les coûts, l'adoption de licences et les relations avec les différentes parties impliquées dans la production de données au sein d'une organisation, qui peuvent inclure des sous-traitants. "
+msgid "A https://www.iaia.org/uploads/pdf/sp7.pdf[guideline document for private-sector organizations that develop Environmental Impact Assessments (EIAs)^] was published by GBIF and the https://www.iaia.org/[International Association for Impact Assessments (IAIA)^] which covers most of the benefits and technical aspects of data publication through GBIF and this document will be updated in 2020. It lacks, however, the components related to costs, license adoption and relation with different parties that are involved in data production within an organization, which might include subcontractors."
+msgstr ""
 
 #. type: Plain text
 #: 100.en.adoc:11
@@ -240,8 +240,8 @@ msgstr "La publication de données sur la biodiversité dans le GBIF est une ini
 
 #. type: Plain text
 #: 200.en.adoc:25
-msgid "By contributing to these objectives, `*company*` will also be improving its environmental and social profile by increasing the return on investment initially made to obtain these data. GBIF is very keen to use and disseminate new case studies, and data mobilization from the business sector is currently an important objective of the organization. This process could favorably contribute to the organization's performance on the Dow Jones Sustainability Index and the assessment of the company in the framework of Equator Principles."
-msgstr "En contribuant à ces objectifs, `*entreprise*` améliorera également son profil environnemental et social en augmentant le retour sur investissement initialement fait pour obtenir ces données. Le GBIF est très désireux d'utiliser et de diffuser de nouvelles études de cas, et la mobilisation des données du secteur des affaires est actuellement un objectif important de l'organisation. Ce processus pourrait contribuer favorablement à la performance de l'organisation sur l'Indice de durabilité Dow Jones et à l'évaluation de l'entreprise dans le cadre des Principes de l'Équateur."
+msgid "By contributing to these objectives, `*company*` will also be improving its environmental and social profile by increasing the return on investment initially made to obtain these data. GBIF is very keen to use and disseminate new case studies, and data mobilization from the business sector is currently an important objective of the organization. This process could favourably contribute to the organization's performance on the Dow Jones Sustainability Index and the assessment of the company in the framework of Equator Principles."
+msgstr ""
 
 #. type: Plain text
 #: 200.en.adoc:27
@@ -312,8 +312,8 @@ msgstr "Qui publie des données dans le réseau GBIF ?"
 
 #. type: Plain text
 #: 200.en.adoc:45
-msgid "To date, GBIF includes 53,939 datasets on its portal published by https://www.gbif.org/publisher/search[1,637 data publishing institutions^]. These publishers are mostly government agencies, natural history museums and herbaria, universities, research centers and non-governmental organizations of various kinds."
-msgstr "A l’heure actuelle, le GBIF comprend 53 939 jeux de données sur son portail, publiés par https://www.gbif.org/publisher/search[1,637 éditeurs de données enregistrés^]. Ces éditeurs sont pour la plupart des agences gouvernementales, des musées d’histoire naturelle, des universités, des organismes de recherche et diverses organisations non-gouvernementales."
+msgid "To date, GBIF includes 53,939 datasets on its portal published by https://www.gbif.org/publisher/search[1,637 data publishing institutions^]. These publishers are mostly government agencies, natural history museums and herbaria, universities, research centres and non-governmental organizations of various kinds."
+msgstr ""
 
 #. type: Plain text
 #: 200.en.adoc:47
@@ -523,7 +523,7 @@ msgstr "Mis à part le temps consacré par les équipes de `*entreprise*` à la 
 msgid "Glossary"
 msgstr "Glossaire"
 
-#. Glossaries are optional. Glossaries entries are an example of a style of AsciiDoc labeled lists.
+#. Glossaries are optional. Glossaries entries are an example of a style of AsciiDoc labelled lists.
 #. type: Labeled list
 #: glossary.en.adoc:7
 #, no-wrap
