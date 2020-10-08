@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: private-sector-data-publishing\n"
 "POT-Creation-Date: 2020-10-08 08:05+0000\n"
-"PO-Revision-Date: 2020-10-08 09:08\n"
+"PO-Revision-Date: 2020-10-08 12:07\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -151,59 +151,59 @@ msgstr ""
 #: 100.en.adoc:13 200.en.adoc:14
 #, no-wrap
 msgid "What is GBIF?"
-msgstr ""
+msgstr "¿Qué es GBIF?"
 
 #. type: Plain text
 #: 100.en.adoc:14
 msgid "What are the advantages of publishing data through GBIF?"
-msgstr ""
+msgstr "¿Cuáles son las ventajas de publicar datos a través de GBIF?"
 
 #. type: Plain text
 #: 100.en.adoc:15
 msgid "Who publishes and what data is published through GBIF?"
-msgstr ""
+msgstr "¿Quién publica y qué datos se publican a través de GBIF?"
 
 #. type: Plain text
 #: 100.en.adoc:16
 msgid "What steps do you need to complete in order to become a data publisher?"
-msgstr ""
+msgstr "¿Qué pasos se debe realizar para convertirse en proveedor de datos?"
 
 #. type: Plain text
 #: 100.en.adoc:17
 msgid "How to involve all parts associated with the datasets in your publication?"
-msgstr ""
+msgstr "¿Cómo involucrar en el proceso de publicación a todas las partes asociadas con los conjuntos de datos?"
 
 #. type: Plain text
 #: 100.en.adoc:18
 msgid "What are the costs associated with publishing?"
-msgstr ""
+msgstr "¿Cuáles son los costes asociados con la publicación?"
 
 #. type: Plain text
 #: 100.en.adoc:19
 msgid "This template proposes that a proof of concept should be developed internally. This will allow to demonstrate the steps of data publishing and working as an example for the internalization of data publishing in the company's biodiversity information processing, including the assessment of internal and external resources that need to be allocated."
-msgstr ""
+msgstr "Este marco de referencia propone que de manera interna se desarrolle una Prueba de Concepto. Esto permitirá identificar los pasos que hacen falta para realizar una publicación de datos, generando una apropiación interna del modelo de publicación de datos, que va desde el procesamiento de datos sobre biodiversidad de la empresa, incluida la evaluación de los recursos internos y externos que deben asignarse."
 
 #. type: Title ==
 #: 200.en.adoc:2
 #, no-wrap
 msgid "_Proposal_: Biodiversity Data Publication through GBIF"
-msgstr ""
+msgstr "_Proposal_: Biodiversity Data Publication through GBIF"
 
 #. type: Title ===
 #: 200.en.adoc:4
 #, no-wrap
 msgid "Presentation"
-msgstr ""
+msgstr "Presentación"
 
 #. type: Plain text
 #: 200.en.adoc:7
 msgid "It is proposed in this document to involve *`company`* as a publisher of biodiversity data on the platform of https://www.gbif.org[GBIF—the Global Biodiversity Information Facility^]."
-msgstr ""
+msgstr "El propósito de este documento es involucrar a *`empresa`* como entidad publicadora de datos de biodiversidad en la plataforma intergubernamental GBIF (Global Biodiversity Information Facility) https://www.gbif.org[GBIF—the Global Biodiversity Information Facility^]."
 
 #. type: Plain text
 #: 200.en.adoc:9
 msgid "In the context of global biodiversity decline, species occurrence and abundance data are essential tools for planning, implementing and monitoring of conservation and sustainable use strategies. This importance is recognized on a global scale by the https://sdgs.un.org/goals[United Nations Sustainable Development Goals^], namely SDG14 and SDG15, to which GBIF becomes instrumental for the assessment of the progress towards the goals. Likewise, Aichi Target 19 of the Convention on Biological Diversity (CBD) uses the publication of data through GBIF by 2020 as http://www.bipindicators.net/numberofgbifrecordsovertime[one of the indicators to measure the Target’s compliance^] ."
-msgstr ""
+msgstr "En el contexto actual de declive sin precedentes de la biodiversidad, los datos de presencia y abundancia de especies son herramientas esenciales para planificar, implementar y monitorear estrategias de conservación y uso sostenible. Esta importancia es reconocida a escala mundial por los Objetivos de Desarrollo Sostenible de las Naciones Unidas , en concreto los objetivos SDG14 y SDG15 https://sdgs.un.org/goals[United Nations Sustainable Development Goals^], por los cuales GBIF se convierte en un instrumento fundamental para la evaluación del progreso hacia dichos objetivos. Del mismo modo, el objetivo 19 de Aichi del Convenio sobre la Diversidad Biológica (CDB) utiliza la publicación de datos a través de GBIF como[uno de los indicadores para medir] el cumplimiento de este objetivo para 2020 http://www.bipindicators.net/numberofgbifrecordsovertime."
 
 #. type: Plain text
 #: 200.en.adoc:11
