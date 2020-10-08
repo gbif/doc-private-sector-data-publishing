@@ -1,7 +1,7 @@
 [glossary]
 == Glossary
 
-//Glossaries are optional. Glossaries entries are an example of a style of AsciiDoc labeled lists.
+//Glossaries are optional. Glossaries entries are an example of a style of AsciiDoc labelled lists.
 
 [glossary]
 [[anchor]]term:: add short tags corresponding to an anchor name in HTML between brackets (no spaces allowed), then list the term, which should be written as you wish it to appear.
