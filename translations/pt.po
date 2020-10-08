@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: private-sector-data-publishing\n"
 "POT-Creation-Date: 2020-10-08 08:05+0000\n"
-"PO-Revision-Date: 2020-10-08 09:08\n"
+"PO-Revision-Date: 2020-10-08 13:34\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
@@ -108,7 +108,7 @@ msgstr "Resumo"
 #. type: Plain text
 #: colophon.en.adoc:33
 msgid "This document is a contribution to the https://www.gbif.org/en/project/2Zik1tfJoh3C92ZslvhDIr/[OpenPSD project: Promoting publication and use of private-sector data on biodiversity^], a joint creation of the GBIF nodes of https://www.gbif.org/country/ES/participation[Spain], https://www.gbif.org/country/PT/participation[Portugal], https://www.gbif.org/country/NO/participation[Norway], https://www.gbif.org/country/FR/participation[France] and https://www.gbif.org/country/CO/participation[Colombia] and the companies https://www.edp.com/en[EDP], https://cibio.up.pt/[CIBIO] and https://www.asplanviak.no/[Asplan Viak], and co-funded by the GBIF Secretariat through its https://www.gbif.org/programme/82219/[Capacity Enhancement Support Programme^]."
-msgstr ""
+msgstr "This document is a contribution to the https://www.gbif.org/en/project/2Zik1tfJoh3C92ZslvhDIr/[OpenPSD project: Promoting publication and use of private-sector data on biodiversity^], a joint creation of the GBIF nodes of https://www.gbif.org/country/ES/participation[Spain], https://www.gbif.org/country/PT/participation[Portugal], https://www.gbif.org/country/NO/participation[Norway], https://www.gbif.org/country/FR/participation[France] and https://www.gbif.org/country/CO/participation[Colombia] and the companies https://www.edp.com/en[EDP], https://cibio.up.pt/[CIBIO] and https://www.asplanviak.no/[Asplan Viak], and co-funded by the GBIF Secretariat through its https://www.gbif.org/programme/82219/[Capacity Enhancement Support Programme^]."
 
 #. type: Title ===
 #: colophon.en.adoc:34
@@ -119,7 +119,7 @@ msgstr "Imagem de Capa"
 #. type: Plain text
 #: colophon.en.adoc:36
 msgid "Sea fig (_Carpobrotus edulis_), Aljezur, Portugal. Photo 2020 sheborg via https://www.gbif.org/occurrence/2557795082[iNaturalist research-grade observations], licensed under http://creativecommons.org/licenses/by-nc/4.0/[CC BY-NC 4.0]."
-msgstr ""
+msgstr "Sea fig (_Carpobrotus edulis_), Aljezur, Portugal. Photo 2020 sheborg via https://www.gbif.org/occurrence/2557795082[iNaturalist research-grade observations], licensed under http://creativecommons.org/licenses/by-nc/4.0/[CC BY-NC 4.0]."
 
 #. type: Title ==
 #: 100.en.adoc:2
@@ -140,7 +140,7 @@ msgstr "Dependendo do tamanho da empresa, é possível que o primeiro contacto d
 #. type: Plain text
 #: 100.en.adoc:9
 msgid "A https://www.iaia.org/uploads/pdf/sp7.pdf[guideline document for private-sector organizations that develop Environmental Impact Assessments (EIAs)^] was published by GBIF and the https://www.iaia.org/[International Association for Impact Assessments (IAIA)^] which covers most of the benefits and technical aspects of data publication through GBIF and this document will be updated in 2020. It lacks, however, the components related to costs, license adoption and relation with different parties that are involved in data production within an organization, which might include subcontractors."
-msgstr ""
+msgstr "A https://www.iaia.org/uploads/pdf/sp7.pdf[guideline document for private-sector organizations that develop Environmental Impact Assessments (EIAs)^] was published by GBIF and the https://www.iaia.org/[International Association for Impact Assessments (IAIA)^] which covers most of the benefits and technical aspects of data publication through GBIF and this document will be updated in 2020. It lacks, however, the components related to costs, license adoption and relation with different parties that are involved in data production within an organisation, which might include subcontractors."
 
 #. type: Plain text
 #: 100.en.adoc:11
@@ -240,7 +240,7 @@ msgstr "A publicação de dados sobre biodiversidade no GBIF é uma iniciativa q
 #. type: Plain text
 #: 200.en.adoc:25
 msgid "By contributing to these objectives, `*company*` will also be improving its environmental and social profile by increasing the return on investment initially made to obtain these data. GBIF is very keen to use and disseminate new case studies, and data mobilization from the business sector is currently an important objective of the organization. This process could favourably contribute to the organization's performance on the Dow Jones Sustainability Index and the assessment of the company in the framework of Equator Principles."
-msgstr ""
+msgstr "Este processo poderia contribuir favoravelmente para a performance da organização no https://www. robecosam. com/csa/indices/ [Dow Jones Sustainability Index] e para a avaliação da empresa nos https://equator-principles. com/[Equator Principles]."
 
 #. type: Plain text
 #: 200.en.adoc:27
@@ -311,7 +311,7 @@ msgstr "Quem publica dados no GBIF?"
 #. type: Plain text
 #: 200.en.adoc:45
 msgid "To date, GBIF includes 53,939 datasets on its portal published by https://www.gbif.org/publisher/search[1,637 data publishing institutions^]. These publishers are mostly government agencies, natural history museums and herbaria, universities, research centres and non-governmental organizations of various kinds."
-msgstr ""
+msgstr "Até hoje, o GBIF inclui no seu portal 53,939 conjuntos de dados publicados por https://www.gbif.org/publisher/search[1,637 publicadores registados^]. Estes publicadores são na sua maioria agências governamentais, museus de história natural, universidades, centros de investigação e organizações não-governamentais de vários tipos."
 
 #. type: Plain text
 #: 200.en.adoc:47
@@ -396,7 +396,7 @@ msgstr "Caso os dados apresentem informação sensível, por exemplo da localiza
 #. type: Plain text
 #: 200.en.adoc:122
 msgid "Thus, data collected by private companies can be published through GBIF in a relatively short period, if procedural aspects of publication are completed and the data format is adapted to GBIF standards (primarily https://dwc.tdwg.org/terms/[Darwin Core^]). Also, the national node may be provided all technical helpdesk needed for the standardization process."
-msgstr ""
+msgstr "Assim, os dados colhidos por empresas privadas podem ser publicados no GBIF num período relativamente curto, sendo apenas necessário completar os aspectos processuais relativos à publicação e adaptar o formato dos dados ao [modelo requerido pelo GBIF (Darwin Core)] https://dwc.tdwg.org/terms/."
 
 #. type: Title ===
 #: 200.en.adoc:123
