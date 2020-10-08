@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2020-09-09 09:45+0000\n"
+"POT-Creation-Date: 2020-10-08 08:05+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -195,7 +195,7 @@ msgid ""
 "benefits and technical aspects of data publication through GBIF and this "
 "document will be updated in 2020. It lacks, however, the components related "
 "to costs, license adoption and relation with different parties that are "
-"involved in data production within an organisation, which might include "
+"involved in data production within an organization, which might include "
 "subcontractors."
 msgstr ""
 
@@ -366,7 +366,7 @@ msgid ""
 "initially made to obtain these data. GBIF is very keen to use and "
 "disseminate new case studies, and data mobilization from the business sector "
 "is currently an important objective of the organization. This process could "
-"favorably contribute to the organization's performance on the Dow Jones "
+"favourably contribute to the organization's performance on the Dow Jones "
 "Sustainability Index and the assessment of the company in the framework of "
 "Equator Principles."
 msgstr ""
@@ -472,7 +472,7 @@ msgid ""
 "To date, GBIF includes 53,939 datasets on its portal published by "
 "https://www.gbif.org/publisher/search[1,637 data publishing "
 "institutions^]. These publishers are mostly government agencies, natural "
-"history museums and herbaria, universities, research centers and "
+"history museums and herbaria, universities, research centres and "
 "non-governmental organizations of various kinds."
 msgstr ""
 
@@ -864,7 +864,7 @@ msgstr ""
 msgid "Glossary"
 msgstr ""
 
-#. Glossaries are optional. Glossaries entries are an example of a style of AsciiDoc labeled lists.
+#. Glossaries are optional. Glossaries entries are an example of a style of AsciiDoc labelled lists.
 #. type: Labeled list
 #: glossary.en.adoc:7
 #, no-wrap
