@@ -4,7 +4,7 @@ https://docs.gbif.org/documentation-guidelines/[image:https://docs.gbif.org/docu
 // License badge
 https://creativecommons.org/licenses/by-sa/4.0/[image:https://img.shields.io/badge/License-CC%20BY%2D-SA%204.0-lightgrey.svg[CC BY-SA 4.0]]
 // Build status badge: In the text below, please update "doc-private-sector-data-publishing" to "doc-your-document-name", and remove this line.
-https://builds.gbif.org/job/doc-private-sector-data-publishing/[image:https://builds.gbif.org/job/doc-private-sector-data-publishing/badge/icon[Build status]]
+https://builds.gbif.org/job/doc-private-sector-data-publishing/lastBuild/console[image:https://builds.gbif.org/job/doc-private-sector-data-publishing/badge/icon[Build status]]
 
 = GBIF Document Private Sector Data Publishing
 
@@ -13,7 +13,3 @@ _This is information *about* this document's source code.  It is not part of the
 The document is available as HTML and PDF at https://docs.gbif-uat.org/private-sector-data-publishing/2.0/[Private Sector Data Publishing].
 
 The document is built using AsciiDoc, for guidance on how to make changes or suggestions see the https://docs.gbif.org/documentation-guidelines/[GBIF Documentation Guidelines].
-
-== Translations
-
-Translations of this document change the text according to the language *and country*, so rather than using the translation code “es” we use “es-ES”, and so on.  The “en” version is the base version, in the future an “en-AU” (etc.) could be added.
