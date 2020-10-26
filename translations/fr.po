@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: private-sector-data-publishing\n"
-"POT-Creation-Date: 2020-10-08 08:05+0000\n"
-"PO-Revision-Date: 2020-10-08 09:08\n"
+"POT-Creation-Date: 2020-10-26 15:24+0000\n"
+"PO-Revision-Date: 2020-10-26 15:26\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -96,8 +96,8 @@ msgstr "Version 2.0, Juin 2020"
 
 #. type: Plain text
 #: colophon.en.adoc:29
-msgid "This document is also available in https://#[Spanish], https://#[Colombian Spanish], https://#[French] and https://#[Portuguese]."
-msgstr "Ce document est également disponible en https://#[Anglais], https://#[Espagnol], https://#[French] et https://#[Portuguese]."
+msgid "This document is also available in https://docs.gbif-uat.org/private-sector-data-publishing/2.0/es/[Spanish], https://docs.gbif-uat.org/private-sector-data-publishing/2.0/fr/[French] and https://docs.gbif-uat.org/private-sector-data-publishing/2.0/pt/[Portuguese]."
+msgstr ""
 
 #. type: Title ===
 #: colophon.en.adoc:30
