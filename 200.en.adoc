@@ -43,68 +43,70 @@ In summary, according to the report Digitally Transforming Environmental Assessm
 
 To date, GBIF includes 53,939 datasets on its portal published by https://www.gbif.org/publisher/search[1,637 data publishing institutions^]. These publishers are mostly government agencies, natural history museums and herbaria, universities, research centres and non-governmental organizations of various kinds. 
 
-The almost complete absence of the business sector is noticeable, which limits access to a vast and important volume of biodiversity data collected by companies around the world. In total, private company registers amount to 1,362,393, which is less than 0.09 per cent of https://www.gbif.org/occurrence/search[all records published in GBIF^]. 
+The almost complete absence of the business sector is noticeable, which limits access to a vast and important volume of biodiversity data collected by companies around the world. In total, private company registers amount to 3,426,240, which is 0.2 per cent of https://www.gbif.org/occurrence/search[all records published in GBIF^]. 
 
 <<table-01,Table 1>> lists the most significant private sector publishers.
 
 [[table-01]]
 [caption="Table 1. "]
-.Private-sector companies that publish their data through GBIF (as of 7 August 2020)
+.Private-sector companies that publish their data through GBIF (as of 27 October 2020)
 [cols="30,15,12,>12,>18,>13"]
 |===
 | Company | Activity sector | Country | Datasets | Occurrence records | Data citations
 
-| https://www.gbif.org/publisher/eea64f26-8fd5-49fb-be7e-a1d4cfc051ee[Aïgos SAS^] | Consulting | Colombia | 3 | 2,404 | 4
+| https://www.gbif.org/publisher/eea64f26-8fd5-49fb-be7e-a1d4cfc051ee[Aïgos SAS^] | Consulting | Colombia | 3 | 2,404 | 5
 
-| https://www.gbif.org/publisher/b5904aaf-02c7-4ff3-85a6-0f528dbb632e[Anadarko Colombia Company^] | Energy | Colombia | 3 | 282 | 6
+| https://www.gbif.org/publisher/b5904aaf-02c7-4ff3-85a6-0f528dbb632e[Anadarko Colombia Company^] | Energy | Colombia | 3 | 282 | 8
 
-| https://www.gbif.org/publisher/f2429cd1-4d45-475c-852a-892024cb4aba[Arctic Research and Consulting DA^] | Consulting | Norway | 1 | 8,914 | 13
+| https://www.gbif.org/publisher/f2429cd1-4d45-475c-852a-892024cb4aba[Arctic Research and Consulting DA^] | Consulting | Norway | 1 | 8,914 | 14
 
-| https://www.gbif.org/publisher/612c9b58-e739-4af4-a038-4b3901fa5649[Asplan Viak AS^] | Engineering | Norway | 14 | 3,779 | 84
+| https://www.gbif.org/publisher/612c9b58-e739-4af4-a038-4b3901fa5649[Asplan Viak AS^] | Engineering | Norway | 14 | 3,779 | 97
 
-| https://www.gbif.org/publisher/b2c1126d-e3b4-4619-9f94-b236dcc0a947[Biofokus^] | Consulting | Norway | 1 | 508,993 | 235
+| https://www.gbif.org/publisher/b2c1126d-e3b4-4619-9f94-b236dcc0a947[Biofokus^] | Consulting | Norway | 1 | 519,258 | 262
 
-| https://www.gbif.org/publisher/a41046bd-eaca-49bf-919b-419062ffc2a2[Biolog J.B. Jordal AS^] | Consulting | Norway | 1 | 177,814 | 131
+| https://www.gbif.org/publisher/a41046bd-eaca-49bf-919b-419062ffc2a2[Biolog J.B. Jordal AS^] | Consulting | Norway | 1 | 177,814 | 147
 
-| https://www.gbif.org/publisher/f5db868f-e5bf-4208-bd9d-d4063ae1c825[Celsia^] | Energy | Colombia | 1 | 35 | 1
+| https://www.gbif.org/publisher/0fd86a13-3d0d-4d6e-b809-2811706f35d6[Celsia^] | Energy | Colombia | 2 | 35 | 3
 
-| https://www.gbif.org/publisher/d49251f5-379f-43b4-b747-9d8240334fa5[Chevron Australia^] | Energy |  Australia | 1 | 2,048 | 15
+| https://www.gbif.org/publisher/d49251f5-379f-43b4-b747-9d8240334fa5[Chevron Australia^] | Energy | Australia | 1 | 2,048 | 19
 
-| https://www.gbif.org/publisher/fac91b96-c087-460f-ab01-b808f341c2f5[Ecofact^] | Consulting | Norway | 1 | 11,273 | 92
+| https://www.gbif.org/publisher/efc5d3c7-2fec-42dd-85de-078a73973bd1[DNG VL^] | Energy | Norway | 1 | 2,036,474 | 1
 
-| https://www.gbif.org/publisher/e5150835-f502-424c-b470-24dd496b1b18[EDP - Energias de Portugal^] | Energy | Portugal | 73 | 601,636 | 31
+| https://www.gbif.org/publisher/fac91b96-c087-460f-ab01-b808f341c2f5[Ecofact^] | Consulting | Norway | 1 | 11,273 | 107
 
-| https://www.gbif.org/publisher/d98d7029-8cb7-44c2-88af-52988adc3a62[Faun Naturforvaltning AS^] | Consulting | Norway | 1 | 3,788 | 88
+| https://www.gbif.org/publisher/e5150835-f502-424c-b470-24dd496b1b18[EDP - Energias de Portugal^] | Energy | Portugal | 76 | 618,587 | 36
 
-| https://www.gbif.org/publisher/fe602f47-b553-4291-b6e5-197b9837e167[Federación Nacional de Cafeteros^] | Agriculture | Colombia | 6 | 26,840 | 92
+| https://www.gbif.org/publisher/d98d7029-8cb7-44c2-88af-52988adc3a62[Faun Naturforvaltning AS^] | Consulting | Norway | 1 | 3,788 | 101
 
-| https://www.gbif.org/publisher/90d2e455-c279-4bf1-ba87-806495641e18[Hatovial SAS^] | Engineering | Colombia | 1 | 1,898 | 0
+| https://www.gbif.org/publisher/fe602f47-b553-4291-b6e5-197b9837e167[Federación Nacional de Cafeteros^] | Agriculture | Colombia | 6 | 26,804 | 105
 
-| https://www.gbif.org/publisher/67c63221-0c74-4c18-97f9-e2b2acb739ce[INERCO^] | Consulting | Colombia | 1 | 1,090 | 13
+| https://www.gbif.org/publisher/90d2e455-c279-4bf1-ba87-806495641e18[Hatovial SAS^] | Engineering | Colombia | 1 | 1,898 | 10
 
-| https://www.gbif.org/publisher/04ce62dd-30ec-4d98-8b30-b09cafc3ac38[Isagen^] | Energy | Colombia | 8 | 19,352 | 59
+| https://www.gbif.org/publisher/67c63221-0c74-4c18-97f9-e2b2acb739ce[INERCO^] | Consulting | Colombia | 1 | 1,090 | 15
 
-| https://www.gbif.org/publisher/2d7ea901-0128-4a7a-8207-425020c1fd99[LafargeHolcim^] | Mining | Spain | 2 | 35 | 0
+| https://www.gbif.org/publisher/04ce62dd-30ec-4d98-8b30-b09cafc3ac38[Isagen^] | Energy | Colombia | 8 | 19,352 | 67
 
-| https://www.gbif.org/publisher/9a21807b-b9c5-4071-b393-764f3cd58abc[Moam SAS^] | Consulting | Colombia | 1 | 1,781 | 3
+| https://www.gbif.org/publisher/2d7ea901-0128-4a7a-8207-425020c1fd99[LafargeHolcim^] | Mining | Spain | 2 | 35 | 1
 
-| https://www.gbif.org/publisher/359ba517-ca03-46dd-9583-d2be73085c2f[Multiconsult^] | Consulting | Norway | 1 | 308 | 8
+| https://www.gbif.org/publisher/9a21807b-b9c5-4071-b393-764f3cd58abc[Moam SAS^] | Consulting | Colombia | 1 | 1,781 | 5
 
-| https://www.gbif.org/publisher/99c6eaae-f15b-4656-a600-d0c50044962e[Naturrestaurering AS^] | Consulting | Norway | 2 | 515 | 6
+| https://www.gbif.org/publisher/359ba517-ca03-46dd-9583-d2be73085c2f[Multiconsult^] | Consulting | Norway | 1 | 308 | 12
 
-| https://www.gbif.org/publisher/a1648ebf-7363-4c27-beb0-23271087220f[NNI^] | Consulting | Norway | 2 | 3,116 | 19
+| https://www.gbif.org/publisher/99c6eaae-f15b-4656-a600-d0c50044962e[Naturrestaurering AS^] | Consulting | Norway | 3 | 782 | 8
 
-| https://www.gbif.org/publisher/c3da1f49-b2c8-4751-b72f-28855546ec4c[Oleoducto Bicentenario^] | Energy | Colombia | 3 | 2,074 | 54
+| https://www.gbif.org/publisher/a1648ebf-7363-4c27-beb0-23271087220f[NNI^] | Consulting | Norway | 2 | 3,116 | 22
 
-| https://www.gbif.org/publisher/80e15a76-70e8-417d-9111-b2e9e0dd8f18[Rådgivende Biologer^] | Consulting | Norway | 5 | 15,214 | 80
+| https://www.gbif.org/publisher/c3da1f49-b2c8-4751-b72f-28855546ec4c[Oleoducto Bicentenario^] | Energy | Colombia | 3 | 2,074 | 64
 
-| https://www.gbif.org/publisher/2c542862-b9dd-40fc-8260-fb434997efa7[Stratos^] | Consulting | Colombia | 1 | 849 | 0
+| https://www.gbif.org/publisher/80e15a76-70e8-417d-9111-b2e9e0dd8f18[Rådgivende Biologer^] | Consulting | Norway | 5 | 15,214 | 91
 
-| https://www.gbif.org/publisher/c4444b2c-6b07-40c2-8474-6556a195cd40[SWECO Norge AS^] | Engineering | Norway | 1 | 1,139 | 86
+| https://www.gbif.org/publisher/2c542862-b9dd-40fc-8260-fb434997efa7[Stratos^] | Consulting | Colombia | 1 | 849 | 2
 
-| https://www.gbif.org/publisher/f5db868f-e5bf-4208-bd9d-d4063ae1c825[Terrasos^] | Consulting | Colombia | 4 | 9,781 | 4
+| https://www.gbif.org/publisher/c4444b2c-6b07-40c2-8474-6556a195cd40[SWECO Norge AS^] | Engineering | Norway | 1 | 1,139 | 98
 
-| https://www.gbif.org/publisher/728e3362-3063-4a43-a6cf-71d61b50025b[Total^] | Energy | France | 1 | 324 | 3
+| https://www.gbif.org/publisher/f5db868f-e5bf-4208-bd9d-d4063ae1c825[Terrasos^] | Consulting | Colombia | 4 | 9,781 | 6
+
+| https://www.gbif.org/publisher/728e3362-3063-4a43-a6cf-71d61b50025b[Total^] | Energy | France | 1 | 324 | 4
 
 |===
 
