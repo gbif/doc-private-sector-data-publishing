@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: private-sector-data-publishing\n"
 "POT-Creation-Date: 2020-10-27 11:51+0000\n"
-"PO-Revision-Date: 2020-10-27 11:59\n"
+"PO-Revision-Date: 2020-10-28 11:41\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
@@ -97,7 +97,7 @@ msgstr "Version 2.0, June 2020"
 #. type: Plain text
 #: colophon.en.adoc:29
 msgid "This document is also available in https://docs.gbif-uat.org/private-sector-data-publishing/2.0/es/[Spanish], https://docs.gbif-uat.org/private-sector-data-publishing/2.0/fr/[French] and https://docs.gbif-uat.org/private-sector-data-publishing/2.0/pt/[Portuguese]."
-msgstr "Este documento também está disponível em https://docs.gbif-uat.org/private-sector-data-publishing/2.0/es/[espanhol] https://docs.gbif-uat.org/private-sector-data-publishing/2.0/fr/[francês] e https://docs.gbif-uat.org/private-sector-data-publishing/2.0/en/[inglês]."
+msgstr "Este documento também está disponível em https://docs.gbif-uat.org/private-sector-data-publishing/2.0/es/[Espanhol], https://docs.gbif-uat.org/private-sector-data-publishing/2.0/fr/[Francês] e https://docs.gbif-uat.org/private-sector-data-publishing/2.0/pt/[Português]."
 
 #. type: Title ===
 #: colophon.en.adoc:30
@@ -316,7 +316,7 @@ msgstr "Até hoje, o GBIF inclui no seu portal 53,939 conjuntos de dados publica
 #. type: Plain text
 #: 200.en.adoc:47
 msgid "The almost complete absence of the business sector is noticeable, which limits access to a vast and important volume of biodiversity data collected by companies around the world. In total, private company registers amount to 3,426,240, which is 0.2 per cent of https://www.gbif.org/occurrence/search[all records published in GBIF^]."
-msgstr ""
+msgstr "É notória a quase ausência total do sector privado, o que limita o acesso ao vasto e importante volume de dados sobre biodiversidade colhidos por empresas em todo o mundo. No total, os registos de empresas privadas somam 3,426,240, o que corresponde a menos de 0,02% de https://www.gbif.org/occurrence/search[de registos publicados no GBIF^]."
 
 #. type: Plain text
 #: 200.en.adoc:49
@@ -333,7 +333,7 @@ msgstr "Tabela 1. "
 #: 200.en.adoc:52
 #, no-wrap
 msgid "Private-sector companies that publish their data through GBIF (as of 27 October 2020)"
-msgstr ""
+msgstr "Empresas do sector privado publicadoras de dados através do GBIF (dados até 27 de outubro de 2020)"
 
 #. type: Table
 #: 200.en.adoc:111
