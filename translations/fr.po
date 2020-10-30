@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: private-sector-data-publishing\n"
 "POT-Creation-Date: 2020-10-27 11:51+0000\n"
-"PO-Revision-Date: 2020-10-27 11:59\n"
+"PO-Revision-Date: 2020-10-30 13:13\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -318,7 +318,7 @@ msgstr ""
 #. type: Plain text
 #: 200.en.adoc:47
 msgid "The almost complete absence of the business sector is noticeable, which limits access to a vast and important volume of biodiversity data collected by companies around the world. In total, private company registers amount to 3,426,240, which is 0.2 per cent of https://www.gbif.org/occurrence/search[all records published in GBIF^]."
-msgstr ""
+msgstr "L’absence presque totale du secteur privé est visible, ce qui limite l’accès à un grand volume de données de biodiversité collectées par des entreprises du monde entier. Au total, les enregistrements issus de entreprises privées s’élèvent à 3 426 240, ce qui constitue moins de 0,2 % https://www.gbif.org/occurrence/search[du nombre total d'enregistrements publiés dans le GBIF^]."
 
 #. type: Plain text
 #: 200.en.adoc:49
@@ -335,7 +335,7 @@ msgstr "Tableau 1."
 #: 200.en.adoc:52
 #, no-wrap
 msgid "Private-sector companies that publish their data through GBIF (as of 27 October 2020)"
-msgstr ""
+msgstr "Entreprises du secteur privé publiant leurs données dans le réseau GBIF (à la date du 27 octobre 2020)"
 
 #. type: Table
 #: 200.en.adoc:111
