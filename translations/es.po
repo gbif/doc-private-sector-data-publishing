@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: private-sector-data-publishing\n"
 "POT-Creation-Date: 2020-11-16 10:06+0000\n"
-"PO-Revision-Date: 2020-11-17 12:09\n"
+"PO-Revision-Date: 2020-11-17 13:06\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -434,12 +434,12 @@ msgstr "¿Qué se necesita para que una empresa sea publicadora de datos a trav�
 #. type: Plain text
 #: 200.en.adoc:128
 msgid "The decision to become a publisher of biodiversity data at GBIF would first come with a decision by the `*company*` management bodies. After that, it is necessary to complete a set of steps that are common to any institution applying for data publishing:"
-msgstr "Para llegar a ser un publicador de datos de biodiversidad a través de GBIF es necesario que primero haya una decisión de los organismos directivos de `*empresa*. Posteriormente, es necesario completar una serie de pasos que son comunes a cualquier institución que solicite la publicación de datos:"
+msgstr "Para llegar a ser proveedor de datos de biodiversidad a través de GBIF es necesario que primero haya una decisión de los organismos directivos de `*empresa*. Posteriormente, es necesario completar una serie de pasos que son comunes a cualquier institución que solicite la publicación de datos:"
 
 #. type: Plain text
 #: 200.en.adoc:130
 msgid "To guarantee institutional arrangements to ensure that all parties involved in the process, from management to the partners from information production, agree to data publishing and to the terms by which it takes place"
-msgstr "Garantizar los procesos institucionales necesarios que aseguren que todas las partes involucradas en el proceso, desde la dirección hasta los socios que generan la información, estén de acuerdo en la publicación de datos y los términos por los cuales se lleva a cabo"
+msgstr "Garantizar las disposiciones institucionales necesarias que aseguren que todas las partes involucradas en el proceso, desde la dirección hasta los socios que generan la información, estén de acuerdo en la publicación de datos y los términos por los cuales se lleva a cabo"
 
 #. type: Plain text
 #: 200.en.adoc:131
@@ -501,7 +501,7 @@ msgstr "Selección de un juego de datos inicial para ser publicado a través de 
 #. type: Plain text
 #: 200.en.adoc:147
 msgid "Definition of information type to be published and any restrictions on its publication, e.g. due to the presence of sensitive species, confidential information, data pending validation by government institutions, etc. Occurrence data (i.e. observation or collection of a given species at a certain place and date) or abundance data may be published."
-msgstr "Definición del tipo de información que se publicará y de cualquier restricción en su publicación, por ejemplo, debido a la presencia de especies sensibles, información confidencial, datos pendientes de validación por instituciones gubernamentales, etc. Se pueden publicar datos de presencia (es decir, observación o recolección de una especie determinada en un momento y lugar determinados o datos de abundancia)."
+msgstr "Definición del tipo de información que se publicará y de cualquier restricción en su publicación, por ejemplo, debido a la presencia de especies sensibles, información confidencial, datos pendientes de validación por instituciones gubernamentales, etc. Se pueden publicar datos de presencia (es decir, observación o recolección de una especie determinada en un momento y lugar determinados) o datos de abundancia."
 
 #. type: Plain text
 #: 200.en.adoc:148
@@ -537,13 +537,13 @@ msgstr "¿Cuáles son los costes para `*empresa*`?"
 #. type: Plain text
 #: 200.en.adoc:155
 msgid "Apart from the dedication time provided by `*company*` staff involved in preparing the proof of concept, there are no additional costs for the company. The necessary work may be supported by the GBIF National Node, that has the knowledge and infrastructure necessary to facilitate this publication. When the National Node makes its IPT facility available for hosting and publishing data, it is recommended that this service is framed by the Service Level Agreement between the GBIF Node (as a service provider) and the company (as the user of the service). This service also has no associated costs. In addition, the GBIF Node could provide training on data publishing through GBIF, contributing to the capacity of the `*company*` in the fields of biodiversity information management and data quality."
-msgstr "No hay ningún coste para la empresa, a excepción del tiempo que pueda dedicar el personal de `*empresa*` en la preparación de la Prueba de Concepto. En todo caso, el trabajo puede ser apoyado por GBIF España, que tiene el conocimiento y la infraestructura necesarios para facilitar esta publicación. Además, el GBIF. ES podría proporcionar capacitación sobre la publicación de datos a través de GBIF, contribuyendo al fortalecimiento de capacidades de la `*empresa*` en las áreas de gestión de información sobre biodiversidad y calidad de datos."
+msgstr "No hay ningún coste para la empresa, a excepción del tiempo que pueda dedicar el personal de `*empresa*` en la preparación de la Prueba de Concepto. En todo caso, el trabajo puede ser apoyado por GBIF España, que tiene el conocimiento y la infraestructura necesarios para facilitar esta publicación. Además, GBIF.ES podría proporcionar capacitación sobre la publicación de datos a través de GBIF, contribuyendo al fortalecimiento de capacidades de `*empresa*` en las áreas de gestión de información sobre biodiversidad y calidad de datos."
 
 #. type: Title ==
 #: glossary.en.adoc:2
 #, no-wrap
 msgid "Glossary"
-msgstr "Glossary"
+msgstr "Glosario"
 
 #. Glossaries are optional. Glossaries entries are an example of a style of AsciiDoc labelled lists.
 #. type: Labeled list
