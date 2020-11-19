@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: private-sector-data-publishing\n"
 "POT-Creation-Date: 2020-11-16 10:06+0000\n"
-"PO-Revision-Date: 2020-11-16 11:56\n"
+"PO-Revision-Date: 2020-11-19 12:55\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -20,7 +20,7 @@ msgstr ""
 #: index.en.adoc:1
 #, no-wrap
 msgid "Guidance for private companies to become data publishers through GBIF"
-msgstr "Guide pour les entreprises privées à devenir éditeurs de données via GBIF"
+msgstr "Guide à destination des entreprises privées pour devenir éditeurs de données via le GBIF"
 
 #. type: Plain text
 #: index.en.adoc:23
@@ -70,7 +70,7 @@ msgstr "Licence"
 #. type: Plain text
 #: colophon.en.adoc:19
 msgid "The document _Guidance for private companies to become data publishers through GBIF_ is licensed under https://creativecommons.org/licenses/by-sa/4.0[Creative Commons Attribution-ShareAlike 4.0 Unported License^]."
-msgstr "Le document _Guide pour les entreprises privées à devenir éditeurs de données via GBIF_ est sous licence https://creativecommons.org/licenses/by-sa/4.0[Creative Commons Attribution-ShareAlike 4.0 Licence^]."
+msgstr "Le document _Guide à destination des entreprises privées pour devenir éditeurs de données via le GBIF_ est sous licence https://creativecommons.org/licenses/by-sa/4.0[Creative Commons Attribution-ShareAlike 4.0 Licence^]."
 
 #. type: Title ===
 #: colophon.en.adoc:20
