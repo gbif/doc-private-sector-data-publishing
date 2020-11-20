@@ -6,7 +6,7 @@
 - [[cadman]] Cadman M, Chavan V, King N, Willoughby S, Rajvanshi A, Mathur V, Roberts R & Hirsch T (2011) Publishing EIA-Related Primary Biodiversity Data: GBIF-IAIA Best Practice Guide. Fargo, N.D., USA: IAIA Special Publication Series No. 7. Accessible at https://www.iaia.org/uploads/pdf/sp7.pdf
 - [[hatton]] Hatton T, Lockwood N, Moran C, Smyth E & Vogel P (2019) Digitally Transforming Environmental Assessment: Report of the Digital Environmental Impact Assessment Working Group. Perth, Australia: Western Australian Biodiversity Science Institute. Available at: https://wabsi.org.au/wp-content/uploads/2019/10/Digitally-Transforming-EIA_Working-Group-Report-FINAL-1.pdf
 - [[chapman]] Chapman AD (2020) Current Best Practices for Generalizing Sensitive Species Occurrence Data [Community review draft]. Copenhagen: GBIF Secretariat. https://doi.org/10.15468/doc-5jp4-5g10
-- [[cbd]] Secretariat of the Convention on Biological Diversity. (1st April 2020) Strategic Plan for Biodiversity 2011–2020 and the Aichi Targets - “Living in Harmony with Nature”. Recuperado de:  https://www.cbd.int/doc/strategic-plan/2011-2020/Aichi-Targets-EN.pdf
+- [[cbd]] Secretariat of the Convention on Biological Diversity. (1st April 2020) Strategic Plan for Biodiversity 2011–2020 and the Aichi Targets - “Living in Harmony with Nature”. Dowloaded from:  https://www.cbd.int/doc/strategic-plan/2011-2020/Aichi-Targets-EN.pdf
 - [[djsi]] S&P Global Inc. (1st April 2020) Dow Jones Sustainability Indices. https://www.robecosam.com/csa/indices/djsi-index-family.html
 
 <<<
