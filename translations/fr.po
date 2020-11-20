@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: private-sector-data-publishing\n"
-"POT-Creation-Date: 2020-11-16 10:06+0000\n"
-"PO-Revision-Date: 2020-11-19 12:55\n"
+"POT-Creation-Date: 2020-11-20 13:44+0000\n"
+"PO-Revision-Date: 2020-11-20 13:55\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -624,8 +624,8 @@ msgstr "[[chapman]] Chapman AD (2020) Current Best Practices for Generalizing Se
 
 #. type: Plain text
 #: bibliography.en.adoc:10
-msgid "[[cbd]] Secretariat of the Convention on Biological Diversity. (1st April 2020) Strategic Plan for Biodiversity 2011–2020 and the Aichi Targets - “Living in Harmony with Nature”. Recuperado de: https://www.cbd.int/doc/strategic-plan/2011-2020/Aichi-Targets-EN.pdf"
-msgstr "[[cbd]] Secrétariat de la Convention sur la diversité biologique. (1er avril 2020) Plan stratégique pour la biodiversité 2011–2020 et les Objectifs d’Aichi - « Vivre en harmonie avec la nature ». Rétabli par: https://www.cbd.int/doc/strategic-plan/2011-2020/Aichi-Targets-fr.pdf"
+msgid "[[cbd]] Secretariat of the Convention on Biological Diversity. (1st April 2020) Strategic Plan for Biodiversity 2011–2020 and the Aichi Targets - “Living in Harmony with Nature”. Dowloaded from: https://www.cbd.int/doc/strategic-plan/2011-2020/Aichi-Targets-EN.pdf"
+msgstr ""
 
 #. type: Plain text
 #: bibliography.en.adoc:11
