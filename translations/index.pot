@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2020-11-20 13:44+0000\n"
+"POT-Creation-Date: 2020-11-23 14:51+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -23,7 +23,7 @@ msgid "Guidance for private companies to become data publishers through GBIF"
 msgstr ""
 
 #. type: Plain text
-#: index.en.adoc:23
+#: index.en.adoc:23 colophon.en.adoc:29
 msgid "languageLinks:combined[]"
 msgstr ""
 
@@ -111,15 +111,6 @@ msgstr ""
 #. type: Plain text
 #: colophon.en.adoc:27
 msgid "Version 2.0, June 2020"
-msgstr ""
-
-#. type: Plain text
-#: colophon.en.adoc:29
-msgid ""
-"This document is also available in "
-"https://docs.gbif-uat.org/private-sector-data-publishing/2.0/es/[Spanish], "
-"https://docs.gbif-uat.org/private-sector-data-publishing/2.0/fr/[French] and "
-"https://docs.gbif-uat.org/private-sector-data-publishing/2.0/pt/[Portuguese]."
 msgstr ""
 
 #. type: Title ===
