@@ -58,8 +58,8 @@ msgstr "Autores"
 
 #. type: Plain text
 #: colophon.en.adoc:15
-msgid "https://orcid.org/0000-0002-8351-4028[Rui Figueira], https://orcid.org/0000-0001-8164-0760[Pedro Beja], https://orcid.org/0000-0001-9244-399X[Cristina Villaverde], Miguel Vega, https://orcid.org/0000-0003-3077-6136[Katia Cezón], https://orcid.org/0000-0002-2629-222X[Tainan Messina], https://orcid.org/0000-0001-6902-1465[Anne-Sophie Archambeau], https://orcid.org/0000-0002-2857-2276[Rukaya Johaadien], https://orcid.org/0000-0002-2352-5497[Dag Endresen] & https://orcid.org/0000-0001-8327-8670[Dairo Escobar]"
-msgstr "https://orcid.org/0000-0002-8351-4028[Rui Figueira], https://orcid.org/0000-0001-8164-0760[Pedro Beja], https://orcid.org/0000-0001-9244-399X[Cristina Villaverde], Miguel Vega, https://orcid.org/0000-0003-3077-6136[Katia Cezón], https://orcid.org/0000-0002-2629-222X[Tainan Messina], https://orcid.org/0000-0001-6902-1465[Anne-Sophie Archambeau], https://orcid.org/0000-0002-2857-2276[Rukaya Johaadien], https://orcid.org/0000-0002-2352-5497[Dag Endresen] & https://orcid.org/0000-0001-8327-8670[Dairo Escobar]"
+msgid "https://orcid.org/0000-0002-8351-4028[Rui Figueira], https://orcid.org/0000-0001-8164-0760[Pedro Beja], https://orcid.org/0000-0001-9244-399X[Cristina Villaverde], https://orcid.org/0000-0003-1885-7195[Miguel Vega], https://orcid.org/0000-0003-3077-6136[Katia Cezón], https://orcid.org/0000-0002-2629-222X[Tainan Messina], https://orcid.org/0000-0001-6902-1465[Anne-Sophie Archambeau], https://orcid.org/0000-0002-2857-2276[Rukaya Johaadien], https://orcid.org/0000-0002-2352-5497[Dag Endresen] & https://orcid.org/0000-0001-8327-8670[Dairo Escobar]"
+msgstr "https://orcid.org/0000-0002-8351-4028[Rui Figueira], https://orcid.org/0000-0001-8164-0760[Pedro Beja], https://orcid.org/0000-0001-9244-399X[Cristina Villaverde], https://orcid.org/0000-0003-1885-7195[Miguel Vega], https://orcid.org/0000-0003-3077-6136[Katia Cezón], https://orcid.org/0000-0002-2629-222X[Tainan Messina], https://orcid.org/0000-0001-6902-1465[Anne-Sophie Archambeau], https://orcid.org/0000-0002-2857-2276[Rukaya Johaadien], https://orcid.org/0000-0002-2352-5497[Dag Endresen] & https://orcid.org/0000-0001-8327-8670[Dairo Escobar]"
 
 #. type: Title ===
 #: colophon.en.adoc:16
@@ -118,8 +118,8 @@ msgstr "Imagem de Capa"
 
 #. type: Plain text
 #: colophon.en.adoc:36
-msgid "Chorão (_Carpobrotus edulis_), Aljezur, Portugal. Photo 2020 sheborg via https://www.gbif.org/occurrence/2557795082[iNaturalist research-grade observations], licensed under http://creativecommons.org/licenses/by-nc/4.0/[CC BY-NC 4.0]."
-msgstr ""
+msgid "Sea fig (_Carpobrotus edulis_), Aljezur, Portugal. Photo 2020 sheborg via https://www.gbif.org/occurrence/2557795082[iNaturalist research-grade observations], licensed under http://creativecommons.org/licenses/by-nc/4.0/[CC BY-NC 4.0]."
+msgstr "Chorão (_Carpobrotus edulis_), Aljezur, Portugal. Photo 2020 sheborg via https://www.gbif.org/occurrence/2557795082[iNaturalist research-grade observations], licensed under http://creativecommons.org/licenses/by-nc/4.0/[CC BY-NC 4.0]."
 
 #. type: Title ==
 #: 100.en.adoc:2
@@ -254,7 +254,7 @@ msgstr "A publicação de dados através do GBIF, em parceria com o Nó Nacional
 #. type: Plain text
 #: 200.en.adoc:31
 msgid "In summary, according to the report Digitally Transforming Environmental Assessment, when private companies publish their biodiversity data, this will result in:"
-msgstr "Resumindo, de acordo com o relatório https://wabsi.org.au/wp-content/uploads/2019/10/Digitally-Transforming-Eia_Working-Group-Report-Final-1. pdf[Digitally Transforming Environmental Assessment^], quando empresas privadas publicam os seus dados de biodiversidade, isto resulta em:"
+msgstr "Resumindo, de acordo com o relatório https://wabsi.org.au/wp-content/uploads/2019/10/Digitally-Transforming-Eia_Working-Group-Report-Final-1.pdf[Digitally Transforming Environmental Assessment^], quando empresas privadas publicam os seus dados de biodiversidade, isto resulta em:"
 
 #. type: Plain text
 #: 200.en.adoc:33
@@ -309,13 +309,13 @@ msgstr "Quem publica dados através do GBIF?"
 
 #. type: Plain text
 #: 200.en.adoc:45
-msgid "To date, GBIF includes 53,939 datasets on its portal published by https://www.gbif.org/publisher/search[1,637 data publishing institutions^]. These publishers are mostly government agencies, natural history museums and herbaria, universities, research centers and non-governmental organizations of various kinds."
+msgid "To date, GBIF includes 53,939 datasets on its portal published by https://www.gbif.org/publisher/search[1,637 data publishing institutions^]. These publishers are mostly government agencies, natural history museums and herbaria, universities, research centres and non-governmental organizations of various kinds."
 msgstr "Até hoje, o GBIF inclui no seu portal 53,939 conjuntos de dados publicados por https://www.gbif.org/publisher/search[1,637 publicadores registados^]. Estes publicadores são na sua maioria agências governamentais, museus de história natural, universidades, centros de investigação e organizações não-governamentais de vários tipos."
 
 #. type: Plain text
 #: 200.en.adoc:47
-msgid "The almost complete absence of the business sector is noticeable, which limits access to a vast and important volume of biodiversity data collected by companies around the world. In total, private company registers amount to 1,362,393, which is less than 0.09 per cent of https://www.gbif.org/occurrence/search[all records published in GBIF^]."
-msgstr "É notória a ausência praticamente total do sector empresarial, o que limita o acesso ao vasto volume e importância dos dados sobre biodiversidade recolhidos por empresas em todo o mundo. No total, os registos de empresas privadas somam 1,362,393 o que corresponde a menos de 0,09% do total https://www.gbif.org/occurrence/search[de registos publicados no GBIF^]."
+msgid "The almost complete absence of the business sector is noticeable, which limits access to a vast and important volume of biodiversity data collected by companies around the world. In total, private company registers amount to 3,426,240, which is 0.2 per cent of https://www.gbif.org/occurrence/search[all records published in GBIF^]."
+msgstr "É notória a ausência praticamente total do sector empresarial, o que limita o acesso ao vasto volume e importância dos dados sobre biodiversidade recolhidos por empresas em todo o mundo. No total, os registos de empresas privadas somam 3,426,240, o que corresponde a menos de 0,02% de https://www.gbif.org/occurrence/search[de registos publicados no GBIF^]."
 
 #. type: Plain text
 #: 200.en.adoc:49
@@ -331,8 +331,8 @@ msgstr "Tabela 1. "
 #. type: Block title
 #: 200.en.adoc:52
 #, no-wrap
-msgid "Private-sector companies that publish their data through GBIF (as of 7 August 2020)"
-msgstr "Empresas do sector privado publicadoras de dados através do GBIF (dados até 7 Agosto de 2020)"
+msgid "Private-sector companies that publish their data through GBIF (as of 27 October 2020)"
+msgstr "Empresas do sector privado publicadoras de dados através do GBIF (dados até 27 de outubro de 2020)"
 
 #. type: Table
 #: 200.en.adoc:109
