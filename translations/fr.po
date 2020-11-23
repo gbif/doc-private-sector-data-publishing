@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: private-sector-data-publishing\n"
-"POT-Creation-Date: 2020-11-20 13:44+0000\n"
-"PO-Revision-Date: 2020-11-23 14:18\n"
+"POT-Creation-Date: 2020-11-23 14:51+0000\n"
+"PO-Revision-Date: 2020-11-23 15:46\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -23,7 +23,7 @@ msgid "Guidance for private companies to become data publishers through GBIF"
 msgstr "Guide à destination des entreprises privées pour devenir éditeurs de données via le GBIF"
 
 #. type: Plain text
-#: index.en.adoc:23
+#: index.en.adoc:23 colophon.en.adoc:29
 msgid "languageLinks:combined[]"
 msgstr "languageLinks:combined[]"
 
@@ -94,11 +94,6 @@ msgstr "Contrôle du document"
 msgid "Version 2.0, June 2020"
 msgstr "Version 2.0, Juin 2020"
 
-#. type: Plain text
-#: colophon.en.adoc:29
-msgid "This document is also available in https://docs.gbif-uat.org/private-sector-data-publishing/2.0/es/[Spanish], https://docs.gbif-uat.org/private-sector-data-publishing/2.0/fr/[French] and https://docs.gbif-uat.org/private-sector-data-publishing/2.0/pt/[Portuguese]."
-msgstr "Ce document est également disponible sur https://docs.gbif-uat.org/private-sector-data-publishing/2.0/en/[anglais], https://docs.gbif-uat.org/private-sector-data-publishing/2.0/es/[espagnole] et https://docs.gbif-uat.org/private-sector-data-publishing/2.0/pt/[portugais]."
-
 #. type: Title ===
 #: colophon.en.adoc:30
 #, no-wrap
@@ -108,7 +103,7 @@ msgstr "Résumé"
 #. type: Plain text
 #: colophon.en.adoc:33
 msgid "This document is a contribution to the https://www.gbif.org/en/project/2Zik1tfJoh3C92ZslvhDIr/[OpenPSD project: Promoting publication and use of private-sector data on biodiversity^], a joint creation of the GBIF nodes of https://www.gbif.org/country/ES/participation[Spain], https://www.gbif.org/country/PT/participation[Portugal], https://www.gbif.org/country/NO/participation[Norway], https://www.gbif.org/country/FR/participation[France] and https://www.gbif.org/country/CO/participation[Colombia] and the companies https://www.edp.com/en[EDP], https://cibio.up.pt/[CIBIO] and https://www.asplanviak.no/[Asplan Viak], and co-funded by the GBIF Secretariat through its https://www.gbif.org/programme/82219/[Capacity Enhancement Support Programme^]."
-msgstr "Ce document est une contribution à https://www.gbif. rg/fr/project/2Zik1tfJoh3C92ZslvhDIr/[projet OpenPSD: Promouvoir la publication et l'utilisation des données du secteur privé sur la biodiversité^], une création commune des nœuds GBIF de https://www. bif.org/country/ES/participation[Spain], https://www.gbif.org/country/PT/participation[Portugal], https://www.gbif.org/country/NO/participation[Norway], https://www. bif.org/country/FR/participation[France] et https://www.gbif.org/country/CO/participation[Colombia] et les entreprises https://www.edp.com/fr[EDP], https://cibio.up. t/[CIBIO] et https://www.asplanviak.no/[Asplan Viak] et cofinancé par le Secrétariat du GBIF via son https://www.gbif.org/programme/82219/[Programme de soutien au renforcement des capacités^]."
+msgstr "Ce document est une contribution à https://www.gbif.org/fr/project/2Zik1tfJoh3C92ZslvhDIr/[projet OpenPSD: Promouvoir la publication et l'utilisation des données du secteur privé sur la biodiversité^], une création commune des nœuds GBIF de https://www.gbif.org/fr/country/ES/participation[Spain], https://www.gbif.org/fr/country/PT/participation[Portugal], https://www.gbif.org/fr/country/NO/participation[Norway], https://www. bif.org/fr/country/FR/participation[France] et https://www.gbif.org/fr/country/CO/participation[Colombia] et les entreprises https://www.edp.com/fr[EDP], https://cibio.up.pt/[CIBIO] et https://www.asplanviak.no/[Asplan Viak] et cofinancé par le Secrétariat du GBIF via son https://www.gbif.org/fr/programme/82219/[Programme de soutien au renforcement des capacités^]."
 
 #. type: Title ===
 #: colophon.en.adoc:34
@@ -203,7 +198,7 @@ msgstr "Il est proposé dans ce document d’impliquer *`entreprise`* en tant qu
 #. type: Plain text
 #: 200.en.adoc:9
 msgid "In the context of global biodiversity decline, species occurrence and abundance data are essential tools for planning, implementing and monitoring of conservation and sustainable use strategies. This importance is recognized on a global scale by the https://sdgs.un.org/goals[United Nations Sustainable Development Goals^], namely SDG14 and SDG15, to which GBIF becomes instrumental for the assessment of the progress towards the goals. Likewise, Aichi Target 19 of the Convention on Biological Diversity (CBD) uses the publication of data through GBIF by 2020 as http://www.bipindicators.net/numberofgbifrecordsovertime[one of the indicators to measure the Target’s compliance^] ."
-msgstr "Dans le contexte du déclin de la biodiversité mondiale, l'occurrence d'espèces et les données d'abondance sont des outils essentiels pour la planification, la mise en œuvre et le suivi des stratégies de conservation et d'utilisation durable. Cette importance est reconnue à l'échelle mondiale par le https://sdgs.un. rg/goals[Objectifs des Nations Unies pour le développement durable^], à savoir les SDG14 et le SDG15, auxquels le GBIF devient essentiel pour l'évaluation des progrès vers les objectifs. De même, Aichi Target 19 de la Convention sur la diversité biologique (CBD) utilise la publication de données sur le GBIF d’ici 2020 comme http://www. ipindicators.net/numberofgbifrecordsovertime[un des indicateurs pour mesurer la conformité de la cible^] ."
+msgstr "Dans le contexte du déclin de la biodiversité mondiale, l'occurrence d'espèces et les données d'abondance sont des outils essentiels pour la planification, la mise en œuvre et le suivi des stratégies de conservation et d'utilisation durable. Cette importance est reconnue à l'échelle mondiale par le https://sdgs.un.org/goals[Objectifs des Nations Unies pour le développement durable^], à savoir les SDG14 et le SDG15, auxquels le GBIF devient essentiel pour l'évaluation des progrès vers les objectifs. De même, Aichi Target 19 de la Convention sur la diversité biologique (CBD) utilise la publication de données sur le GBIF d’ici 2020 comme http://www.bipindicators.net/numberofgbifrecordsovertime[un des indicateurs pour mesurer la conformité de la cible^] ."
 
 #. type: Plain text
 #: 200.en.adoc:11
@@ -313,12 +308,12 @@ msgstr "Qui publie des données dans le réseau GBIF ?"
 #. type: Plain text
 #: 200.en.adoc:45
 msgid "To date, GBIF includes 53,939 datasets on its portal published by https://www.gbif.org/publisher/search[1,637 data publishing institutions^]. These publishers are mostly government agencies, natural history museums and herbaria, universities, research centres and non-governmental organizations of various kinds."
-msgstr "A l’heure actuelle, le GBIF comprend 53 939 jeux de données sur son portail, publiés par https://www.gbif.org/publisher/search[1,637 éditeurs de données enregistrés^]. Ces éditeurs sont pour la plupart des agences gouvernementales, des musées d’histoire naturelle, des universités, des organismes de recherche et diverses organisations non-gouvernementales."
+msgstr "A l’heure actuelle, le GBIF comprend 53 939 jeux de données sur son portail, publiés par https://www.gbif.org/fr/publisher/search[1,637 éditeurs de données enregistrés^]. Ces éditeurs sont pour la plupart des agences gouvernementales, des musées d’histoire naturelle, des universités, des organismes de recherche et diverses organisations non-gouvernementales."
 
 #. type: Plain text
 #: 200.en.adoc:47
 msgid "The almost complete absence of the business sector is noticeable, which limits access to a vast and important volume of biodiversity data collected by companies around the world. In total, private company registers amount to 3,426,240, which is 0.2 per cent of https://www.gbif.org/occurrence/search[all records published in GBIF^]."
-msgstr "L’absence presque totale du secteur privé est visible, ce qui limite l’accès à un grand volume de données de biodiversité collectées par des entreprises du monde entier. Au total, les enregistrements issus de entreprises privées s’élèvent à 3 426 240, ce qui constitue moins de 0,2 % https://www.gbif.org/occurrence/search[du nombre total d'enregistrements publiés dans le GBIF^]."
+msgstr "L’absence presque totale du secteur privé est visible, ce qui limite l’accès à un grand volume de données de biodiversité collectées par des entreprises du monde entier. Au total, les enregistrements issus de entreprises privées s’élèvent à 3 426 240, ce qui constitue moins de 0,2 % https://www.gbif.org/fr/occurrence/search[du nombre total d'enregistrements publiés dans le GBIF^]."
 
 #. type: Plain text
 #: 200.en.adoc:49
@@ -452,12 +447,12 @@ msgstr "Prendre connaissance et accepter le https://www.gbif.org/terms/data-publ
 #. type: Plain text
 #: 200.en.adoc:132
 msgid "To be aware of the https://www.gbif.org/terms/data-user[Data User Agreement^], that GBIF data users must agree before using them"
-msgstr "Prendre connaissance du https://www.gbif.org/terms/data-user[Data User Agreement^], que les utilisateurs du GBIF doivent accepter avant d’utiliser les données"
+msgstr "Prendre connaissance du https://www.gbif.org/fr/terms/data-user[Data User Agreement^], que les utilisateurs du GBIF doivent accepter avant d’utiliser les données"
 
 #. type: Plain text
 #: 200.en.adoc:133
 msgid "To apply for the institution to register with GBIF as a data publisher and request the endorsement of the national node. Application for registration and endorsement is made online with https://www.gbif.org/become-a-publisher[this form^]"
-msgstr "Soumettre la candidature de l’institution pour qu’elle soit enregistrée comme éditrice de données GBIF, et demander la validation du point nodal national. Les demandes d’enregistrement et de validation se font en ligne via https://www.gbif.org/become-a-publisher [ce formulaire^]"
+msgstr "Soumettre la candidature de l’institution pour qu’elle soit enregistrée comme éditrice de données GBIF, et demander la validation du point nodal national. Les demandes d’enregistrement et de validation se font en ligne via https://www.gbif.org/fr/become-a-publisher[ce formulaire^]"
 
 #. type: Title ===
 #: 200.en.adoc:134
@@ -520,7 +515,7 @@ msgstr "Mise en place d’accords avec les producteurs de données (par exemple 
 #. type: Plain text
 #: 200.en.adoc:150
 msgid "Selection of a http://www.gbif.org/terms/licences[Creative Commons licence^] for the data to be published, which can be one of the following: CC0, CC-BY, CC-BY-NC. Depending on their characteristics, one of these licenses may be assigned."
-msgstr "Sélection d’une licence http://www.gbif.org/terms/licences[Creative Commons licence^] à attribuer au jeu de données en cours de publication ; le choix doit s’effectuer parmi les licences CC0, CC-BY, ou CC-BY-NC5."
+msgstr "Sélection d’une licence http://www.gbif.org/fr/terms/licences[Creative Commons licence^] à attribuer au jeu de données en cours de publication ; le choix doit s’effectuer parmi les licences CC0, CC-BY, ou CC-BY-NC5."
 
 #. type: Plain text
 #: 200.en.adoc:151
@@ -536,7 +531,7 @@ msgstr "Suivre l’utilisation des données publiées durant une période d’un
 #: 200.en.adoc:153
 #, no-wrap
 msgid "What are the costs for `*this company*`?"
-msgstr "9. Quels sont les coûts pour `*entreprise*` ?"
+msgstr "Quels sont les coûts pour `*entreprise*` ?"
 
 #. type: Plain text
 #: 200.en.adoc:155
