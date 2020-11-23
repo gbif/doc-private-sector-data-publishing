@@ -1,9 +1,15 @@
+.bash_history
 .DS_Store
+.idea
 *.asis
+*.brotli
 *.html
+!*docinfo*.html
 *.pdf
+*.webp
 *.??.adoc
 !*.en.adoc
 *.??-??.adoc
 *.mo
 *.icloud
+build.sh

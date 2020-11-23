@@ -25,7 +25,7 @@ https://doi.org/10.35035/doc-b8hq-me03
 
 Version 2.0, June 2020
 
-This document is also available in https://docs.gbif-uat.org/private-sector-data-publishing/2.0/es/[Spanish], https://docs.gbif-uat.org/private-sector-data-publishing/2.0/fr/[French] and https://docs.gbif-uat.org/private-sector-data-publishing/2.0/pt/[Portuguese].
+languageLinks:combined[]
 
 === Abstract
 
