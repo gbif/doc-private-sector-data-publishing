@@ -86,7 +86,7 @@ The almost complete absence of the business sector is noticeable, which limits a
 
 | https://www.gbif.org/publisher/04ce62dd-30ec-4d98-8b30-b09cafc3ac38[Isagen^] | Energy | Colombia | 8 | 19,352 | 67
 
-| https://www.gbif.org/publisher/2d7ea901-0128-4a7a-8207-425020c1fd99[LafargeHolcim^] | Mining | Spain | 2 | 35 | 1
+| https://www.gbif.org/publisher/2d7ea901-0128-4a7a-8207-425020c1fd99[LafargeHolcim Spain^] | Mining | Spain | 2 | 35 | 1
 
 | https://www.gbif.org/publisher/9a21807b-b9c5-4071-b393-764f3cd58abc[Moam SAS^] | Consulting | Colombia | 1 | 1,781 | 5
 
