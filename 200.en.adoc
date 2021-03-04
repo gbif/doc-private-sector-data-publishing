@@ -70,6 +70,8 @@ The almost complete absence of the business sector is noticeable, which limits a
 
 | https://www.gbif.org/publisher/8e6bc843-c1b4-4b10-b546-881f06049004[Biotica Consultores Ltda^] | Consulting | Colombia | 3 | 855 | 4
 
+| https://www.gbif.org/publisher/f9f1b710-d975-4215-9940-bb702299e9be[Bosques Naturales S.A.^] | Retail | Spain | 0 | 0 | 0
+
 | https://www.gbif.org/publisher/0fd86a13-3d0d-4d6e-b809-2811706f35d6[Celsia^] | Energy | Colombia | 2 | 35 | 8
 
 | https://www.gbif.org/publisher/d49251f5-379f-43b4-b747-9d8240334fa5[Chevron Australia^] | Energy | Australia | 1 | 2,048 | 20
@@ -98,13 +100,17 @@ The almost complete absence of the business sector is noticeable, which limits a
 
 | https://www.gbif.org/publisher/99c6eaae-f15b-4656-a600-d0c50044962e[Naturrestaurering AS^] | Consulting | Norway | 3 | 5,476 | 22
 
-| https://www.gbif.org/publisher/a1648ebf-7363-4c27-beb0-23271087220f[NNI^] | Consulting | Norway | 2 | 3,116 | 28
+| https://www.gbif.org/publisher/a1648ebf-7363-4c27-beb0-23271087220f[Navantia, SA^] | Technology | Spain | 4 | 647 | 0
+
+| https://www.gbif.org/publisher/52bd9c22-340b-480d-b414-73db37cd9379[NNI^] | Consulting | Norway | 2 | 3,116 | 28
 
 | https://www.gbif.org/publisher/c3da1f49-b2c8-4751-b72f-28855546ec4c[Oleoducto Bicentenario^] | Energy | Colombia | 3 | 2,074 | 76
 
 | https://www.gbif.org/publisher/80e15a76-70e8-417d-9111-b2e9e0dd8f18[Rådgivende Biologer^] | Consulting | Norway | 5 | 15,214 | 112
 
 | https://www.gbif.org/publisher/2c542862-b9dd-40fc-8260-fb434997efa7[Stratos^] | Consulting | Colombia | 1 | 849 | 4
+
+| https://www.gbif.org/publisher/ca11748e-a30a-4252-930f-bdb017e942c5[SUEZ en España^] | Consulting | Spain | 1 | 56,847 | 2
 
 | https://www.gbif.org/publisher/c4444b2c-6b07-40c2-8474-6556a195cd40[SWECO Norge AS^] | Engineering | Norway | 1 | 1,139 | 121
 
