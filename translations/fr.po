@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: private-sector-data-publishing\n"
-"POT-Creation-Date: 2020-11-20 13:44+0000\n"
-"PO-Revision-Date: 2020-11-23 14:18\n"
+"POT-Creation-Date: 2021-02-02 10:07+0000\n"
+"PO-Revision-Date: 2021-02-02 10:47\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -23,7 +23,7 @@ msgid "Guidance for private companies to become data publishers through GBIF"
 msgstr "Guide à destination des entreprises privées pour devenir éditeurs de données via le GBIF"
 
 #. type: Plain text
-#: index.en.adoc:23
+#: index.en.adoc:23 colophon.en.adoc:29
 msgid "languageLinks:combined[]"
 msgstr "languageLinks:combined[]"
 
@@ -94,11 +94,6 @@ msgstr "Contrôle du document"
 msgid "Version 2.0, June 2020"
 msgstr "Version 2.0, Juin 2020"
 
-#. type: Plain text
-#: colophon.en.adoc:29
-msgid "This document is also available in https://docs.gbif-uat.org/private-sector-data-publishing/2.0/es/[Spanish], https://docs.gbif-uat.org/private-sector-data-publishing/2.0/fr/[French] and https://docs.gbif-uat.org/private-sector-data-publishing/2.0/pt/[Portuguese]."
-msgstr "Ce document est également disponible sur https://docs.gbif-uat.org/private-sector-data-publishing/2.0/en/[anglais], https://docs.gbif-uat.org/private-sector-data-publishing/2.0/es/[espagnole] et https://docs.gbif-uat.org/private-sector-data-publishing/2.0/pt/[portugais]."
-
 #. type: Title ===
 #: colophon.en.adoc:30
 #, no-wrap
@@ -108,7 +103,7 @@ msgstr "Résumé"
 #. type: Plain text
 #: colophon.en.adoc:33
 msgid "This document is a contribution to the https://www.gbif.org/en/project/2Zik1tfJoh3C92ZslvhDIr/[OpenPSD project: Promoting publication and use of private-sector data on biodiversity^], a joint creation of the GBIF nodes of https://www.gbif.org/country/ES/participation[Spain], https://www.gbif.org/country/PT/participation[Portugal], https://www.gbif.org/country/NO/participation[Norway], https://www.gbif.org/country/FR/participation[France] and https://www.gbif.org/country/CO/participation[Colombia] and the companies https://www.edp.com/en[EDP], https://cibio.up.pt/[CIBIO] and https://www.asplanviak.no/[Asplan Viak], and co-funded by the GBIF Secretariat through its https://www.gbif.org/programme/82219/[Capacity Enhancement Support Programme^]."
-msgstr "Ce document est une contribution à https://www.gbif. rg/fr/project/2Zik1tfJoh3C92ZslvhDIr/[projet OpenPSD: Promouvoir la publication et l'utilisation des données du secteur privé sur la biodiversité^], une création commune des nœuds GBIF de https://www. bif.org/country/ES/participation[Spain], https://www.gbif.org/country/PT/participation[Portugal], https://www.gbif.org/country/NO/participation[Norway], https://www. bif.org/country/FR/participation[France] et https://www.gbif.org/country/CO/participation[Colombia] et les entreprises https://www.edp.com/fr[EDP], https://cibio.up. t/[CIBIO] et https://www.asplanviak.no/[Asplan Viak] et cofinancé par le Secrétariat du GBIF via son https://www.gbif.org/programme/82219/[Programme de soutien au renforcement des capacités^]."
+msgstr "Ce document est une contribution à https://www.gbif.org/fr/project/2Zik1tfJoh3C92ZslvhDIr/[projet OpenPSD: Promouvoir la publication et l'utilisation des données du secteur privé sur la biodiversité^], une création commune des nœuds GBIF de https://www.gbif.org/fr/country/ES/participation[Spain], https://www.gbif.org/fr/country/PT/participation[Portugal], https://www.gbif.org/fr/country/NO/participation[Norway], https://www. bif.org/fr/country/FR/participation[France] et https://www.gbif.org/fr/country/CO/participation[Colombia] et les entreprises https://www.edp.com/fr[EDP], https://cibio.up.pt/[CIBIO] et https://www.asplanviak.no/[Asplan Viak] et cofinancé par le Secrétariat du GBIF via son https://www.gbif.org/fr/programme/82219/[Programme de soutien au renforcement des capacités^]."
 
 #. type: Title ===
 #: colophon.en.adoc:34
@@ -203,7 +198,7 @@ msgstr "Il est proposé dans ce document d’impliquer *`entreprise`* en tant qu
 #. type: Plain text
 #: 200.en.adoc:9
 msgid "In the context of global biodiversity decline, species occurrence and abundance data are essential tools for planning, implementing and monitoring of conservation and sustainable use strategies. This importance is recognized on a global scale by the https://sdgs.un.org/goals[United Nations Sustainable Development Goals^], namely SDG14 and SDG15, to which GBIF becomes instrumental for the assessment of the progress towards the goals. Likewise, Aichi Target 19 of the Convention on Biological Diversity (CBD) uses the publication of data through GBIF by 2020 as http://www.bipindicators.net/numberofgbifrecordsovertime[one of the indicators to measure the Target’s compliance^] ."
-msgstr "Dans le contexte du déclin de la biodiversité mondiale, l'occurrence d'espèces et les données d'abondance sont des outils essentiels pour la planification, la mise en œuvre et le suivi des stratégies de conservation et d'utilisation durable. Cette importance est reconnue à l'échelle mondiale par le https://sdgs.un. rg/goals[Objectifs des Nations Unies pour le développement durable^], à savoir les SDG14 et le SDG15, auxquels le GBIF devient essentiel pour l'évaluation des progrès vers les objectifs. De même, Aichi Target 19 de la Convention sur la diversité biologique (CBD) utilise la publication de données sur le GBIF d’ici 2020 comme http://www. ipindicators.net/numberofgbifrecordsovertime[un des indicateurs pour mesurer la conformité de la cible^] ."
+msgstr "Dans le contexte du déclin de la biodiversité mondiale, l'occurrence d'espèces et les données d'abondance sont des outils essentiels pour la planification, la mise en œuvre et le suivi des stratégies de conservation et d'utilisation durable. Cette importance est reconnue à l'échelle mondiale par le https://sdgs.un.org/goals[Objectifs des Nations Unies pour le développement durable^], à savoir les SDG14 et le SDG15, auxquels le GBIF devient essentiel pour l'évaluation des progrès vers les objectifs. De même, Aichi Target 19 de la Convention sur la diversité biologique (CBD) utilise la publication de données sur le GBIF d’ici 2020 comme http://www.bipindicators.net/numberofgbifrecordsovertime[un des indicateurs pour mesurer la conformité de la cible^] ."
 
 #. type: Plain text
 #: 200.en.adoc:11
@@ -313,12 +308,12 @@ msgstr "Qui publie des données dans le réseau GBIF ?"
 #. type: Plain text
 #: 200.en.adoc:45
 msgid "To date, GBIF includes 53,939 datasets on its portal published by https://www.gbif.org/publisher/search[1,637 data publishing institutions^]. These publishers are mostly government agencies, natural history museums and herbaria, universities, research centres and non-governmental organizations of various kinds."
-msgstr "A l’heure actuelle, le GBIF comprend 53 939 jeux de données sur son portail, publiés par https://www.gbif.org/publisher/search[1,637 éditeurs de données enregistrés^]. Ces éditeurs sont pour la plupart des agences gouvernementales, des musées d’histoire naturelle, des universités, des organismes de recherche et diverses organisations non-gouvernementales."
+msgstr ""
 
 #. type: Plain text
 #: 200.en.adoc:47
 msgid "The almost complete absence of the business sector is noticeable, which limits access to a vast and important volume of biodiversity data collected by companies around the world. In total, private company registers amount to 3,426,240, which is 0.2 per cent of https://www.gbif.org/occurrence/search[all records published in GBIF^]."
-msgstr "L’absence presque totale du secteur privé est visible, ce qui limite l’accès à un grand volume de données de biodiversité collectées par des entreprises du monde entier. Au total, les enregistrements issus de entreprises privées s’élèvent à 3 426 240, ce qui constitue moins de 0,2 % https://www.gbif.org/occurrence/search[du nombre total d'enregistrements publiés dans le GBIF^]."
+msgstr "L’absence presque totale du secteur privé est visible, ce qui limite l’accès à un grand volume de données de biodiversité collectées par des entreprises du monde entier. Au total, les enregistrements issus de entreprises privées s’élèvent à 3 426 240, ce qui constitue moins de 0,2 % https://www.gbif.org/fr/occurrence/search[du nombre total d'enregistrements publiés dans le GBIF^]."
 
 #. type: Plain text
 #: 200.en.adoc:49
@@ -341,61 +336,34 @@ msgstr "Entreprises du secteur privé publiant leurs données dans le réseau GB
 #: 200.en.adoc:111
 #, no-wrap
 msgid "| Company | Activity sector | Country | Datasets | Occurrence records | Data citations\n\n"
-"| https://www.gbif.org/publisher/eea64f26-8fd5-49fb-be7e-a1d4cfc051ee[Aïgos SAS^] | Consulting | Colombia | 3 | 2,404 | 5\n\n"
-"| https://www.gbif.org/publisher/b5904aaf-02c7-4ff3-85a6-0f528dbb632e[Anadarko Colombia Company^] | Energy | Colombia | 3 | 282 | 8\n\n"
-"| https://www.gbif.org/publisher/f2429cd1-4d45-475c-852a-892024cb4aba[Arctic Research and Consulting DA^] | Consulting | Norway | 1 | 8,914 | 14\n\n"
-"| https://www.gbif.org/publisher/612c9b58-e739-4af4-a038-4b3901fa5649[Asplan Viak AS^] | Engineering | Norway | 14 | 3,779 | 97\n\n"
-"| https://www.gbif.org/publisher/b2c1126d-e3b4-4619-9f94-b236dcc0a947[Biofokus^] | Consulting | Norway | 1 | 519,258 | 262\n\n"
-"| https://www.gbif.org/publisher/a41046bd-eaca-49bf-919b-419062ffc2a2[Biolog J.B. Jordal AS^] | Consulting | Norway | 1 | 177,814 | 147\n\n"
-"| https://www.gbif.org/publisher/0fd86a13-3d0d-4d6e-b809-2811706f35d6[Celsia^] | Energy | Colombia | 2 | 35 | 3\n\n"
-"| https://www.gbif.org/publisher/d49251f5-379f-43b4-b747-9d8240334fa5[Chevron Australia^] | Energy | Australia | 1 | 2,048 | 19\n\n"
-"| https://www.gbif.org/publisher/efc5d3c7-2fec-42dd-85de-078a73973bd1[DNG VL^] | Energy | Norway | 1 | 2,036,474 | 1\n\n"
-"| https://www.gbif.org/publisher/fac91b96-c087-460f-ab01-b808f341c2f5[Ecofact^] | Consulting | Norway | 1 | 11,273 | 107\n\n"
+"| https://www.gbif.org/publisher/eea64f26-8fd5-49fb-be7e-a1d4cfc051ee[Aïgos SAS^] | Consulting | Colombia | 3 | 2,404 | 8\n\n"
+"| https://www.gbif.org/publisher/b5904aaf-02c7-4ff3-85a6-0f528dbb632e[Anadarko Colombia Company^] | Energy | Colombia | 5 | 893 | 10\n\n"
+"| https://www.gbif.org/publisher/f2429cd1-4d45-475c-852a-892024cb4aba[Arctic Research and Consulting DA^] | Consulting | Norway | 1 | 8,914 | 16\n\n"
+"| https://www.gbif.org/publisher/612c9b58-e739-4af4-a038-4b3901fa5649[Asplan Viak AS^] | Engineering | Norway | 14 | 3,779 | 113\n\n"
+"| https://www.gbif.org/publisher/b2c1126d-e3b4-4619-9f94-b236dcc0a947[Biofokus^] | Consulting | Norway | 1 | 523,629 | 305\n\n"
+"| https://www.gbif.org/publisher/a41046bd-eaca-49bf-919b-419062ffc2a2[Biolog J.B. Jordal AS^] | Consulting | Norway | 1 | 177,814 | 168\n\n"
+"| https://www.gbif.org/publisher/0fd86a13-3d0d-4d6e-b809-2811706f35d6[Celsia^] | Energy | Colombia | 2 | 35 | 6\n\n"
+"| https://www.gbif.org/publisher/d49251f5-379f-43b4-b747-9d8240334fa5[Chevron Australia^] | Energy | Australia | 1 | 2,048 | 20\n\n"
+"| https://www.gbif.org/publisher/efc5d3c7-2fec-42dd-85de-078a73973bd1[DNG VL^] | Energy | Norway | 1 | 2,036,474 | 3\n\n"
+"| https://www.gbif.org/publisher/fac91b96-c087-460f-ab01-b808f341c2f5[Ecofact^] | Consulting | Norway | 3 | 12,508 | 121\n\n"
 "| https://www.gbif.org/publisher/e5150835-f502-424c-b470-24dd496b1b18[EDP - Energias de Portugal^] | Energy | Portugal | 76 | 618,587 | 36\n\n"
-"| https://www.gbif.org/publisher/d98d7029-8cb7-44c2-88af-52988adc3a62[Faun Naturforvaltning AS^] | Consulting | Norway | 1 | 3,788 | 101\n\n"
-"| https://www.gbif.org/publisher/fe602f47-b553-4291-b6e5-197b9837e167[Federación Nacional de Cafeteros^] | Agriculture | Colombia | 6 | 26,804 | 105\n\n"
-"| https://www.gbif.org/publisher/90d2e455-c279-4bf1-ba87-806495641e18[Hatovial SAS^] | Engineering | Colombia | 1 | 1,898 | 10\n\n"
-"| https://www.gbif.org/publisher/67c63221-0c74-4c18-97f9-e2b2acb739ce[INERCO^] | Consulting | Colombia | 1 | 1,090 | 15\n\n"
-"| https://www.gbif.org/publisher/04ce62dd-30ec-4d98-8b30-b09cafc3ac38[Isagen^] | Energy | Colombia | 8 | 19,352 | 67\n\n"
-"| https://www.gbif.org/publisher/2d7ea901-0128-4a7a-8207-425020c1fd99[LafargeHolcim^] | Mining | Spain | 2 | 35 | 1\n\n"
-"| https://www.gbif.org/publisher/9a21807b-b9c5-4071-b393-764f3cd58abc[Moam SAS^] | Consulting | Colombia | 1 | 1,781 | 5\n\n"
-"| https://www.gbif.org/publisher/359ba517-ca03-46dd-9583-d2be73085c2f[Multiconsult^] | Consulting | Norway | 1 | 308 | 12\n\n"
-"| https://www.gbif.org/publisher/99c6eaae-f15b-4656-a600-d0c50044962e[Naturrestaurering AS^] | Consulting | Norway | 3 | 782 | 8\n\n"
-"| https://www.gbif.org/publisher/a1648ebf-7363-4c27-beb0-23271087220f[NNI^] | Consulting | Norway | 2 | 3,116 | 22\n\n"
-"| https://www.gbif.org/publisher/c3da1f49-b2c8-4751-b72f-28855546ec4c[Oleoducto Bicentenario^] | Energy | Colombia | 3 | 2,074 | 64\n\n"
-"| https://www.gbif.org/publisher/80e15a76-70e8-417d-9111-b2e9e0dd8f18[Rådgivende Biologer^] | Consulting | Norway | 5 | 15,214 | 91\n\n"
-"| https://www.gbif.org/publisher/2c542862-b9dd-40fc-8260-fb434997efa7[Stratos^] | Consulting | Colombia | 1 | 849 | 2\n\n"
-"| https://www.gbif.org/publisher/c4444b2c-6b07-40c2-8474-6556a195cd40[SWECO Norge AS^] | Engineering | Norway | 1 | 1,139 | 98\n\n"
-"| https://www.gbif.org/publisher/f5db868f-e5bf-4208-bd9d-d4063ae1c825[Terrasos^] | Consulting | Colombia | 4 | 9,781 | 6\n\n"
-"| https://www.gbif.org/publisher/728e3362-3063-4a43-a6cf-71d61b50025b[Total^] | Energy | France | 1 | 324 | 4\n\n"
-msgstr "| Entreprise | Secteur d'activité | Pays | Jeux de données | Enregistrements d'occurrence| Citations de données\n\n"
-"| https://www.gbif.org/publisher/eea64f26-8fd5-49fb-be7e-a1d4cfc051ee[Aïgos SAS^] | Consultant | Colombie | 3 | 2,404 | 5\n\n"
-"| https://www.gbif.org/publisher/b5904aaf-02c7-4ff3-85a6-0f528dbb632e[Anadarko Colombia Company^] | Énergie | Colombie | 3 | 282 | 8\n\n"
-"| https://www.gbif.org/publisher/f2429cd1-4d45-475c-852a-892024cb4aba[Arctic Research and Consulting DA^] | Consultant | Norvège | 1 | 8,914 | 14\n\n"
-"| https://www.gbif.org/publisher/612c9b58-e739-4af4-a038-4b3901fa5649[Asplan Viak AS^] | Ingénierie | Norvège | 14 | 3,779 | 97\n\n"
-"| https://www.gbif.org/publisher/b2c1126d-e3b4-4619-9f94-b236dcc0a947[Biofokus^] | Consultant | Norvège | 1 | 519,258 | 262\n\n"
-"| https://www.gbif.org/publisher/a41046bd-eaca-49bf-919b-419062ffc2a2[Biolog J.B. Jordal AS^] | Consultant | Norvège | 1 | 177,814 | 147\n\n"
-"| https://www.gbif.org/publisher/0fd86a13-3d0d-4d6e-b809-2811706f35d6[Celsia^] | Énergie | Colombie | 2 | 35 | 3\n\n"
-"| https://www.gbif.org/publisher/d49251f5-379f-43b4-b747-9d8240334fa5[Chevron Australia^] | Énergie | Australie | 1 | 2,048 | 19\n\n"
-"| https://www.gbif.org/publisher/efc5d3c7-2fec-42dd-85de-078a73973bd1[DNG VL^] | Énergie | Norvège | 1 | 2,036,474 | 1\n\n"
-"| https://www.gbif.org/publisher/fac91b96-c087-460f-ab01-b808f341c2f5[Ecofact^] | Consultant | Norvège | 1 | 11,273 | 107\n\n"
-"| https://www.gbif.org/publisher/e5150835-f502-424c-b470-24dd496b1b18[EDP - Energias de Portugal^] | Énergie | Portugal | 76 | 618,587 | 36\n\n"
-"| https://www.gbif.org/publisher/d98d7029-8cb7-44c2-88af-52988adc3a62[Faun Naturforvaltning AS^] | Consultant | Norvège | 1 | 3,788 | 101\n\n"
-"| https://www.gbif.org/publisher/fe602f47-b553-4291-b6e5-197b9837e167[Federación Nacional de Cafeteros^] | Agriculture | Colombie | 6 | 26,804 | 105\n\n"
-"| https://www.gbif.org/publisher/90d2e455-c279-4bf1-ba87-806495641e18[Hatovial SAS^] | Ingénierie | Colombie | 1 | 1,898 | 10\n\n"
-"| https://www.gbif.org/publisher/67c63221-0c74-4c18-97f9-e2b2acb739ce[INERCO^] | Consultant | Colombie | 1 | 1,090 | 15\n\n"
-"| https://www.gbif.org/publisher/04ce62dd-30ec-4d98-8b30-b09cafc3ac38[Isagen^] | Énergie | Colombie | 8 | 19,352 | 67\n\n"
-"| https://www.gbif.org/publisher/2d7ea901-0128-4a7a-8207-425020c1fd99[LafargeHolcim^] | Exploitation minière | Espagne | 2 | 35 | 1\n\n"
-"| https://www.gbif.org/publisher/9a21807b-b9c5-4071-b393-764f3cd58abc[Moam SAS^] | Consultant | Colombie | 1 | 1,781 | 5\n\n"
-"| https://www.gbif.org/publisher/359ba517-ca03-46dd-9583-d2be73085c2f[Multiconsult^] | Consulting | Norvège | 1 | 308 | 12\n\n"
-"| https://www.gbif.org/publisher/99c6eaae-f15b-4656-a600-d0c50044962e[Naturrestaurering AS^] | Consultant | Norvège | 3 | 782 | 8\n\n"
-"| https://www.gbif.org/publisher/a1648ebf-7363-4c27-beb0-23271087220f[NNI^] | Consultant | Norvège | 2 | 3,116 | 22\n\n"
-"| https://www.gbif.org/publisher/c3da1f49-b2c8-4751-b72f-28855546ec4c[Oleoducto Bicentenario^] | Énergie | Colombie | 3 | 2,074 | 64\n\n"
-"| https://www.gbif.org/publisher/80e15a76-70e8-417d-9111-b2e9e0dd8f18[Rådgivende Biologer^] | Consultant | Norvège | 5 | 15,214 | 91\n\n"
-"| https://www.gbif.org/publisher/2c542862-b9dd-40fc-8260-fb434997efa7[Stratos^] | Consultant | Colombie | 1 | 849 | 2\n\n"
-"| https://www.gbif.org/publisher/c4444b2c-6b07-40c2-8474-6556a195cd40[SWECO Norge AS^] | Ingénierie | Norvège | 1 | 1,139 | 98\n\n"
-"| https://www.gbif.org/publisher/f5db868f-e5bf-4208-bd9d-d4063ae1c825[Terrasos^] | Consultant | Colombie | 4 | 9,781 | 6\n\n"
-"| https://www.gbif.org/publisher/728e3362-3063-4a43-a6cf-71d61b50025b[Total^] | Énergie | France | 1 | 324 | 4\n\n"
+"| https://www.gbif.org/publisher/d98d7029-8cb7-44c2-88af-52988adc3a62[Faun Naturforvaltning AS^] | Consulting | Norway | 1 | 3,788 | 117\n\n"
+"| https://www.gbif.org/publisher/fe602f47-b553-4291-b6e5-197b9837e167[Federación Nacional de Cafeteros^] | Agriculture | Colombia | 6 | 26,804 | 121\n\n"
+"| https://www.gbif.org/publisher/90d2e455-c279-4bf1-ba87-806495641e18[Hatovial SAS^] | Engineering | Colombia | 1 | 1,898 | 16\n\n"
+"| https://www.gbif.org/publisher/67c63221-0c74-4c18-97f9-e2b2acb739ce[INERCO^] | Consulting | Colombia | 1 | 1,090 | 20\n\n"
+"| https://www.gbif.org/publisher/04ce62dd-30ec-4d98-8b30-b09cafc3ac38[Isagen^] | Energy | Colombia | 8 | 19,352 | 75\n\n"
+"| https://www.gbif.org/publisher/2d7ea901-0128-4a7a-8207-425020c1fd99[LafargeHolcim Spain^] | Mining | Spain | 2 | 35 | 1\n\n"
+"| https://www.gbif.org/publisher/9a21807b-b9c5-4071-b393-764f3cd58abc[Moam SAS^] | Consulting | Colombia | 1 | 1,781 | 7\n\n"
+"| https://www.gbif.org/publisher/359ba517-ca03-46dd-9583-d2be73085c2f[Multiconsult^] | Consulting | Norway | 1 | 308 | 19\n\n"
+"| https://www.gbif.org/publisher/99c6eaae-f15b-4656-a600-d0c50044962e[Naturrestaurering AS^] | Consulting | Norway | 3 | 780 | 16\n\n"
+"| https://www.gbif.org/publisher/a1648ebf-7363-4c27-beb0-23271087220f[NNI^] | Consulting | Norway | 2 | 3,116 | 25\n\n"
+"| https://www.gbif.org/publisher/c3da1f49-b2c8-4751-b72f-28855546ec4c[Oleoducto Bicentenario^] | Energy | Colombia | 3 | 2,074 | 72\n\n"
+"| https://www.gbif.org/publisher/80e15a76-70e8-417d-9111-b2e9e0dd8f18[Rådgivende Biologer^] | Consulting | Norway | 5 | 15,214 | 105\n\n"
+"| https://www.gbif.org/publisher/2c542862-b9dd-40fc-8260-fb434997efa7[Stratos^] | Consulting | Colombia | 1 | 849 | 4\n\n"
+"| https://www.gbif.org/publisher/c4444b2c-6b07-40c2-8474-6556a195cd40[SWECO Norge AS^] | Engineering | Norway | 1 | 1,139 | 114\n\n"
+"| https://www.gbif.org/publisher/f5db868f-e5bf-4208-bd9d-d4063ae1c825[Terrasos^] | Consulting | Colombia | 4 | 9,781 | 12\n\n"
+"| https://www.gbif.org/publisher/728e3362-3063-4a43-a6cf-71d61b50025b[Total^] | Energy | France | 1 | 324 | 5\n\n"
+msgstr ""
 
 #. type: Title ===
 #: 200.en.adoc:113
@@ -452,12 +420,12 @@ msgstr "Prendre connaissance et accepter le https://www.gbif.org/terms/data-publ
 #. type: Plain text
 #: 200.en.adoc:132
 msgid "To be aware of the https://www.gbif.org/terms/data-user[Data User Agreement^], that GBIF data users must agree before using them"
-msgstr "Prendre connaissance du https://www.gbif.org/terms/data-user[Data User Agreement^], que les utilisateurs du GBIF doivent accepter avant d’utiliser les données"
+msgstr "Prendre connaissance du https://www.gbif.org/fr/terms/data-user[Data User Agreement^], que les utilisateurs du GBIF doivent accepter avant d’utiliser les données"
 
 #. type: Plain text
 #: 200.en.adoc:133
 msgid "To apply for the institution to register with GBIF as a data publisher and request the endorsement of the national node. Application for registration and endorsement is made online with https://www.gbif.org/become-a-publisher[this form^]"
-msgstr "Soumettre la candidature de l’institution pour qu’elle soit enregistrée comme éditrice de données GBIF, et demander la validation du point nodal national. Les demandes d’enregistrement et de validation se font en ligne via https://www.gbif.org/become-a-publisher [ce formulaire^]"
+msgstr "Soumettre la candidature de l’institution pour qu’elle soit enregistrée comme éditrice de données GBIF, et demander la validation du point nodal national. Les demandes d’enregistrement et de validation se font en ligne via https://www.gbif.org/fr/become-a-publisher[ce formulaire^]"
 
 #. type: Title ===
 #: 200.en.adoc:134
@@ -520,7 +488,7 @@ msgstr "Mise en place d’accords avec les producteurs de données (par exemple 
 #. type: Plain text
 #: 200.en.adoc:150
 msgid "Selection of a http://www.gbif.org/terms/licences[Creative Commons licence^] for the data to be published, which can be one of the following: CC0, CC-BY, CC-BY-NC. Depending on their characteristics, one of these licenses may be assigned."
-msgstr "Sélection d’une licence http://www.gbif.org/terms/licences[Creative Commons licence^] à attribuer au jeu de données en cours de publication ; le choix doit s’effectuer parmi les licences CC0, CC-BY, ou CC-BY-NC5."
+msgstr "Sélection d’une licence http://www.gbif.org/fr/terms/licences[Creative Commons licence^] à attribuer au jeu de données en cours de publication ; le choix doit s’effectuer parmi les licences CC0, CC-BY, ou CC-BY-NC5."
 
 #. type: Plain text
 #: 200.en.adoc:151
@@ -536,7 +504,7 @@ msgstr "Suivre l’utilisation des données publiées durant une période d’un
 #: 200.en.adoc:153
 #, no-wrap
 msgid "What are the costs for `*this company*`?"
-msgstr "9. Quels sont les coûts pour `*entreprise*` ?"
+msgstr "Quels sont les coûts pour `*entreprise*` ?"
 
 #. type: Plain text
 #: 200.en.adoc:155
