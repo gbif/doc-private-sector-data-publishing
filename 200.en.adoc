@@ -54,6 +54,8 @@ The almost complete absence of the business sector is noticeable, which limits a
 |===
 | Company | Activity sector | Country | Datasets | Occurrence records | Data citations
 
+| https://www.gbif.org/publisher/bc4da2dc-7950-4859-81fc-f11efcf7aa57[Adani Green Energy Limited^] | Energy | India | 0 | 0 | 0 
+
 | https://www.gbif.org/publisher/eea64f26-8fd5-49fb-be7e-a1d4cfc051ee[Aïgos SAS^] | Consulting | Colombia | 3 | 2,404 | 8
 
 | https://www.gbif.org/publisher/b5904aaf-02c7-4ff3-85a6-0f528dbb632e[Anadarko Colombia Company^] | Energy | Colombia | 5 | 893 | 10
@@ -65,6 +67,8 @@ The almost complete absence of the business sector is noticeable, which limits a
 | https://www.gbif.org/publisher/b2c1126d-e3b4-4619-9f94-b236dcc0a947[Biofokus^] | Consulting | Norway | 1 | 527,829 | 320
 
 | https://www.gbif.org/publisher/a41046bd-eaca-49bf-919b-419062ffc2a2[Biolog J.B. Jordal AS^] | Consulting | Norway | 1 | 177,814 | 179
+
+| https://www.gbif.org/publisher/8e6bc843-c1b4-4b10-b546-881f06049004[Biotica Consultores Ltda^] | Consulting | Colombia | 3 | 855 | 4
 
 | https://www.gbif.org/publisher/0fd86a13-3d0d-4d6e-b809-2811706f35d6[Celsia^] | Energy | Colombia | 2 | 35 | 8
 
