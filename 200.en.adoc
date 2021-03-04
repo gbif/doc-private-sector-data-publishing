@@ -74,7 +74,7 @@ The almost complete absence of the business sector is noticeable, which limits a
 
 | https://www.gbif.org/publisher/fac91b96-c087-460f-ab01-b808f341c2f5[Ecofact^] | Consulting | Norway | 3 | 12,508 | 121
 
-| https://www.gbif.org/publisher/e5150835-f502-424c-b470-24dd496b1b18[EDP - Energias de Portugal^] | Energy | Portugal | 76 | 618,587 | 36
+| https://www.gbif.org/publisher/e5150835-f502-424c-b470-24dd496b1b18[EDP - Energias de Portugal^] | Energy | Portugal | 82 | 1,761,305 | 50
 
 | https://www.gbif.org/publisher/d98d7029-8cb7-44c2-88af-52988adc3a62[Faun Naturforvaltning AS^] | Consulting | Norway | 1 | 3,788 | 117
 
