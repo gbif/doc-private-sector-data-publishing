@@ -109,7 +109,7 @@ The almost complete absence of the business sector is noticeable, which limits a
 | https://www.gbif.org/publisher/728e3362-3063-4a43-a6cf-71d61b50025b[Total^] | Energy | France | 1 | 324 | 5
 
 |===
-
+ 
 === What data could the company publish through GBIF?
 
 Companies that carry out environmental impact assessments, impact monitoring and compensatory measures studies, thereby collect species occurrence and abundance data, may publish them on GBIF. 
