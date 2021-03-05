@@ -82,6 +82,8 @@ The almost complete absence of the business sector is noticeable, which limits a
 
 | https://www.gbif.org/publisher/d49251f5-379f-43b4-b747-9d8240334fa5[Chevron Australia^] | Energy | Australia | 1 | 2,048 | 20
 
+| https://www.gbif.org/publisher/03a8bc52-9c2e-4aee-8dd7-9b4d279e4960[Compensation International Progress S.A. Ciprogress Greenlife^] | Industrials | Colombia | 1 | 820 | 2
+
 | https://www.gbif.org/publisher/db41c5c6-d34a-4d27-8ac9-0c8d085393f7[Concesión La Pintada S.A.S*^] | Industrials | Colombia | 2 | 0 | 0
 
 | https://www.gbif.org/publisher/efc5d3c7-2fec-42dd-85de-078a73973bd1[DNG VL^] | Energy | Norway | 1 | 2,036,474 | 3
@@ -106,6 +108,8 @@ The almost complete absence of the business sector is noticeable, which limits a
 
 | https://www.gbif.org/publisher/2d7ea901-0128-4a7a-8207-425020c1fd99[LafargeHolcim Spain^] | Mining | Spain | 2 | 35 | 1
 
+| https://www.gbif.org/dataset/d0a90634-21fb-4c76-9081-98bf3930ad7c[Mineração Vale Verde^] | Materials | Brazil | 0 | 299 | 0
+
 | https://www.gbif.org/publisher/9a21807b-b9c5-4071-b393-764f3cd58abc[Moam SAS^] | Consulting | Colombia | 1 | 1,781 | 7
 
 | https://www.gbif.org/publisher/359ba517-ca03-46dd-9583-d2be73085c2f[Multiconsult^] | Consulting | Norway | 1 | 308 | 23
@@ -119,6 +123,8 @@ The almost complete absence of the business sector is noticeable, which limits a
 | https://www.gbif.org/publisher/c3da1f49-b2c8-4751-b72f-28855546ec4c[Oleoducto Bicentenario^] | Energy | Colombia | 3 | 2,074 | 76
 
 | https://www.gbif.org/publisher/dbc2ab56-d499-403c-8db5-c1a49cd0b75f[Promigas S.A E.S.P^] | Energy | Colombia | 6 | 58,116 | 6
+
+| https://www.gbif.org/publisher/815809f1-e6e6-44df-b3fd-b17a9d87eada[Regelink Ecology & Landscape^] | Consulting | Netherlands | 1 | 133,550 | 0
 
 | https://www.gbif.org/publisher/80e15a76-70e8-417d-9111-b2e9e0dd8f18[Rådgivende Biologer^] | Consulting | Norway | 5 | 15,214 | 112
 
