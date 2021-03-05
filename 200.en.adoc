@@ -92,6 +92,8 @@ The almost complete absence of the business sector is noticeable, which limits a
 
 | https://www.gbif.org/publisher/fe602f47-b553-4291-b6e5-197b9837e167[Federación Nacional de Cafeteros^] | Agriculture | Colombia | 6 | 26,804 | 127
 
+| https://www.gbif.org/publisher/2977895d-3ce2-4fb9-b62e-a775c8fd9304[Grupo Energía Bogotá^] | Energy | Colombia | 1 | 61,111 | 1
+
 | https://www.gbif.org/publisher/90d2e455-c279-4bf1-ba87-806495641e18[Hatovial SAS^] | Engineering | Colombia | 1 | 1,898 | 18
 
 | https://www.gbif.org/publisher/67c63221-0c74-4c18-97f9-e2b2acb739ce[INERCO^] | Consulting | Colombia | 1 | 1,090 | 22
