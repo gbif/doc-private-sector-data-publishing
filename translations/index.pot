@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-03-05 07:55+0000\n"
+"POT-Creation-Date: 2021-03-05 10:29+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -500,14 +500,17 @@ msgid ""
 msgstr ""
 
 #. type: Table
-#: 200.en.adoc:121
+#: 200.en.adoc:125
 #, no-wrap
 msgid ""
 "| Company | Activity sector | Country | Datasets | Occurrence records | Data "
 "citations\n"
 "\n"
 "| https://www.gbif.org/publisher/bc4da2dc-7950-4859-81fc-f11efcf7aa57[Adani "
-"Green Energy Limited^] | Energy | India | 0 | 0 | 0 \n"
+"Green Energy Limited^] | Energy | India | 0 | 0 | 0\n"
+"\n"
+"| https://www.gbif.org/publisher/6d1beb45-43bc-499a-85a0-f06f67e81591[Aguas "
+"de Bogotá S.A. E.S.P.^] | Utilities | Colombia | 1 | 13,280 | 0\n"
 "\n"
 "| https://www.gbif.org/publisher/eea64f26-8fd5-49fb-be7e-a1d4cfc051ee[Aïgos "
 "SAS^] | Consulting | Colombia | 3 | 2,404 | 8\n"
@@ -544,6 +547,10 @@ msgid ""
 "| "
 "https://www.gbif.org/publisher/d49251f5-379f-43b4-b747-9d8240334fa5[Chevron "
 "Australia^] | Energy | Australia | 1 | 2,048 | 20\n"
+"\n"
+"| "
+"https://www.gbif.org/publisher/db41c5c6-d34a-4d27-8ac9-0c8d085393f7[Concesión "
+"La Pintada S.A.S^*] | Industrials | Colombia | 2 | 0 | 0\n"
 "\n"
 "| https://www.gbif.org/publisher/efc5d3c7-2fec-42dd-85de-078a73973bd1[DNG "
 "VL^] | Energy | Norway | 1 | 2,036,474 | 3\n"
@@ -591,7 +598,7 @@ msgid ""
 "\n"
 "| "
 "https://www.gbif.org/publisher/a1648ebf-7363-4c27-beb0-23271087220f[Navantia, "
-"SA^] | Technology | Spain | 4 | 647 | 0\n"
+"SA^] | Industrials | Spain | 4 | 647 | 0\n"
 "\n"
 "| https://www.gbif.org/publisher/52bd9c22-340b-480d-b414-73db37cd9379[NNI^] "
 "| Consulting | Norway | 2 | 3,116 | 28\n"
@@ -624,14 +631,20 @@ msgid ""
 "\n"
 msgstr ""
 
+#. type: Plain text
+#: 200.en.adoc:128
+#, no-wrap
+msgid " *Checklist dataset\n"
+msgstr ""
+
 #. type: Title ===
-#: 200.en.adoc:123
+#: 200.en.adoc:129
 #, no-wrap
 msgid "What data could the company publish through GBIF?"
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:126
+#: 200.en.adoc:132
 msgid ""
 "Companies that carry out environmental impact assessments, impact monitoring "
 "and compensatory measures studies, thereby collect species occurrence and "
@@ -639,7 +652,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:128
+#: 200.en.adoc:134
 msgid ""
 "A lot of these data are collected in regions that lack sampling efforts and "
 "are less known, or have groups of organisms that are underrepresented and "
@@ -648,7 +661,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:130
+#: 200.en.adoc:136
 msgid ""
 "Even data from studies in better-known regions could be of high value as "
 "they allow information gaps to be filled and improve time series "
@@ -659,7 +672,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:132
+#: 200.en.adoc:138
 msgid ""
 "If data includes sensitive information, such as the location of threatened, "
 "sensitive or economically valuable species, it is recommended to apply "
@@ -668,7 +681,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:134
+#: 200.en.adoc:140
 msgid ""
 "Thus, data collected by private companies can be published through GBIF in a "
 "relatively short period, if procedural aspects of publication are completed "
@@ -678,13 +691,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: 200.en.adoc:135
+#: 200.en.adoc:141
 #, no-wrap
 msgid "What does it take for a company to be a data publisher to GBIF?"
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:138
+#: 200.en.adoc:144
 msgid ""
 "The decision to become a publisher of biodiversity data at GBIF would first "
 "come with a decision by the `*company*` management bodies. After that, it is "
@@ -693,7 +706,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:140
+#: 200.en.adoc:146
 msgid ""
 "To guarantee institutional arrangements to ensure that all parties involved "
 "in the process, from management to the partners from information production, "
@@ -701,7 +714,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:141
+#: 200.en.adoc:147
 msgid ""
 "To acknowledge and agree to the "
 "https://www.gbif.org/terms/data-publisher[Data Publisher Agreement^] (the "
@@ -709,14 +722,14 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:142
+#: 200.en.adoc:148
 msgid ""
 "To be aware of the https://www.gbif.org/terms/data-user[Data User "
 "Agreement^], that GBIF data users must agree before using them"
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:143
+#: 200.en.adoc:149
 msgid ""
 "To apply for the institution to register with GBIF as a data publisher and "
 "request the endorsement of the national node. Application for registration "
@@ -725,13 +738,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: 200.en.adoc:144
+#: 200.en.adoc:150
 #, no-wrap
 msgid "Involvement of different parties in the publication process"
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:147
+#: 200.en.adoc:153
 msgid ""
 "Depending on the size of the projects that originated the datasets, it is "
 "possible that the company’s biodiversity data was obtained by hiring other "
@@ -750,32 +763,32 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: 200.en.adoc:148
+#: 200.en.adoc:154
 #, no-wrap
 msgid "How could the proof of concept be developed?"
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:151
+#: 200.en.adoc:157
 msgid ""
 "The proof of concept regarding data publication in GBIF could be developed "
 "involving the following steps:"
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:153
+#: 200.en.adoc:159
 msgid ""
 "Development of the company's internal processes leading to the decision to "
 "publish data on GBIF on an experimental basis."
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:154
+#: 200.en.adoc:160
 msgid "Application for the company’s registration in GBIF as a data publisher."
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:155
+#: 200.en.adoc:161
 msgid ""
 "To build a case study on the company's involvement as a data publisher with "
 "the regional Node, their country and with the international GBIF, in order "
@@ -784,7 +797,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:156
+#: 200.en.adoc:162
 msgid ""
 "Selection of an initial dataset to be published through GBIF, resulting from "
 "studies carried out by the company. This should provide a good "
@@ -794,7 +807,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:157
+#: 200.en.adoc:163
 msgid ""
 "Definition of information type to be published and any restrictions on its "
 "publication, e.g. due to the presence of sensitive species, confidential "
@@ -804,7 +817,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:158
+#: 200.en.adoc:164
 msgid ""
 "Establishment of agreements with data producers (i.e. the institutions and "
 "staff hired by the company to collect data for the purposes of the studies) "
@@ -812,14 +825,14 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:159
+#: 200.en.adoc:165
 msgid ""
 "Formatting of data to be published according to the Darwin Core standard "
 "used by GBIF to prepare databases for publication."
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:160
+#: 200.en.adoc:166
 msgid ""
 "Selection of a http://www.gbif.org/terms/licences[Creative Commons licence^] "
 "for the data to be published, which can be one of the following: CC0, CC-BY, "
@@ -828,7 +841,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:161
+#: 200.en.adoc:167
 msgid ""
 "Publishing data and metadata for each dataset to the GBIF "
 "portal. Information publishing options will be evaluated, in all cases using "
@@ -841,7 +854,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:162
+#: 200.en.adoc:168
 msgid ""
 "Monitoring the use of published data for a period of one year after its "
 "publication in GBIF. This will be done through statistics provided to the "
@@ -852,13 +865,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: 200.en.adoc:163
+#: 200.en.adoc:169
 #, no-wrap
 msgid "What are the costs for `*this company*`?"
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:165
+#: 200.en.adoc:171
 msgid ""
 "Apart from the dedication time provided by `*company*` staff involved in "
 "preparing the proof of concept, there are no additional costs for the "
