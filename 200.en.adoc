@@ -84,8 +84,6 @@ The almost complete absence of the business sector is noticeable, which limits a
 
 | https://www.gbif.org/publisher/03a8bc52-9c2e-4aee-8dd7-9b4d279e4960[Compensation International Progress S.A. Ciprogress Greenlife^] | Industrials | Colombia | 1 | 820 | 2
 
-| https://www.gbif.org/publisher/db41c5c6-d34a-4d27-8ac9-0c8d085393f7[Concesión La Pintada S.A.S*^] | Industrials | Colombia | 2 | 0 | 0
-
 | https://www.gbif.org/publisher/efc5d3c7-2fec-42dd-85de-078a73973bd1[DNG VL^] | Energy | Norway | 1 | 2,036,474 | 3
 
 | https://www.gbif.org/publisher/fac91b96-c087-460f-ab01-b808f341c2f5[Ecofact^] | Consulting | Norway | 3 | 12,508 | 121
@@ -108,7 +106,7 @@ The almost complete absence of the business sector is noticeable, which limits a
 
 | https://www.gbif.org/publisher/2d7ea901-0128-4a7a-8207-425020c1fd99[LafargeHolcim Spain^] | Mining | Spain | 2 | 35 | 1
 
-| https://www.gbif.org/dataset/d0a90634-21fb-4c76-9081-98bf3930ad7c[Mineração Vale Verde^] | Materials | Brazil | 0 | 299 | 0
+| https://www.gbif.org/dataset/d0a90634-21fb-4c76-9081-98bf3930ad7c[Mineração Vale Verde^] | Materials | Brazil | 1 | 299 | 0
 
 | https://www.gbif.org/publisher/9a21807b-b9c5-4071-b393-764f3cd58abc[Moam SAS^] | Consulting | Colombia | 1 | 1,781 | 7
 
@@ -140,8 +138,6 @@ The almost complete absence of the business sector is noticeable, which limits a
 
 |===
 
- *Checklist dataset
- 
 === What data could the company publish through GBIF?
 
 Companies that carry out environmental impact assessments, impact monitoring and compensatory measures studies, thereby collect species occurrence and abundance data, may publish them on GBIF. 
