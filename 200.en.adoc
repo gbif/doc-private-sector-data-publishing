@@ -54,7 +54,9 @@ The almost complete absence of the business sector is noticeable, which limits a
 |===
 | Company | Activity sector | Country | Datasets | Occurrence records | Data citations
 
-| https://www.gbif.org/publisher/bc4da2dc-7950-4859-81fc-f11efcf7aa57[Adani Green Energy Limited^] | Energy | India | 0 | 0 | 0 
+| https://www.gbif.org/publisher/bc4da2dc-7950-4859-81fc-f11efcf7aa57[Adani Green Energy Limited^] | Energy | India | 0 | 0 | 0
+
+| https://www.gbif.org/publisher/6d1beb45-43bc-499a-85a0-f06f67e81591[Aguas de Bogotá S.A. E.S.P.^] | Utilities | Colombia | 1 | 13,280 | 0
 
 | https://www.gbif.org/publisher/eea64f26-8fd5-49fb-be7e-a1d4cfc051ee[Aïgos SAS^] | Consulting | Colombia | 3 | 2,404 | 8
 
@@ -75,6 +77,8 @@ The almost complete absence of the business sector is noticeable, which limits a
 | https://www.gbif.org/publisher/0fd86a13-3d0d-4d6e-b809-2811706f35d6[Celsia^] | Energy | Colombia | 2 | 35 | 8
 
 | https://www.gbif.org/publisher/d49251f5-379f-43b4-b747-9d8240334fa5[Chevron Australia^] | Energy | Australia | 1 | 2,048 | 20
+
+| https://www.gbif.org/publisher/db41c5c6-d34a-4d27-8ac9-0c8d085393f7[Concesión La Pintada S.A.S^*] | Industrials | Colombia | 2 | 0 | 0
 
 | https://www.gbif.org/publisher/efc5d3c7-2fec-42dd-85de-078a73973bd1[DNG VL^] | Energy | Norway | 1 | 2,036,474 | 3
 
@@ -100,7 +104,7 @@ The almost complete absence of the business sector is noticeable, which limits a
 
 | https://www.gbif.org/publisher/99c6eaae-f15b-4656-a600-d0c50044962e[Naturrestaurering AS^] | Consulting | Norway | 3 | 5,476 | 22
 
-| https://www.gbif.org/publisher/a1648ebf-7363-4c27-beb0-23271087220f[Navantia, SA^] | Technology | Spain | 4 | 647 | 0
+| https://www.gbif.org/publisher/a1648ebf-7363-4c27-beb0-23271087220f[Navantia, SA^] | Industrials | Spain | 4 | 647 | 0
 
 | https://www.gbif.org/publisher/52bd9c22-340b-480d-b414-73db37cd9379[NNI^] | Consulting | Norway | 2 | 3,116 | 28
 
@@ -119,6 +123,8 @@ The almost complete absence of the business sector is noticeable, which limits a
 | https://www.gbif.org/publisher/728e3362-3063-4a43-a6cf-71d61b50025b[Total^] | Energy | France | 1 | 324 | 6
 
 |===
+
+ *Checklist dataset
  
 === What data could the company publish through GBIF?
 
