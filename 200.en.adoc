@@ -70,7 +70,7 @@ The almost complete absence of the business sector is noticeable, which limits a
 
 | https://www.gbif.org/publisher/8e6bc843-c1b4-4b10-b546-881f06049004[Biotica Consultores Ltda^] | Consulting | Colombia | 3 | 855 | 4
 
-| https://www.gbif.org/publisher/f9f1b710-d975-4215-9940-bb702299e9be[Bosques Naturales S.A.^] | Retail | Spain | 0 | 0 | 0
+| https://www.gbif.org/publisher/f9f1b710-d975-4215-9940-bb702299e9be[Bosques Naturales S.A.^] | Materials | Spain | 0 | 0 | 0
 
 | https://www.gbif.org/publisher/0fd86a13-3d0d-4d6e-b809-2811706f35d6[Celsia^] | Energy | Colombia | 2 | 35 | 8
 
