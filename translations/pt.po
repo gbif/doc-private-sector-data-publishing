@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: private-sector-data-publishing\n"
 "POT-Creation-Date: 2021-03-10 11:54+0000\n"
-"PO-Revision-Date: 2021-03-10 12:56\n"
+"PO-Revision-Date: 2021-04-26 09:21\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
@@ -306,12 +306,12 @@ msgstr "Quem publica dados no GBIF?"
 #. type: Plain text
 #: 200.en.adoc:45
 msgid "To date, GBIF includes more than 50,000 datasets on its portal published by https://www.gbif.org/publisher/search[more than 1,600 data publishing institutions^]. These publishers are mostly government agencies, natural history museums and herbaria, universities, research centres and non-governmental organizations of various kinds."
-msgstr ""
+msgstr "Até hoje, o GBIF inclui no seu portal mais de 50,000 conjuntos de dados publicados por https://www.gbif.org/publisher/search[mais de 1600 publicadores registados^]. Estes publicadores são na sua maioria agências governamentais, museus de história natural, universidades, centros de investigação e organizações não-governamentais de vários tipos."
 
 #. type: Plain text
 #: 200.en.adoc:47
 msgid "The almost complete absence of the business sector is noticeable, which limits access to a vast and important volume of biodiversity data collected by companies around the world. In total, private companies now publish at least 4,970,471 occurrence records (an increase of 1,544,231 since October 2020), accounting for 0.3 per cent of https://www.gbif.org/occurrence/search[all records published in GBIF^]."
-msgstr ""
+msgstr "É notória a quase ausência total do sector privado, o que limita o acesso ao vasto e importante volume de dados sobre biodiversidade colhidos por empresas em todo o mundo. No total, os registos de empresas privadas somam 4 970 471 (um aumento de 1 544 231 desde outubro de 2020) o que corresponde a 0,3% de https://www.gbif.org/occurrence/search[todos os registos publicados através do GBIF^]."
 
 #. type: Plain text
 #: 200.en.adoc:49
@@ -328,7 +328,7 @@ msgstr "Tabela 1. "
 #: 200.en.adoc:52
 #, no-wrap
 msgid "Private-sector companies that publish their data through GBIF (as of 5 March 2021)"
-msgstr ""
+msgstr "Empresas do sector privado que publicam os seus dados através do GBIF (dados até 5 Março de 2021)"
 
 #. type: Table
 #: 200.en.adoc:137
