@@ -144,7 +144,7 @@ The almost complete absence of the business sector is noticeable, which limits a
 
 | https://www.gbif.org/publisher/728e3362-3063-4a43-a6cf-71d61b50025b[Total^] | Energy | France | 5 | 3,143 | 8
 
-| *GRAND TOTALS* |  |  | *180* | *4,970,471* | *1,660* |
+| *GRAND TOTALS* |  |  | *211* | *6,428,572* | *2,211* |
 
 |===
 
