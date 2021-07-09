@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-07-09 11:17+0000\n"
+"POT-Creation-Date: 2021-07-09 11:26+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -496,7 +496,7 @@ msgstr ""
 #: 200.en.adoc:52
 #, no-wrap
 msgid ""
-"Private-sector companies that publish their data through GBIF (as of 5 March "
+"Private-sector companies that publish their data through GBIF (as of July "
 "2021)"
 msgstr ""
 
@@ -674,7 +674,7 @@ msgid ""
 "https://www.gbif.org/publisher/728e3362-3063-4a43-a6cf-71d61b50025b[Total^] "
 "| Energy | France | 5 | 3,143 | 8\n"
 "\n"
-"| *GRAND TOTALS* |  |  | *180* | *4,970,471* | *1,660* |\n"
+"| *GRAND TOTALS* |  |  | *211* | *6,428,572* | *2,211* |\n"
 "\n"
 msgstr ""
 
