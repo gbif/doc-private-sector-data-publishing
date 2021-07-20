@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-07-20 09:02+0000\n"
+"POT-Creation-Date: 2021-07-20 09:04+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -481,13 +481,10 @@ msgid ""
 "https://www.gbif.org/occurrence/search[all records published in GBIF^]."
 msgstr ""
 
-#. type: Plain text
-#: 200.en.adoc:54
-msgid ""
-"<!--- Quarterly totals: Oct 2020: 3,426,240 Mar 2021: 4,970,471 June 2021: "
-"6,428,572 --->"
-msgstr ""
-
+#. Quarterly totals:
+#. Oct 2020: 3,426,240
+#. Mar 2021: 4,970,471
+#. June 2021: 6,428,572
 #. type: Plain text
 #: 200.en.adoc:56
 msgid "<<table-01,Table 1>> lists the most significant private sector publishers."
