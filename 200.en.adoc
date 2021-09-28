@@ -56,7 +56,7 @@ June 2021: 6,428,572
 
 [[table-01]]
 [caption="Table 1. "]
-.Private-sector companies that publish their data through GBIF (as of July 2021)
+.Private-sector companies that publish their data through GBIF (as of September 2021)
 [cols="30,15,12,>12,>18,>13"]
 |===
 | Company | Activity sector | Country | Datasets | Occurrence records | Data citations
