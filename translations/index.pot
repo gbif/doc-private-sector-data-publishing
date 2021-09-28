@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-09-28 08:22+0000\n"
+"POT-Creation-Date: 2021-09-28 08:31+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -500,8 +500,8 @@ msgstr ""
 #: 200.en.adoc:59
 #, no-wrap
 msgid ""
-"Private-sector companies that publish their data through GBIF (as of July "
-"2021)"
+"Private-sector companies that publish their data through GBIF (as of "
+"September 2021)"
 msgstr ""
 
 #. type: Table
