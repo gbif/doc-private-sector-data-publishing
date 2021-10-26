@@ -41,7 +41,7 @@ In summary, according to the report Digitally Transforming Environmental Assessm
 
 === Who publishes data through GBIF?
 
-To date, GBIF includes more than 50,000 datasets on its portal published by https://www.gbif.org/publisher/search[more than 1,600 data publishing institutions^]. These publishers are mostly government agencies, natural history museums and herbaria, universities, research centres and non-governmental organizations of various kinds. 
+To date, GBIF includes more than 60,000 datasets on its portal published by https://www.gbif.org/publisher/search[more than 1,700 data publishing institutions^]. These publishers are mostly government agencies, natural history museums and herbaria, universities, research centres and non-governmental organizations of various kinds. 
 
 The almost complete absence of the business sector is noticeable, which limits access to a vast and important volume of biodiversity data collected by companies around the world. In total, private companies now publish at least 6,428,572 occurrence records (an increase of 1,458,101 since March 2021), accounting for 0.3 per cent of https://www.gbif.org/occurrence/search[all records published in GBIF^].
 
@@ -49,7 +49,7 @@ The almost complete absence of the business sector is noticeable, which limits a
 Quarterly totals:
 Oct 2020: 3,426,240
 Mar 2021: 4,970,471
-June 2021: 6,428,572
+Jun 2021: 6,428,572
 ////
 
 <<table-01,Table 1>> lists the most significant private sector publishers.
@@ -153,7 +153,7 @@ June 2021: 6,428,572
 
 | https://www.gbif.org/publisher/728e3362-3063-4a43-a6cf-71d61b50025b[Total^] | Energy | France | 6 | 3,370 | 14
 
-| *GRAND TOTALS* |  |  | *226* | *5,273,424* | *2,673* |
+| *GRAND TOTALS* |  |  | *226* | *6,428,572* | *2,673* |
 
 |===
 
