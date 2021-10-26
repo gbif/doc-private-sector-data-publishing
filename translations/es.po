@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: private-sector-data-publishing\n"
-"POT-Creation-Date: 2021-09-28 08:31+0000\n"
-"PO-Revision-Date: 2021-09-28 09:16\n"
+"POT-Creation-Date: 2021-10-26 08:55+0000\n"
+"PO-Revision-Date: 2021-10-26 10:42\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -304,7 +304,7 @@ msgstr "¿Quién publica datos a través de GBIF?"
 
 #. type: Plain text
 #: 200.en.adoc:45
-msgid "To date, GBIF includes more than 50,000 datasets on its portal published by https://www.gbif.org/publisher/search[more than 1,600 data publishing institutions^]. These publishers are mostly government agencies, natural history museums and herbaria, universities, research centres and non-governmental organizations of various kinds."
+msgid "To date, GBIF includes more than 60,000 datasets on its portal published by https://www.gbif.org/publisher/search[more than 1,700 data publishing institutions^]. These publishers are mostly government agencies, natural history museums and herbaria, universities, research centres and non-governmental organizations of various kinds."
 msgstr ""
 
 #. type: Plain text
@@ -315,7 +315,7 @@ msgstr ""
 #. Quarterly totals:
 #. Oct 2020: 3,426,240
 #. Mar 2021: 4,970,471
-#. June 2021: 6,428,572
+#. Jun 2021: 6,428,572
 #. type: Plain text
 #: 200.en.adoc:56
 msgid "<<table-01,Table 1>> lists the most significant private sector publishers."
@@ -383,7 +383,7 @@ msgid "| Company | Activity sector | Country | Datasets | Occurrence records | D
 "| https://www.gbif.org/publisher/c4444b2c-6b07-40c2-8474-6556a195cd40[SWECO Norge AS^] | Engineering | Norway | 1 | 1,139 | 166\n\n"
 "| https://www.gbif.org/publisher/f5db868f-e5bf-4208-bd9d-d4063ae1c825[Terrasos^] | Consulting | Colombia | 5 | 16,099 | 47\n\n"
 "| https://www.gbif.org/publisher/728e3362-3063-4a43-a6cf-71d61b50025b[Total^] | Energy | France | 6 | 3,370 | 14\n\n"
-"| *GRAND TOTALS* |  |  | *226* | *5,273,424* | *2,673* |\n\n"
+"| *GRAND TOTALS* |  |  | *226* | *6,428,572* | *2,673* |\n\n"
 msgstr ""
 
 #. type: Title ===
