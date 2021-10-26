@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-09-28 08:31+0000\n"
+"POT-Creation-Date: 2021-10-26 08:55+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -463,8 +463,8 @@ msgstr ""
 #. type: Plain text
 #: 200.en.adoc:45
 msgid ""
-"To date, GBIF includes more than 50,000 datasets on its portal published by "
-"https://www.gbif.org/publisher/search[more than 1,600 data publishing "
+"To date, GBIF includes more than 60,000 datasets on its portal published by "
+"https://www.gbif.org/publisher/search[more than 1,700 data publishing "
 "institutions^]. These publishers are mostly government agencies, natural "
 "history museums and herbaria, universities, research centres and "
 "non-governmental organizations of various kinds."
@@ -484,7 +484,7 @@ msgstr ""
 #. Quarterly totals:
 #. Oct 2020: 3,426,240
 #. Mar 2021: 4,970,471
-#. June 2021: 6,428,572
+#. Jun 2021: 6,428,572
 #. type: Plain text
 #: 200.en.adoc:56
 msgid "<<table-01,Table 1>> lists the most significant private sector publishers."
@@ -681,7 +681,7 @@ msgid ""
 "https://www.gbif.org/publisher/728e3362-3063-4a43-a6cf-71d61b50025b[Total^] "
 "| Energy | France | 6 | 3,370 | 14\n"
 "\n"
-"| *GRAND TOTALS* |  |  | *226* | *5,273,424* | *2,673* |\n"
+"| *GRAND TOTALS* |  |  | *226* | *6,428,572* | *2,673* |\n"
 "\n"
 msgstr ""
 
