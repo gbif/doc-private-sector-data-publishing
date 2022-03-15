@@ -105,6 +105,9 @@ Jun 2021: 6,428,572
 
 | https://www.gbif.org/publisher/fac91b96-c087-460f-ab01-b808f341c2f5[Ecofact^] | Consulting | Norway | 3 | 12,508 | 235
 
+| https://https://www.gbif.org/publisher/d5ef14a1-5177-4547-9ce2-46d84a4214eb/metrics[Ecopetrol S.A.
+^] | Energy | Colombia | 5 | 70,166 | 5
+
 | https://www.gbif.org/publisher/e5150835-f502-424c-b470-24dd496b1b18[EDP - Energias de Portugal^] | Energy | Portugal | 87 | 1,769,203 | 149
 
 | https://www.gbif.org/publisher/d42b7e5d-a3e5-4fc2-8b3d-105336d70898[Empresas Públicas de Medellín E.S.P.^] | Energy | Colombia | 6 | 45,625 | 9
