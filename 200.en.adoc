@@ -61,60 +61,60 @@ Jun 2021: 6,428,572
 |===
 | Company | Activity sector | Country | Datasets | Occurrence records | Data citations
 
-| https://www.gbif.org/publisher/6d1beb45-43bc-499a-85a0-f06f67e81591[Aguas de Bogotá S.A. E.S.P.^] | Utilities | Colombia | 1 | 13,280 | 12
+| https://www.gbif.org/publisher/6d1beb45-43bc-499a-85a0-f06f67e81591[Aguas de Bogotá S.A. E.S.P.^] | Utilities | Colombia | 1 | 13,280 | 17
 
-| https://www.gbif.org/publisher/eea64f26-8fd5-49fb-be7e-a1d4cfc051ee[Aïgos SAS^] | Consulting | Colombia | 3 | 2,404 | 22
+| https://www.gbif.org/publisher/eea64f26-8fd5-49fb-be7e-a1d4cfc051ee[Aïgos SAS^] | Consulting | Colombia | 3 | 2,404 | 23
 
 | https://www.gbif.org/publisher/620e3d31-d433-4154-9cf6-232a6a6b5e3f[Akvaplan-niva^] | Consulting | Norway | 2 | 495 | 2
 
 | https://www.gbif.org/publisher/b5904aaf-02c7-4ff3-85a6-0f528dbb632e[Anadarko Colombia Company^] | Energy | Colombia | 5 | 893 | 26
 
-| https://www.gbif.org/publisher/df604473-66f0-444d-94c4-22795f268afe[AngloGold Ashanti Colombia S.A.S^] | Materials | Colombia | 5 | 87,020 | 16
+| https://www.gbif.org/publisher/df604473-66f0-444d-94c4-22795f268afe[AngloGold Ashanti Colombia S.A.S^] | Materials | Colombia | 5 | 87,020 | 28
 
-| https://www.gbif.org/publisher/f2429cd1-4d45-475c-852a-892024cb4aba[Arctic Research and Consulting DA^] | Consulting | Norway | 1 | 8,914 | 39
+| https://www.gbif.org/publisher/f2429cd1-4d45-475c-852a-892024cb4aba[Arctic Research and Consulting DA^] | Consulting | Norway | 1 | 8,914 | 40
 
-| https://www.gbif.org/publisher/612c9b58-e739-4af4-a038-4b3901fa5649[Asplan Viak AS^] | Engineering | Norway | 14 | 3,779 | 214
+| https://www.gbif.org/publisher/612c9b58-e739-4af4-a038-4b3901fa5649[Asplan Viak AS^] | Engineering | Norway | 14 | 3,775 | 240
 
 | https://www.gbif.org/publisher/e62a5313-e771-4c81-b6d1-cba6e4085635[Aures Bajo^] | Energy | Colombia | 2 | 208 | 0
 
-| https://www.gbif.org/publisher/b2c1126d-e3b4-4619-9f94-b236dcc0a947[Biofokus^] | Consulting | Norway | 1 | 570,251 | 579
+| https://www.gbif.org/publisher/b2c1126d-e3b4-4619-9f94-b236dcc0a947[Biofokus^] | Consulting | Norway | 1 | 573,922 | 649
 
-| https://www.gbif.org/publisher/a41046bd-eaca-49bf-919b-419062ffc2a2[Biolog J.B. Jordal AS^] | Consulting | Norway | 1 | 177,814 | 343
+| https://www.gbif.org/publisher/a41046bd-eaca-49bf-919b-419062ffc2a2[Biolog J.B. Jordal AS^] | Consulting | Norway | 1 | 177,814 | 384
 
-| https://www.gbif.org/publisher/8e6bc843-c1b4-4b10-b546-881f06049004[Biotica Consultores Ltda^] | Consulting | Colombia | 4 | 1,318 | 44
+| https://www.gbif.org/publisher/8e6bc843-c1b4-4b10-b546-881f06049004[Biotica Consultores Ltda^] | Consulting | Colombia | 4 | 1,318 | 62
 
-| https://www.gbif.org/publisher/14fb9c57-68a5-4870-b434-5355df7a9c3c[Carbones del Cerrejón Limited^] | Materials | Colombia | 1 | 106,713 | 48
+| https://www.gbif.org/publisher/14fb9c57-68a5-4870-b434-5355df7a9c3c[Carbones del Cerrejón Limited^] | Materials | Colombia | 3 | 128,339 | 71
 
-| https://www.gbif.org/publisher/4d14137b-ce2c-4111-98a9-0078f5d53237[Carsa Gold S.A.S.^] | Mining | Colombia | 1 | 4,159 | 2
+| https://www.gbif.org/publisher/4d14137b-ce2c-4111-98a9-0078f5d53237[Carsa Gold S.A.S.^] | Mining | Colombia | 1 | 4,159 | 5
 
-| https://www.gbif.org/publisher/1a4f4e64-eb3d-42c3-a359-1be3869b3a20[Cerro Matoso S.A^] | Materials | Colombia | 3 | 19,309 | 35
+| https://www.gbif.org/publisher/1a4f4e64-eb3d-42c3-a359-1be3869b3a20[Cerro Matoso S.A^] | Materials | Colombia | 3 | 19,309 | 53
 
-| https://www.gbif.org/publisher/0fd86a13-3d0d-4d6e-b809-2811706f35d6[Celsia^] | Energy | Colombia | 2 | 35 | 23
+| https://www.gbif.org/publisher/0fd86a13-3d0d-4d6e-b809-2811706f35d6[Celsia^] | Energy | Colombia | 2 | 35 | 27
 
-| https://www.gbif.org/publisher/d49251f5-379f-43b4-b747-9d8240334fa5[Chevron Australia^] | Energy | Australia | 1 | 2,048 | 30
+| https://www.gbif.org/publisher/d49251f5-379f-43b4-b747-9d8240334fa5[Chevron Australia^] | Energy | Australia | 1 | 2,048 | 32
 
-| https://www.gbif.org/publisher/03a8bc52-9c2e-4aee-8dd7-9b4d279e4960[Compensation International Progress S.A. Ciprogress Greenlife^] | Industrials | Colombia | 1 | 820 | 13
+| https://www.gbif.org/publisher/03a8bc52-9c2e-4aee-8dd7-9b4d279e4960[Compensation International Progress S.A. Ciprogress Greenlife^] | Industrials | Colombia | 1 | 820 | 22
 
 | https://www.gbif.org/publisher/db41c5c6-d34a-4d27-8ac9-0c8d085393f7[Concesión La Pintada S.A.S^] | Industrials | Colombia | 2 | 0 | 0
 
-| https://www.gbif.org/publisher/d3c29fed-bcac-4f84-8d3d-f4b7f76fdc8e/metrics[Construcciones y Ambiente Conambiente S.A.S^] | Consulting | Colombia | 2 | 131 | 2
+| https://www.gbif.org/publisher/d3c29fed-bcac-4f84-8d3d-f4b7f76fdc8e/metrics[Construcciones y Ambiente Conambiente S.A.S^] | Consulting | Colombia | 3 | 273 | 6
 
-| https://www.gbif.org/publisher/c5245889-c63d-48fa-ae4b-90ddd74f1d2d[Cunaguaro Consultores LTDA^] | Consulting | Colombia | 1 | 657 | 5
+| https://www.gbif.org/publisher/c5245889-c63d-48fa-ae4b-90ddd74f1d2d[Cunaguaro Consultores LTDA^] | Consulting | Colombia | 1 | 657 | 8
 
-| https://www.gbif.org/publisher/efc5d3c7-2fec-42dd-85de-078a73973bd1[DNV^] | Energy | Norway | 1 | 2,069,857 | 16
+| https://www.gbif.org/publisher/efc5d3c7-2fec-42dd-85de-078a73973bd1[DNV^] | Energy | Norway | 1 | 2,069,857 | 21
 
-| https://www.gbif.org/publisher/fac91b96-c087-460f-ab01-b808f341c2f5[Ecofact^] | Consulting | Norway | 3 | 12,508 | 235
+| https://www.gbif.org/publisher/fac91b96-c087-460f-ab01-b808f341c2f5[Ecofact^] | Consulting | Norway | 3 | 12,508 | 263
 
-| https://https://www.gbif.org/publisher/d5ef14a1-5177-4547-9ce2-46d84a4214eb/metrics[Ecopetrol S.A.
-^] | Energy | Colombia | 5 | 70,166 | 5
+| https://www.gbif.org/publisher/d5ef14a1-5177-4547-9ce2-46d84a4214eb[Ecopetrol S.A.
+^] | Energy | Colombia | 5 | 70,166 | 11
 
-| https://www.gbif.org/publisher/e5150835-f502-424c-b470-24dd496b1b18[EDP - Energias de Portugal^] | Energy | Portugal | 87 | 1,769,203 | 149
+| https://www.gbif.org/publisher/e5150835-f502-424c-b470-24dd496b1b18[EDP - Energias de Portugal^] | Energy | Portugal | 87 | 1,769,203 | 184
 
-| https://www.gbif.org/publisher/d42b7e5d-a3e5-4fc2-8b3d-105336d70898[Empresas Públicas de Medellín E.S.P.^] | Energy | Colombia | 6 | 45,625 | 9
+| https://www.gbif.org/publisher/d42b7e5d-a3e5-4fc2-8b3d-105336d70898[Empresas Públicas de Medellín E.S.P.^] | Energy | Colombia | 10 | 73,345 | 18
 
-| https://www.gbif.org/publisher/f442f96e-2017-4cf5-b19f-1f3320ae7577[Enel Colombia^] | Energy | Colombia | 1 | 0 | 0
+| https://www.gbif.org/publisher/f442f96e-2017-4cf5-b19f-1f3320ae7577[Enel Colombia^] | Energy | Colombia | 3 | 1,962 | 0
 
-| https://www.gbif.org/publisher/d98d7029-8cb7-44c2-88af-52988adc3a62[Faun Naturforvaltning AS^] | Consulting | Norway | 1 | 3,788 | 219
+| https://www.gbif.org/publisher/d98d7029-8cb7-44c2-88af-52988adc3a62[Faun Naturforvaltning AS^] | Consulting | Norway | 1 | 3,788 | 244
 
 | https://www.gbif.org/publisher/37c1c493-782c-4f53-914d-b1f66cdcf61c[Federación Nacional de Cacaoteros^] | Agriculture | Colombia | 1 | 17 | 3
 
