@@ -164,7 +164,7 @@ Jun 2021: 6,428,572
 
 | https://www.gbif.org/publisher/728e3362-3063-4a43-a6cf-71d61b50025b[Total^] | Energy | France | 10 | 4,562 | 28
 
-| *GRAND TOTALS* |  |  | *252* | *6,273,421* | *3,614* |
+| *GRAND TOTALS* |  |  | *263* | *5,616,687* | *4,260* |
 
 |===
 
