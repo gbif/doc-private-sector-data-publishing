@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: private-sector-data-publishing\n"
-"POT-Creation-Date: 2023-01-05 10:43+0000\n"
-"PO-Revision-Date: 2023-01-05 10:53\n"
+"POT-Creation-Date: 2023-01-06 09:19+0000\n"
+"PO-Revision-Date: 2023-01-06 09:23\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
@@ -332,7 +332,7 @@ msgstr "Tabela 1. "
 #. type: Block title
 #: 200.en.adoc:60
 #, no-wrap
-msgid "Private-sector companies that publish their data through GBIF (as of September 2022)"
+msgid "Private-sector companies that publish their data through GBIF (as of January 2023)"
 msgstr ""
 
 #. type: Table
@@ -397,7 +397,7 @@ msgid "| Company | Activity sector | Country | Datasets | Occurrence records | D
 "| https://www.gbif.org/publisher/c4444b2c-6b07-40c2-8474-6556a195cd40[SWECO Norge AS^] | Engineering | Norway | 1 | 1,139 | 274\n\n"
 "| https://www.gbif.org/publisher/f5db868f-e5bf-4208-bd9d-d4063ae1c825[Terrasos^] | Consulting | Colombia | 9 | 24,817 | 142\n\n"
 "| https://www.gbif.org/publisher/728e3362-3063-4a43-a6cf-71d61b50025b[Total^] | Energy | France | 14 | 22,232 | 52\n\n"
-"| *GRAND TOTALS* |  |  | *316* | *7,789,180* | *5,080* |\n\n"
+"| *GRAND TOTALS* |  |  | *346* | ** | *5,724* |\n\n"
 msgstr ""
 
 #. type: Title ===
