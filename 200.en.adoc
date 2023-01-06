@@ -57,7 +57,7 @@ Sep 2022: 7,789,180
 
 [[table-01]]
 [caption="Table 1. "]
-.Private-sector companies that publish their data through GBIF (as of September 2022)
+.Private-sector companies that publish their data through GBIF (as of January 2023)
 [cols="30,15,12,>12,>18,>13"]
 |===
 | Company | Activity sector | Country | Datasets | Occurrence records | Data citations
@@ -175,7 +175,7 @@ Sep 2022: 7,789,180
 
 | https://www.gbif.org/publisher/728e3362-3063-4a43-a6cf-71d61b50025b[Total^] | Energy | France | 14 | 22,232 | 52
 
-| *GRAND TOTALS* |  |  | *316* | *7,789,180* | *5,080* |
+| *GRAND TOTALS* |  |  | *346* | ** | *5,724* |
 
 |===
 
