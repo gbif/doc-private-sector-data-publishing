@@ -142,8 +142,7 @@ Sep 2022: 7,789,180
 
 | https://www.gbif.org/dataset/d0a90634-21fb-4c76-9081-98bf3930ad7c[Mineração Vale Verde^] | Materials | Brazil | 0 | 299 | 58
 
-| https://www.gbif.org/publisher/54eb018e-54d8-49cc-b98b-37733bb70028[Mineros Aluvial S.A.S. BIC
-^] | Mining | Colombia | 1 | 7,307 | 6
+| https://www.gbif.org/publisher/54eb018e-54d8-49cc-b98b-37733bb70028[Mineros Aluvial S.A.S. BIC^] | Mining | Colombia | 1 | 7,307 | 6
 
 | https://www.gbif.org/publisher/9a21807b-b9c5-4071-b393-764f3cd58abc[Moam SAS^] | Consulting | Colombia | 1 | 1,781 | 32
 
