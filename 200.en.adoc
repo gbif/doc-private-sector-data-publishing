@@ -116,6 +116,13 @@ h| Company                                                                      
 | https://www.gbif.org/publisher/f5db868f-e5bf-4208-bd9d-d4063ae1c825[TERRASOS]                                                         | Consulting       | Colombia                                             | 9        | 24,817             | 143            
 | https://www.gbif.org/publisher/728e3362-3063-4a43-a6cf-71d61b50025b[TotalEnergies]                                                    | Energy           | France                                               | 14       | 22,232             | 54             
 |========================================================================================================================================================================================================================================================================= 
+[[table-02]]
+[caption="Table 2. "]
+.Grand Totals
+|==================================================== 
+h| Datasets h| Occurrence records h| Data citations 
+| 352      | 6,604,345          | 5,791          
+|==================================================== 
 
 
 === What data could the company publish through GBIF?
