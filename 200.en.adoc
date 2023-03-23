@@ -122,8 +122,9 @@ h| Company                                                                      
 .Grand Totals
 |==================================================== 
 h| Datasets h| Occurrence records h| Data citations 
-| 357      | 6,612,970          | 5,950          
+| 370      | 8,541,296          | 5,987          
 |==================================================== 
+
 
 
 === What data could the company publish through GBIF?
