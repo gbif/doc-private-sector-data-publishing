@@ -57,7 +57,7 @@ Sep 2022: 7,789,180
 
 [[table-01]]
 [caption="Table 1. "]
-.Private-sector companies that publish their data through GBIF (as of June 2023)
+.Private-sector companies that publish their data through GBIF (as of August 2023)
 |=============================================================================================================================================================================================================================================================================================== 
 h| Company                                                                                                                                                     h| Activity sector  h| Country                                              h| Datasets h| Occurrence records h| Data citations 
 | https://www.gbif.org/publisher/ca11748e-a30a-4252-930f-bdb017e942c5[AGBAR]                                                                                  | Consulting       | Spain                                                | 1        | 103,424            | 42             
