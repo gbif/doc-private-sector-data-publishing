@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2023-08-04 10:41+0000\n"
+"POT-Creation-Date: 2023-08-11 12:15+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -504,315 +504,26 @@ msgid ""
 "2023)"
 msgstr ""
 
-#. type: Table
-#: 200.en.adoc:125
-#, no-wrap
-msgid ""
-"h| Company                                                                                                                                                     "
-"h| Activity sector  h| Country                                              "
-"h| Datasets h| Occurrence records h| Data citations \n"
-"| https://www.gbif.org/publisher/ca11748e-a30a-4252-930f-bdb017e942c5[AGBAR]                                                                                  "
-"| Consulting       | Spain                                                | "
-"1        | 103,424            | 42             \n"
-"| https://www.gbif.org/publisher/f2429cd1-4d45-475c-852a-892024cb4aba[ARC - "
-"Arctic Research and Consulting DA]                                                "
-"| Consulting       | Norway                                               | "
-"1        | 8,914              | 60             \n"
-"| https://www.gbif.org/publisher/6d1beb45-43bc-499a-85a0-f06f67e81591[Aguas "
-"de Bogotá S.A. E.S.P.]                                                            "
-"| Utilities        | Colombia                                             | "
-"1        | 13,280             | 63             \n"
-"| "
-"https://www.gbif.org/publisher/620e3d31-d433-4154-9cf6-232a6a6b5e3f[Akvaplan-niva]                                                                          "
-"| Consulting       | Norway                                               | "
-"3        | 594                | 13             \n"
-"| "
-"https://www.gbif.org/publisher/b5904aaf-02c7-4ff3-85a6-0f528dbb632e[Anadarko "
-"Colombia Company]                                                              "
-"| Energy           | Colombia                                             | "
-"7        | 1,178              | 41             \n"
-"| "
-"https://www.gbif.org/publisher/df604473-66f0-444d-94c4-22795f268afe[AngloGold "
-"Ashanti Colombia S.A.S]                                                       "
-"| Materials        | Colombia                                             | "
-"5        | 87,020             | 113            \n"
-"| https://www.gbif.org/publisher/612c9b58-e739-4af4-a038-4b3901fa5649[Asplan "
-"Viak AS]                                                                         "
-"| Engineering      | Norway                                               | "
-"14       | 3,775              | 349            \n"
-"| https://www.gbif.org/publisher/e62a5313-e771-4c81-b6d1-cba6e4085635[Aures "
-"Bajo]                                                                             "
-"| Energy           | Colombia                                             | "
-"2        | 368                | 22             \n"
-"| https://www.gbif.org/publisher/83500190-21b6-445c-ab2c-c0565fc0afce[Awake "
-"Travel]                                                                           "
-"| Consulting       | Colombia                                             | "
-"1        | 8,644              | 9              \n"
-"| https://www.gbif.org/publisher/eea64f26-8fd5-49fb-be7e-a1d4cfc051ee[Aïgos "
-"SAS]                                                                              "
-"| Consulting       | Colombia                                             | "
-"3        | 2,404              | 37             \n"
-"| "
-"https://www.gbif.org/publisher/b2c1126d-e3b4-4619-9f94-b236dcc0a947[Biofokus]                                                                               "
-"| Consulting       | Norway                                               | "
-"1        | 605,695            | 927            \n"
-"| https://www.gbif.org/publisher/a41046bd-eaca-49bf-919b-419062ffc2a2[Biolog "
-"J.B. Jordal AS]                                                                  "
-"| Consulting       | Norway                                               | "
-"1        | 177,814            | 550            \n"
-"| "
-"https://www.gbif.org/publisher/8e6bc843-c1b4-4b10-b546-881f06049004[Biotica "
-"Consultores Ltda]                                                               "
-"| Consulting       | Colombia                                             | "
-"4        | 1,318              | 143            \n"
-"| "
-"https://www.gbif.org/publisher/14fb9c57-68a5-4870-b434-5355df7a9c3c[Carbones "
-"del Cerrejón Limited]                                                          "
-"| Materials        | Colombia                                             | "
-"9        | 197,100            | 178            \n"
-"| https://www.gbif.org/publisher/4d14137b-ce2c-4111-98a9-0078f5d53237[Carsa "
-"Gold S.A.S]                                                                       "
-"| Mining           | Colombia                                             | "
-"1        | 4,159              | 37             \n"
-"| https://www.gbif.org/publisher/0fd86a13-3d0d-4d6e-b809-2811706f35d6[Celsia "
-"Colombia S.A. E.S.P.]                                                            "
-"| Energy           | Colombia                                             | "
-"5        | 2,290              | 45             \n"
-"| "
-"https://www.gbif.org/publisher/bbf93124-1cc2-4cac-a101-b4412dd04e2a[Central "
-"Hidroeléctrica de Caldas S.A E.S.P]                                             "
-"| Energy           | Colombia                                             | "
-"1        | 1,137              | 23             \n"
-"| https://www.gbif.org/publisher/1a4f4e64-eb3d-42c3-a359-1be3869b3a20[Cerro "
-"Matoso S.A]                                                                       "
-"| Materials        | Colombia                                             | "
-"3        | 19,309             | 131            \n"
-"| "
-"https://www.gbif.org/publisher/d49251f5-379f-43b4-b747-9d8240334fa5[Chevron "
-"Australia]                                                                      "
-"| Energy           | Australia                                            | "
-"1        | 2,048              | 53             \n"
-"| "
-"https://www.gbif.org/publisher/03a8bc52-9c2e-4aee-8dd7-9b4d279e4960[Compensation "
-"International Progress S.A. -Ciprogress Greenlife-]                        | "
-"Industrials      | Colombia                                             | 1        "
-"| 820                | 51             \n"
-"| "
-"https://www.gbif.org/publisher/db41c5c6-d34a-4d27-8ac9-0c8d085393f7[Concesión "
-"La Pintada S.A.S]                                                             "
-"| Industrials      | Colombia                                             | "
-"2        | 0                  | 0              \n"
-"| "
-"https://www.gbif.org/publisher/d3c29fed-bcac-4f84-8d3d-f4b7f76fdc8e[Construcciones "
-"y Ambiente Conambiente S.A.S]                                            | "
-"Consulting       | Colombia                                             | 3        "
-"| 273                | 43             \n"
-"| "
-"https://www.gbif.org/publisher/c5245889-c63d-48fa-ae4b-90ddd74f1d2d[Cunaguaro "
-"Consultores LTDA]                                                             "
-"| Consulting       | Colombia                                             | "
-"1        | 657                | 34             \n"
-"| https://www.gbif.org/publisher/efc5d3c7-2fec-42dd-85de-078a73973bd1[DNV]                                                                                    "
-"| Energy           | Norway                                               | "
-"1        | 2,372,473          | 51             \n"
-"| https://www.gbif.org/publisher/e5150835-f502-424c-b470-24dd496b1b18[EDP - "
-"Energias de Portugal]                                                             "
-"| Energy           | Portugal                                             | "
-"106      | 1,831,557          | 349            \n"
-"| https://www.gbif.org/publisher/76c3443b-bf10-4fb6-a6e7-aeaa65be383c[ENGIE]                                                                                  "
-"| Energy           | France                                               | "
-"5        | 13,888             | 0              \n"
-"| "
-"https://www.gbif.org/publisher/fac91b96-c087-460f-ab01-b808f341c2f5[Ecofact]                                                                                "
-"| Consulting       | Norway                                               | "
-"3        | 12,508             | 382            \n"
-"| "
-"https://www.gbif.org/publisher/3ca2ab24-7f53-458e-b4ad-6e88ea6d9628[Econativa "
-"Consultores SpA]                                                              "
-"| Consulting       | Chile                                                | "
-"1        | 3                  | 7              \n"
-"| "
-"https://www.gbif.org/publisher/d5ef14a1-5177-4547-9ce2-46d84a4214eb[Ecopetrol "
-"S.A.]                                                                         "
-"| Energy           | Colombia                                             | "
-"45       | 397,693            | 90             \n"
-"| "
-"https://www.gbif.org/publisher/d42b7e5d-a3e5-4fc2-8b3d-105336d70898[Empresas "
-"Públicas de Medellín E.S.P.]                                                   "
-"| Energy           | Colombia                                             | "
-"39       | 2,151,219          | 113            \n"
-"| https://www.gbif.org/publisher/f442f96e-2017-4cf5-b19f-1f3320ae7577[Enel "
-"Colombia]                                                                          "
-"| Energy           | Colombia                                             | "
-"11       | 29,101             | 30             \n"
-"| "
-"https://www.gbif.org/publisher/51818adb-2745-4201-9397-6d6dc433954f[Equinor]                                                                                "
-"| Energy           | Norway                                               | "
-"1        | 1,017              | 1              \n"
-"| https://www.gbif.org/publisher/d98d7029-8cb7-44c2-88af-52988adc3a62[Faun "
-"Naturforvaltning AS]                                                               "
-"| Consulting       | Norway                                               | "
-"1        | 3,788              | 344            \n"
-"| "
-"https://www.gbif.org/publisher/37c1c493-782c-4f53-914d-b1f66cdcf61c[Federación "
-"Nacional de Cacaoteros]                                                      "
-"| Agriculture      | Colombia                                             | "
-"1        | 17                 | 12             \n"
-"| "
-"https://www.gbif.org/publisher/fe602f47-b553-4291-b6e5-197b9837e167[Federación "
-"Nacional de Cafeteros de Colombia]                                           "
-"| Agriculture      | Colombia                                             | "
-"6        | 26,804             | 343            \n"
-"| https://www.gbif.org/publisher/2977895d-3ce2-4fb9-b62e-a775c8fd9304[Grupo "
-"Energía Bogotá]                                                                   "
-"| Energy           | Colombia                                             | "
-"1        | 61,111             | 99             \n"
-"| https://www.gbif.org/publisher/946b9adc-5ec0-4d76-a143-8bd43444415f[HBH "
-"Projekt spol. s r.o.,Kabátnikova 5,  602 00 Brno,ČR – organizačná zložka "
-"Slovensko] | Engineering      | Slovakia                                             "
-"| 2        | 204                | 4              \n"
-"| "
-"https://www.gbif.org/publisher/90d2e455-c279-4bf1-ba87-806495641e18[Hatovial "
-"S.A.S]                                                                         "
-"| Engineering      | Colombia                                             | "
-"1        | 1,898              | 118            \n"
-"| https://www.gbif.org/publisher/67c63221-0c74-4c18-97f9-e2b2acb739ce[INERCO "
-"Consultoría Colombia]                                                            "
-"| Consulting       | Colombia                                             | "
-"1        | 1,090              | 132            \n"
-"| https://www.gbif.org/publisher/04ce62dd-30ec-4d98-8b30-b09cafc3ac38[Isagen "
-"S.A. E.S.P.]                                                                     "
-"| Energy           | Colombia                                             | "
-"12       | 41,665             | 285            \n"
-"| "
-"https://www.gbif.org/publisher/2d7ea901-0128-4a7a-8207-425020c1fd99[LafargeHolcim "
-"Spain]                                                                    | "
-"Mining           | Spain                                                | 2        "
-"| 35                 | 30             \n"
-"| https://www.gbif.org/publisher/b1670923-c90b-4420-be96-1db600ed2109[Lake "
-"Tanganyika Floating Health Clinic]                                                 "
-"| Health Care      | Congo, Democratic Republic of the                    | "
-"1        | 132                | 4              \n"
-"| "
-"https://www.gbif.org/publisher/54eb018e-54d8-49cc-b98b-37733bb70028[Mineros "
-"Aluvial S.A.S. BIC]                                                             "
-"| Mining           | Colombia                                             | "
-"1        | 7,307              | 15             \n"
-"| https://www.gbif.org/publisher/9a21807b-b9c5-4071-b393-764f3cd58abc[Moam "
-"Monitoreos Ambientales S.A.S]                                                      "
-"| Consulting       | Colombia                                             | "
-"1        | 1,781              | 45             \n"
-"| "
-"https://www.gbif.org/dataset/d0a90634-21fb-4c76-9081-98bf3930ad7c[Monitoramento "
-"fauna e flora Mineração Vale Verde do Brasil Ltda.]                         "
-"| Materials        | Brazil                                               | "
-"1        | 299                | 88             \n"
-"| "
-"https://www.gbif.org/publisher/359ba517-ca03-46dd-9583-d2be73085c2f[Multiconsult]                                                                           "
-"| Consulting       | Norway                                               | "
-"1        | 308                | 133            \n"
-"| https://www.gbif.org/publisher/a1648ebf-7363-4c27-beb0-23271087220f[NNI "
-"Resources AS]                                                                       "
-"| Consulting       | Norway                                               | "
-"2        | 3,116              | 84             \n"
-"| "
-"https://www.gbif.org/publisher/99c6eaae-f15b-4656-a600-d0c50044962e[NaturRestaurering "
-"AS]                                                                   | "
-"Consulting       | Norway                                               | 8        "
-"| 16,024             | 212            \n"
-"| https://www.gbif.org/dataset/72e23311-b65a-46d0-bc07-ff0a251b47e1[Nature "
-"monitoring data, Amphi Consult and Biomedia, Denmark]                              "
-"| Consulting       | Denmark                                              | "
-"1        | 47,254             | 1              \n"
-"| "
-"https://www.gbif.org/publisher/52bd9c22-340b-480d-b414-73db37cd9379[Navantia, "
-"S.A.]                                                                         "
-"| Industrials      | Spain                                                | "
-"6        | 823                | 18             \n"
-"| "
-"https://www.gbif.org/publisher/4e8fae15-2ca7-4493-8c57-573194d29c0f[Nocturne "
-"Environmental Surveyors Ltd]                                                   "
-"| Consulting       | United Kingdom of Great Britain and Northern Ireland | "
-"1        | 32                 | 16             \n"
-"| "
-"https://www.gbif.org/publisher/c3da1f49-b2c8-4751-b72f-28855546ec4c[Oleoducto "
-"Bicentenario]                                                                 "
-"| Energy           | Colombia                                             | "
-"11       | 4,161              | 211            \n"
-"| https://www.gbif.org/publisher/dbc07e15-c05b-4781-9ec3-59d331a9a4d8[Parex "
-"Resources Colombia - AG Sucursal]                                                 "
-"| Energy           | Colombia                                             | "
-"8        | 41,581             | 4              \n"
-"| https://www.gbif.org/publisher/9a408a2b-6bbb-4c95-80d9-0dce1fba1c00[Pierre "
-"Fabre]                                                                           "
-"| Consumer Staples | France                                               | "
-"20       | 4,049              | 112            \n"
-"| "
-"https://www.gbif.org/publisher/dbc2ab56-d499-403c-8db5-c1a49cd0b75f[Promigas "
-"S.A E.S.P]                                                                     "
-"| Energy           | Colombia                                             | "
-"12       | 180,848            | 216            \n"
-"| "
-"https://www.gbif.org/publisher/815809f1-e6e6-44df-b3fd-b17a9d87eada[Regelink "
-"Ecology & Landscape]                                                           "
-"| Consulting       | Netherlands                                          | "
-"1        | 157,976            | 96             \n"
-"| "
-"https://www.gbif.org/publisher/80e15a76-70e8-417d-9111-b2e9e0dd8f18[Rådgivende "
-"Biologer]                                                                    "
-"| Consulting       | Norway                                               | "
-"5        | 15,214             | 323            \n"
-"| https://www.gbif.org/publisher/c4444b2c-6b07-40c2-8474-6556a195cd40[SWECO "
-"Norge AS]                                                                         "
-"| Engineering      | Norway                                               | "
-"1        | 1,139              | 327            \n"
-"| "
-"https://www.gbif.org/publisher/2c542862-b9dd-40fc-8260-fb434997efa7[Stratos "
-"Consultoría Geológica]                                                          "
-"| Consulting       | Colombia                                             | "
-"2        | 1,084              | 25             \n"
-"| "
-"https://www.gbif.org/publisher/f5db868f-e5bf-4208-bd9d-d4063ae1c825[TERRASOS]                                                                               "
-"| Consulting       | Colombia                                             | "
-"9        | 24,817             | 201            \n"
-"| "
-"https://www.gbif.org/publisher/728e3362-3063-4a43-a6cf-71d61b50025b[TotalEnergies]                                                                          "
-"| Energy           | France                                               | "
-"14       | 22,232             | 89             \n"
-"| https://www.gbif.org/publisher/04a12c74-4b26-4994-a51a-8b733a57318b[Veolia "
-"Colombia]                                                                        "
-"| Energy           | Colombia                                             | "
-"2        | 672                | 1              \n"
-msgstr ""
-
 #. type: Named 'caption' AttributeList argument for style 'caption'
-#: 200.en.adoc:129
+#: 200.en.adoc:65
 #, no-wrap
 msgid "Table 2. "
 msgstr ""
 
 #. type: Block title
-#: 200.en.adoc:130
+#: 200.en.adoc:66
 #, no-wrap
 msgid "Grand Totals"
 msgstr ""
 
-#. type: Table
-#: 200.en.adoc:134
-#, no-wrap
-msgid ""
-"h| Datasets h| Occurrence records h| Data citations \n"
-"| 418      | 8,719,141          | 7,575          \n"
-msgstr ""
-
 #. type: Title ===
-#: 200.en.adoc:137
+#: 200.en.adoc:70
 #, no-wrap
 msgid "What data could the company publish through GBIF?"
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:140
+#: 200.en.adoc:73
 msgid ""
 "Companies that carry out environmental impact assessments, impact monitoring "
 "and compensatory measures studies, thereby collect species occurrence and "
@@ -820,7 +531,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:142
+#: 200.en.adoc:75
 msgid ""
 "A lot of these data are collected in regions that lack sampling efforts and "
 "are less known, or have groups of organisms that are underrepresented and "
@@ -829,7 +540,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:144
+#: 200.en.adoc:77
 msgid ""
 "Even data from studies in better-known regions could be of high value as "
 "they allow information gaps to be filled and improve time series "
@@ -840,7 +551,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:146
+#: 200.en.adoc:79
 msgid ""
 "If data includes sensitive information, such as the location of threatened, "
 "sensitive or economically valuable species, it is recommended to apply "
@@ -849,7 +560,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:148
+#: 200.en.adoc:81
 msgid ""
 "Thus, data collected by private companies can be published through GBIF in a "
 "relatively short period, if procedural aspects of publication are completed "
@@ -859,13 +570,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: 200.en.adoc:149
+#: 200.en.adoc:82
 #, no-wrap
 msgid "What does it take for a company to be a data publisher to GBIF?"
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:152
+#: 200.en.adoc:85
 msgid ""
 "The decision to become a publisher of biodiversity data at GBIF would first "
 "come with a decision by the `*company*` management bodies. After that, it is "
@@ -874,7 +585,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:154
+#: 200.en.adoc:87
 msgid ""
 "To guarantee institutional arrangements to ensure that all parties involved "
 "in the process, from management to the partners from information production, "
@@ -882,7 +593,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:155
+#: 200.en.adoc:88
 msgid ""
 "To acknowledge and agree to the "
 "https://www.gbif.org/terms/data-publisher[Data Publisher Agreement^] (the "
@@ -890,14 +601,14 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:156
+#: 200.en.adoc:89
 msgid ""
 "To be aware of the https://www.gbif.org/terms/data-user[Data User "
 "Agreement^], that GBIF data users must agree before using them"
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:157
+#: 200.en.adoc:90
 msgid ""
 "To apply for the institution to register with GBIF as a data publisher and "
 "request the endorsement of the national node. Application for registration "
@@ -906,13 +617,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: 200.en.adoc:158
+#: 200.en.adoc:91
 #, no-wrap
 msgid "Involvement of different parties in the publication process"
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:161
+#: 200.en.adoc:94
 msgid ""
 "Depending on the size of the projects that originated the datasets, it is "
 "possible that the company’s biodiversity data was obtained by hiring other "
@@ -931,32 +642,32 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: 200.en.adoc:162
+#: 200.en.adoc:95
 #, no-wrap
 msgid "How could the proof of concept be developed?"
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:165
+#: 200.en.adoc:98
 msgid ""
 "The proof of concept regarding data publication in GBIF could be developed "
 "involving the following steps:"
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:167
+#: 200.en.adoc:100
 msgid ""
 "Development of the company's internal processes leading to the decision to "
 "publish data on GBIF on an experimental basis."
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:168
+#: 200.en.adoc:101
 msgid "Application for the company’s registration in GBIF as a data publisher."
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:169
+#: 200.en.adoc:102
 msgid ""
 "To build a case study on the company's involvement as a data publisher with "
 "the regional Node, their country and with the international GBIF, in order "
@@ -965,7 +676,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:170
+#: 200.en.adoc:103
 msgid ""
 "Selection of an initial dataset to be published through GBIF, resulting from "
 "studies carried out by the company. This should provide a good "
@@ -975,7 +686,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:171
+#: 200.en.adoc:104
 msgid ""
 "Definition of information type to be published and any restrictions on its "
 "publication, e.g. due to the presence of sensitive species, confidential "
@@ -985,7 +696,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:172
+#: 200.en.adoc:105
 msgid ""
 "Establishment of agreements with data producers (i.e. the institutions and "
 "staff hired by the company to collect data for the purposes of the studies) "
@@ -993,14 +704,14 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:173
+#: 200.en.adoc:106
 msgid ""
 "Formatting of data to be published according to the Darwin Core standard "
 "used by GBIF to prepare databases for publication."
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:174
+#: 200.en.adoc:107
 msgid ""
 "Selection of a http://www.gbif.org/terms/licences[Creative Commons licence^] "
 "for the data to be published, which can be one of the following: CC0, CC-BY, "
@@ -1009,7 +720,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:175
+#: 200.en.adoc:108
 msgid ""
 "Publishing data and metadata for each dataset to the GBIF "
 "portal. Information publishing options will be evaluated, in all cases using "
@@ -1022,7 +733,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:176
+#: 200.en.adoc:109
 msgid ""
 "Monitoring the use of published data for a period of one year after its "
 "publication in GBIF. This will be done through statistics provided to the "
@@ -1033,13 +744,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: 200.en.adoc:177
+#: 200.en.adoc:110
 #, no-wrap
 msgid "What are the costs for `*this company*`?"
 msgstr ""
 
 #. type: Plain text
-#: 200.en.adoc:179
+#: 200.en.adoc:112
 msgid ""
 "Apart from the dedication time provided by `*company*` staff involved in "
 "preparing the proof of concept, there are no additional costs for the "
