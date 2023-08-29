@@ -1,7 +1,7 @@
 
 library(dplyr)
 library(purrr)
-setwd("C:/Users/ftw712/Desktop/doc-private-sector-data-publishing/")
+# setwd("C:/Users/ftw712/Desktop/doc-private-sector-data-publishing/")
 
 ss = readr::read_csv("build-table-script/data/source.tsv") %>% 
 mutate(pd = ifelse(grepl("publisher",link),"publisher","dataset")) %>% 
