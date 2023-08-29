@@ -30,7 +30,7 @@ mutate(type = "publisher")
 pub_mt
 
 # create new machine tags if necessary for publisher
-readr::read_csv("data/source.tsv") %>% 
+readr::read_csv("build-table-script/data/source.tsv") %>% 
 mutate(type = ifelse(grepl("publisher",link),"organization","dataset")) %>% 
 filter(type == "organization") %>%  
 mutate(uuid = gsub("https://www.gbif.org/publisher/","",link)) %>%
@@ -56,7 +56,7 @@ ds_mt = get_mt("privateSector.gbif.org",type="dataset",limit=500) %>%
 mutate(type="dataset")
 
 # create new machine tags if necessary for dataset
-readr::read_csv("data/source.tsv") %>% 
+readr::read_csv("build-table-script/data/source.tsv") %>% 
 mutate(type = ifelse(grepl("publisher",link),"organization","dataset")) %>% 
 filter(type == "dataset") %>%  
 mutate(uuid = gsub("https://www.gbif.org/dataset/","",link)) %>%
