@@ -7,6 +7,11 @@ jobs:
   build:
     runs-on: ubuntu-latest
     name: run R script 
+    
+    env:
+      GBIF_USER: ${{ secrets.GBIF_USER }}
+      GBIF_PWD: ${{ secrets.GBIF_PWD }}
+    
     steps:
       - uses: actions/checkout@v3
       - name: Setup R
