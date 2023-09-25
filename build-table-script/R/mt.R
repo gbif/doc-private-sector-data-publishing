@@ -46,7 +46,7 @@ purrr::map(~ {
 		  print(.x$value)
 gbifmt::create_mt(uuid = .x$uuid,
           namespace = "privateSector.gbif.org",
-          name = "privateSector",
+          name = "sector",
           value = .x$value,
           type = .x$type)
 		  })
@@ -72,7 +72,7 @@ purrr::map(~ {
 		  print(.x$value)
 gbifmt::create_mt(uuid = .x$uuid,
           namespace = "privateSector.gbif.org",
-          name = "privateSector",
+          name = "sector",
           value = .x$value,
           type = .x$type)
 		  })
