@@ -56,16 +56,22 @@ Sep 2022: 7,789,180
 <<table-01,Table 1>> lists the most significant private sector publishers.
 
 [[table-01]]
-[caption="Table 1. "]
-.Private-sector companies that publish their data through GBIF (as of August 2023)
-include::250-private-sector-table.adoc[]
+[%header,cols="4,2,2,>1,>1,>1",format=csv]
+.Private-sector companies that publish their data through GBIF
+|===
+Company,Activity sector,Country,Datasets,Occurrence records,Data citations
 
+include::250-private-sector-table.csv[]
+|===
 
 [[table-02]]
-[caption="Table 2. "]
+[%header,format=csv]
 .Grand Totals
-include::260-private-sector-totals.adoc[]
+|===
+Datasets,Occurrence records,Data citations
 
+include::260-private-sector-totals.csv[]
+|===
 
 === What data could the company publish through GBIF?
 
