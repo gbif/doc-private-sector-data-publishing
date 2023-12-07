@@ -17,6 +17,8 @@
 :revdate: January 2023
 :title-logo-image: img/web/photo.jpg
 :license: https://creativecommons.org/licenses/by-sa/4.0/
+include::countries.en.txt[]
+include::sectors.en.txt[]
 
 ifdef::backend-html5[]
 languageLinks:combined[]

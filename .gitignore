@@ -1,6 +1,8 @@
 .bash_history
 .DS_Store
 .idea
+lunr-index.json
+lunr.log
 *.asis
 *.brotli
 *.html
@@ -10,6 +12,8 @@
 *.??.adoc
 !*.en.adoc
 *.??-??.adoc
+sectors.??.txt
+!sectors.en.txt
 *.mo
 *.icloud
 build.sh
