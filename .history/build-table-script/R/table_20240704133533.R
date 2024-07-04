@@ -66,16 +66,18 @@ mutate(`Occurrence records` = trimws(format(`Occurrence records`, nsmall=0, big.
 mutate(`Data citations` = trimws(format(`Data citations`, nsmall=0, big.mark="\u202F"),which ="left")) %>%
 mutate(`Activity sector` = paste0("{",`Activity sector`,"}")) %>%
 mutate(`Country` = paste0("{",`Country`,"}")) %>%
-write.table(file = "250-private-sector-table.csv", row.names = FALSE, col.names = FALSE, sep = ",", quote = FALSE)
+write.table(file = "250-private-sector-table-test.csv", row.names = FALSE, col.names = FALSE, sep = ",", quote = FALSE)
 
 # totals table 
+
+# save_file_totals = "260-private-sector-totals.adoc"
+
 tt %>% 
 summarise(
 Datasets = sum(Datasets),
 `Occurrence records` = sum(`Occurrence records`), 
 `Data citations` = sum(`Data citations`)
 ) %>%
-mutate(`Datasets` = trimws(format(`Datasets`, nsmall=0, big.mark="\u202F"),which ="left")) %>%
-mutate(`Occurrence records` = trimws(format(`Occurrence records`, nsmall=0, big.mark="\u202F"),which ="left")) %>%
-mutate(`Data citations` = trimws(format(`Data citations`, nsmall=0, big.mark="\u202F"),which ="left")) %>%
-write.table(file = "260-private-sector-totals.csv", row.names = FALSE, col.names = FALSE, sep = ",", quote = FALSE) 
+mutate(`Datasets` = trimws(format(`Datasets`, nsmall=0, big.mark=","),which ="left")) %>%
+mutate(`Occurrence records` = trimws(format(`Occurrence records`, nsmall=0, big.mark=","),which ="left")) %>%
+mutate(`Data citations` = trimws(format(`Data citations`, nsmall=0, big.mark=","),which ="left")) 

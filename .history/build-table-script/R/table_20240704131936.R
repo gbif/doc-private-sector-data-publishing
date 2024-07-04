@@ -54,10 +54,13 @@ merge(gbif_country,by="iso2") %>%
 select(-p_key) %>%
 glimpse()
 
-# combine tables 
+# combine tables and clean up
 tt = rbind(pp,dd) %>% 
 arrange(name) %>%
 select(Company, `Activity sector`,	Country = iso2, Datasets, `Occurrence records`, `Data citations`) 
+
+
+# "https://www.gbif.org/publisher/f2429cd1-4d45-475c-852a-892024cb4aba[ARC - Arctic Research and Consulting DA]",{CONSULTING},{NO},1,8 914,63
 
 # save csv and clean up  
 tt %>%  
@@ -66,16 +69,28 @@ mutate(`Occurrence records` = trimws(format(`Occurrence records`, nsmall=0, big.
 mutate(`Data citations` = trimws(format(`Data citations`, nsmall=0, big.mark="\u202F"),which ="left")) %>%
 mutate(`Activity sector` = paste0("{",`Activity sector`,"}")) %>%
 mutate(`Country` = paste0("{",`Country`,"}")) %>%
-write.table(file = "250-private-sector-table.csv", row.names = FALSE, col.names = FALSE, sep = ",", quote = FALSE)
+write.table(file = "250-private-sector-table-test.csv", row.names = FALSE, col.names = FALSE, sep = ",", quote = FALSE)
 
 # totals table 
-tt %>% 
-summarise(
-Datasets = sum(Datasets),
-`Occurrence records` = sum(`Occurrence records`), 
-`Data citations` = sum(`Data citations`)
-) %>%
-mutate(`Datasets` = trimws(format(`Datasets`, nsmall=0, big.mark="\u202F"),which ="left")) %>%
-mutate(`Occurrence records` = trimws(format(`Occurrence records`, nsmall=0, big.mark="\u202F"),which ="left")) %>%
-mutate(`Data citations` = trimws(format(`Data citations`, nsmall=0, big.mark="\u202F"),which ="left")) %>%
-write.table(file = "260-private-sector-totals.csv", row.names = FALSE, col.names = FALSE, sep = ",", quote = FALSE) 
+tt %>%  
+mutate(`Datasets` = format(`Datasets`, nsmall=0, big.mark=",")) %>%
+# mutate(`Occurrence records` = format(`Occurrence records`, nsmall=0, big.mark=",")) %>%
+# mutate(`Data citations` = format(`Data citations`, nsmall=0, big.mark=",")) %>%
+# ascii::ascii(include.rownames = FALSE, digits = 0)
+# sink()
+
+# totals table
+# save_file_totals = "260-private-sector-totals.adoc"
+
+# sink(file = save_file_totals, type = "output")
+# tt %>% 
+# summarise(
+# Datasets = sum(Datasets),
+# `Occurrence records` = sum(`Occurrence records`), 
+# `Data citations` = sum(`Data citations`)
+# ) %>%
+# mutate(`Datasets` = format(`Datasets`, nsmall=0, big.mark=",")) %>%
+# mutate(`Occurrence records` = format(`Occurrence records`, nsmall=0, big.mark=",")) %>%
+# mutate(`Data citations` = format(`Data citations`, nsmall=0, big.mark=",")) %>%
+# ascii::ascii(include.rownames = FALSE, digits = 0)
+# sink()

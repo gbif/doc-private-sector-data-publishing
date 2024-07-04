@@ -41,7 +41,7 @@ jobs:
       - name: build table 
         run: Rscript build-table-script/R/table.R
         
-      # - name: update machine tags
-        # run: Rscript build-table-script/R/mt.R
+      - name: update machine tags
+        run: Rscript build-table-script/R/mt.R
    
       - uses: stefanzweifel/git-auto-commit-action@v4
