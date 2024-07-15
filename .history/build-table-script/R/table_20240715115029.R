@@ -47,7 +47,7 @@ mutate(`Occurrence records` = map_dbl(key,~
 rgbif::occ_search(datasetKey = .x,occurrenceStatus=NULL,limit=0)$meta$count)) %>%
 mutate(Datasets = 1) %>% 
 mutate(`Data citations` = map_dbl(key,~rgbif::lit_count(datasetKey = .x))) %>%
-mutate(Company = paste0("https://www.gbif.org/dataset/",key,"[",name,"]")) %>% 
+mutate(Company = paste0("(https://www.gbif.org/dataset/",key,")[",name,"]")) %>% 
 mutate(p_key = map_chr(key,~ rgbif::dataset_get(uuid=.x)$publishingOrganizationKey)) %>%
 mutate(iso2 = map_chr(p_key,~rgbif::dataset_search(publishingOrg=.x,limit=1)$data$publishingCountry)) %>%
 merge(gbif_country,by="iso2") %>%
@@ -64,8 +64,8 @@ tt %>%
 mutate(`Datasets` = trimws(format(`Datasets`, nsmall=0, big.mark="\u202F"),which ="left")) %>%
 mutate(`Occurrence records` = trimws(format(`Occurrence records`, nsmall=0, big.mark="\u202F"),which ="left")) %>%
 mutate(`Data citations` = trimws(format(`Data citations`, nsmall=0, big.mark="\u202F"),which ="left")) %>%
-mutate(`Activity sector` = gsub(" ","_",`Activity sector`)) %>%
 mutate(`Activity sector` = paste0("{",`Activity sector`,"}")) %>%
+mutate(`Country` = gsub(" ","_",`Country`)) %>%
 mutate(`Country` = paste0("{",`Country`,"}")) %>%
 write.table(file = "250-private-sector-table.csv", row.names = FALSE, col.names = FALSE, sep = ",", quote = FALSE)
 
