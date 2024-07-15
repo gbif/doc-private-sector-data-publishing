@@ -45,6 +45,7 @@ jobs:
         # run: Rscript build-table-script/R/mt.R
    
       - uses: stefanzweifel/git-auto-commit-action@v4
-        commit_message: "Automatic update of data table"
-        commit_user_name: "GitHub Action"
-        commit_user_email: "gbif-jenkins@users.noreply.github.com"
+        with:
+          commit_message: "Automatic update of data table"
+          commit_user_name: "GitHub Action"
+          commit_user_email: "gbif-jenkins@users.noreply.github.com"
