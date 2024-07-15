@@ -1,7 +1,7 @@
 on:
   push:
   schedule:
-    - cron: '0 0 1 * *' # every month
+    - cron: '53 20 * * 4' # every Thursday
 
 jobs:
   build:
