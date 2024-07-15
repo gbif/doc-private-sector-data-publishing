@@ -2,6 +2,7 @@ on:
   push:
   schedule:
     - cron: '53 20 * * 4' # every Thursday
+  workflow_dispatch:
 
 jobs:
   build:
