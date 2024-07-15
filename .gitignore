@@ -17,3 +17,4 @@ sectors.??.txt
 *.mo
 *.icloud
 build.sh
+.history
