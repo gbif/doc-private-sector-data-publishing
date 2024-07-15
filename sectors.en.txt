@@ -1,0 +1,10 @@
+:AGRICULTURE: Agriculture
+:CONSULTING: Consulting
+:CONSUMER_STAPLES: Consumer Staples
+:ENERGY: Energy
+:ENGINEERING: Engineering
+:HEALTH_CARE: Health Care
+:INDUSTRIALS: Industrials
+:MATERIALS: Materials
+:MINING: Mining
+:UTILITIES: Utilities
