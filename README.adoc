@@ -1,15 +1,22 @@
 https://docs.gbif.org/documentation-guidelines/[image:https://docs.gbif.org/documentation-guidelines/gbif-document-shield.svg[GBIF Document]]
-// DOI badge: If you have a DOI, remove the comment ("// ") from the line below, change "10.EXAMPLE/EXAMPLE" to the DOI in all three places, and remove this line.
-// https://doi.org/10.EXAMPLE/EXAMPLE[image:https://zenodo.org/badge/DOI/10.EXAMPLE/EXAMPLE.svg[doi:10.EXAMPLE/EXAMPLE]]
-// License badge
+https://doi.org/10.35035/doc-b8hq-me03[image:https://zenodo.org/badge/DOI/10.35035/doc-b8hq-me03.svg[doi:10.35035/doc-b8hq-me03]]
 https://creativecommons.org/licenses/by-sa/4.0/[image:https://img.shields.io/badge/License-CC%20BY%2D-SA%204.0-lightgrey.svg[CC BY-SA 4.0]]
-// Build status badge: In the text below, please update "doc-private-sector-data-publishing" to "doc-your-document-name", and remove this line.
 https://builds.gbif.org/job/doc-private-sector-data-publishing/lastBuild/console[image:https://builds.gbif.org/job/doc-private-sector-data-publishing/badge/icon[Build status]]
 
 = GBIF Document Private Sector Data Publishing
 
 _This is information *about* this document's source code.  It is not part of the document._
 
-The document is available as HTML and PDF at https://docs.gbif-uat.org/private-sector-data-publishing/2.0/[Private Sector Data Publishing].
+The document is available as HTML and PDF at https://docs.gbif.org/private-sector-data-publishing/2.0/[Private Sector Data Publishing].
 
 The document is built using AsciiDoc, for guidance on how to make changes or suggestions see the https://docs.gbif.org/documentation-guidelines/[GBIF Documentation Guidelines].
+
+== "Who publishes data" table
+
+The https://docs.gbif.org/private-sector-data-publishing/2.0/en/#who-publishes-data-through-gbif[Who publishes data through GBIF?] table is updated automatically based on information in the GBIF Registry.  Registry editors with the appropriate permission can add machine tags to organizations (https://registry.gbif.org/organization/ca11748e-a30a-4252-930f-bdb017e942c5/machineTag[example]) and datasets (https://registry.gbif.org/dataset/72e23311-b65a-46d0-bc07-ff0a251b47e1/machineTag[example]).
+
+At present, the changes are only put on the https://docs.gbif-uat.org/private-sector-data-publishing/2.0/en/[UAT document], so a release is needed to publish them.
+
+The permission in the Registry to make these changes is the machine tag namespace `privateSector.gbif.org`, available under "Scopes" on a user page (https://registry.gbif.org/user/akristensen[example]).
+
+In case of problems, see what the CSV file looks like in Github (https://github.com/gbif/doc-private-sector-data-publishing/blob/2.0/250-private-sector-table.csv[table], https://github.com/gbif/doc-private-sector-data-publishing/blob/2.0/260-private-sector-totals.csv[totals]) — any warnings or inconsistencies are unlikely to be accepted by AsciiDoctor.
