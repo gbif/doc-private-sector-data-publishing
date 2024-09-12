@@ -27,6 +27,7 @@ glimpse()
 
 gbif_country = rgbif::enumeration_country() %>% select(Country=title,iso2) %>% glimpse()
 
+
 pp = ss %>%
 dplyr::filter(pd == "publisher") %>%
 select(key,`Activity sector`) %>%
@@ -35,9 +36,10 @@ mutate(`Occurrence records` = map_dbl(key,~ rgbif::occ_search(publishingOrg = .x
 mutate(Datasets = map_dbl(key,~rgbif::dataset_search(publishingOrg= .x,limit=0)$meta$count)) %>% 
 mutate(`Data citations` = map_dbl(key,~rgbif::lit_count(publishingOrg = .x))) %>%
 mutate(Company = paste0("https://www.gbif.org/publisher/",key,"[",name,"]")) %>%
-mutate(iso2 = map_chr(key,~rgbif::dataset_search(publishingOrg=.x,limit=1)$data$publishingCountry)) %>%
+mutate(iso2 = map_chr(key,~rgbif::organizations(uuid=.x,limit=1)$data$country)) %>%
 merge(gbif_country,by="iso2") %>%
 glimpse()
+
 
 dd = ss %>% 
 dplyr::filter(pd == "dataset") %>%
@@ -58,6 +60,8 @@ glimpse()
 tt = rbind(pp,dd) %>% 
 arrange(name) %>%
 select(Company, `Activity sector`,	Country = iso2, Datasets, `Occurrence records`, `Data citations`) 
+
+# stop("for debugging stop before writing csv to prevent infitinite github actions loop")
 
 # save csv and clean up  
 tt %>%  
