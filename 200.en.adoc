@@ -45,6 +45,8 @@ To date, GBIF includes more than 60,000 datasets on its portal published by http
 
 The almost complete absence of the business sector is noticeable, which limits access to a vast and important volume of biodiversity data collected by companies around the world. In total, private companies now publish at least 7,789,180 occurrence records, accounting for 0.3 per cent of https://www.gbif.org/occurrence/search[all records published in GBIF^].
 
+(For real-time data on private sector publishers, please refer to https://www.gbif.org/composition/1XtRfS0nTKs8HtRd18Q7ai/businesses-sharing-biodiversity-data-via-gbif[GBIF.org/business].)
+
 ////
 Quarterly totals:
 Oct 2020: 3,426,240
@@ -53,6 +55,7 @@ Jun 2021: 6,428,572
 Sep 2022: 7,789,180
 ////
 
+////
 <<table-01,Table 1>> lists the most significant private sector publishers.
 
 [[table-01]]
@@ -72,6 +75,7 @@ Datasets,Occurrence records,Data citations
 
 include::260-private-sector-totals.csv[]
 |===
+////
 
 === What data could the company publish through GBIF?
 
